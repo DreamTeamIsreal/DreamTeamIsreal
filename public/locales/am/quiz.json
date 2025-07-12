@@ -1,0 +1,75 @@
+{
+  "title": "የግጥሚያ ጥያቄ",
+  "subtitle": "የፖለቲካ እና የማህበራዊ እይታዎችዎን ያሳውቁ",
+  "instructions": "የእርስዎን የፖለቲካ እና የማህበራዊ እይታዎች ለመረዳት እነዚህን ጥያቄዎች ይመልሱ።",
+  "sections": {
+    "political": "የፖለቲካ እይታዎች",
+    "social": "የማህበራዊ እይታዎች",
+    "economic": "የኢኮኖሚ እይታዎች",
+    "security": "የደህንነት እይታዎች"
+  },
+  "questions": {
+    "political": {
+      "democracy": "ዲሞክራሲ ምን ያህል አስፈላጊ ነው?",
+      "governmentRole": "መንግስት ምን ያህል ትልቅ ሚና መጫወት አለበት?",
+      "individualRights": "የግል መብቶች ምን ያህል አስፈላጊ ናቸው?",
+      "nationalUnity": "የብሔራዊ አንድነት ምን ያህል አስፈላጊ ነው?"
+    },
+    "social": {
+      "education": "ትምህርት ምን ያህል አስፈላጊ ነው?",
+      "healthcare": "የጤና እንክብካቤ ምን ያህል አስፈላጊ ነው?",
+      "socialWelfare": "የማህበራዊ ደህንነት ምን ያህል አስፈላጊ ነው?",
+      "culturalDiversity": "የባህል ልዩነት ምን ያህል አስፈላጊ ነው?"
+    },
+    "economic": {
+      "freeMarket": "ነፃ ገበያ ምን ያህል አስፈላጊ ነው?",
+      "regulation": "የመንግስት ቁጥጥር ምን ያህል አስፈላጊ ነው?",
+      "taxation": "ግብር ምን ያህል አስፈላጊ ነው?",
+      "publicServices": "የህዝብ አገልግሎቶች ምን ያህል አስፈላጊ ናቸው?"
+    },
+    "security": {
+      "military": "የጦር ኃይል ምን ያህል አስፈላጊ ነው?",
+      "diplomacy": "የውጭ ጉዳይ ምን ያህል አስፈላጊ ነው?",
+      "intelligence": "የመረጃ ስብሰባ ምን ያህል አስፈላጊ ነው?",
+      "cyberSecurity": "የሳይበር ደህንነት ምን ያህል አስፈላጊ ነው?"
+    }
+  },
+  "answers": {
+    "stronglyDisagree": "በጣም አልስማማም",
+    "disagree": "አልስማማም",
+    "neutral": "ገለልተኛ",
+    "agree": "ስማማለሁ",
+    "stronglyAgree": "በጣም ስማማለሁ"
+  },
+  "actions": {
+    "next": "ቀጣይ",
+    "previous": "የቀድሞ",
+    "submit": "ያስገቡ",
+    "submitting": "እያስገባ...",
+    "saveProgress": "እድገት አስቀምጥ",
+    "saving": "እያሰቀመጠ..."
+  },
+  "progress": {
+    "section": "ክፍል",
+    "of": "ከ",
+    "completed": "ተጠናቅቋል"
+  },
+  "results": {
+    "title": "የግጥሚያ ውጤቶች",
+    "subtitle": "የእርስዎ ውጤቶች እና የሚመጡ እጩዎች",
+    "score": "ውጤት",
+    "matches": "የሚመጡ እጩዎች",
+    "noMatches": "ምንም የሚመጡ እጩዎች የሉም",
+    "viewCandidates": "እጩዎችን ይመልከቱ",
+    "retakeQuiz": "ጥያቄውን እንደገና ይያዙ"
+  },
+  "validation": {
+    "allQuestionsRequired": "ሁሉም ጥያቄዎች መመለስ አለባቸው",
+    "sectionIncomplete": "ይህ ክፍል አልተጠናቀቀም"
+  },
+  "loading": "ጥያቄዎች እያጫወቱ...",
+  "error": {
+    "title": "ስህተት ተከስቷል",
+    "description": "ጥያቄዎችን ለማግኘት አልተቻለም። እባክዎ እንደገና ይሞክሩ።"
+  }
+}

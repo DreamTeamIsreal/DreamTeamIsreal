@@ -1,0 +1,21 @@
+{
+    "forMinister": "مرشح للوزارة",
+    "forCommittee": "مرشح للجنة",
+    "experience": "الخبرة",
+    "supporters": "الداعمون",
+    "rating": "التقييم",
+    "match": "المطابقة",
+    "viewProfile": "عرض الملف الشخصي",
+    "fullRanking": "التصنيف الكامل",
+    "experienceEducation": "15 عامًا من الخبرة في التعليم",
+    "experienceHealth": "20 عامًا في الطب",
+    "experienceJustice": "12 عامًا في القانون",
+    "experienceTransport": "18 عامًا في النقل",
+    "experienceKnesset": "10 سنوات من الخبرة البرلمانية",
+    "experienceEconomy": "14 سنة في الاقتصاد",
+    "plans": {
+        "fiveYearTitle": "خطة خمسية",
+        "vision2048Title": "رؤية 2048",
+        "yearlyTitle": "خطة سنوية"
+    }
+}

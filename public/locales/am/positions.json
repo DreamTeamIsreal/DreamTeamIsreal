@@ -1,0 +1,23 @@
+{
+  "pm": "ጠቅላይ ሚኒስትር",
+  "defense": "መከላከያ",
+  "finance": "ገንዘብ",
+  "education": "ትምህርት",
+  "health": "ጤና",
+  "transport": "ትራንስፖርት",
+  "justice": "ፍትህ",
+  "housing": "መኖሪያ ቤት",
+  "environment": "አካባቢ ጥበቃ",
+  "culture": "ባህልና ስፖርት",
+  "welfare": "ማህበራዊ ደህንነትና አገልግሎቶች",
+  "foreign_affairs": "ውጭ ጉዳይ",
+  "agriculture": "ግብርና",
+  "tourism": "ቱሪዝም",
+  "science_technology": "ሳይንስና ቴክኖሎጂ",
+  "social_affairs": "ማህበራዊ ጉዳዮች",
+  "religious_affairs": "ሃይማኖታዊ ጉዳዮች",
+  "internal_security": "ውስጥ ደህንነት",
+  "immigration_absorption": "ስደት እና ቅበላ",
+  "economy": "ኢኮኖሚ እና ኢንዱስትሪ",
+  "diaspora_affairs": "የውጭ ጉዳይ (Diaspora)"
+}

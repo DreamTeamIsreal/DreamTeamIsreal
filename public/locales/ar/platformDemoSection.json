@@ -1,0 +1,76 @@
+{
+  "heading": {
+    "title": "موقع \"فريق الأحلام\"",
+    "description": "المنصة الرقمية المركزية للاختيار، الإشراف، والمشاركة العامة"
+  },
+  "steps": {
+    "security": {
+      "title": "الأمان والتحقق من الهوية",
+      "description": "تسجيل دخول آمن مع تحقق قوي من الهوية (MFA)",
+      "features": {
+        "feature1": "التحقق مقابل سجل السكان",
+        "feature2": "رمز لمرة واحدة للهاتف المحمول",
+        "feature3": "تشفير متقدم",
+        "feature4": "مشاركة لمرة واحدة فقط"
+      }
+    },
+    "candidates": {
+      "title": "تقديم الترشيح",
+      "description": "ملف تعريف مرشح شفاف مع جميع المعلومات المطلوبة",
+      "features": {
+        "feature1": "موافقة الشرطة وإقرار الذمة المالية",
+        "feature2": "سيرة ذاتية كاملة",
+        "feature3": "خطة خمسية ورؤية 2048",
+        "feature4": "خطة سنوية مفصلة"
+      }
+    },
+    "voting": {
+      "title": "بناء فريق الأحلام",
+      "description": "أداة تفاعلية لاختيار المرشحين مع استبيان المطابقة",
+      "features": {
+        "feature1": "استبيان شامل من 100 سؤال",
+        "feature2": "آلية مطابقة ذكية",
+        "feature3": "مقارنة بين المرشحين",
+        "feature4": "اختيار طابع السلطة المحلية"
+      }
+    },
+    "results": {
+      "title": "عرض البيانات",
+      "description": "عرض فرق الأحلام على خرائط تفاعلية",
+      "features": {
+        "feature1": "فريق المقاطعة والفريق الوطني",
+        "feature2": "خريطة الـ 12 مقاطعة",
+        "feature3": "تحديث في الوقت الفعلي",
+        "feature4": "منتديات نقاش محدودة"
+      }
+    }
+  },
+  "navigationButtons": {
+    "previous": "السابق",
+    "next": "التالي"
+  },
+  "demoInterface": {
+    "title": "واجهة المستخدم",
+    "security": {
+      "item1": "التحقق من الهوية",
+      "item2": "رمز SMS",
+      "item3": "دخول معتمد"
+    },
+    "candidates": {
+      "name": "الاسم: {{name}}",
+      "position": "المنصب: {{position}}",
+      "experience": "الخبرة: {{years}} سنة",
+      "policeApproval": "✓ موافقة الشرطة"
+    },
+    "voting": {
+      "question": "سؤال {{current}}/{{total}}: {{topic}}",
+      "match": "المطابقة: {{percentage}}%",
+      "recommendedCandidate": "المرشح الموصى به: {{name}}"
+    },
+    "results": {
+      "districtParticipation": "مقاطعة تل أبيب: {{percentage}}% مشاركة",
+      "leadingTeam": "الفريق الرائد: تم التحديث",
+      "realtimeUpdate": "التحديث: في الوقت الفعلي"
+    }
+  }
+}

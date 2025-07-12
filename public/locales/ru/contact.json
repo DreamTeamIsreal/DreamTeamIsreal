@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "contactUs": "Связаться с нами",
+    "letsTalk": "Давайте поговорим",
+    "weAreHereForYou": "Мы здесь для вас",
+    "description": "У вас есть вопросы, предложения или вы хотите присоединиться к проекту? Мы будем рады услышать вас и помочь любым возможным способом."
+  },
+  "contactMethods": {
+    "heading": "Способы связи",
+    "subheading": "Выберите наиболее удобный для вас способ",
+    "email": {
+      "title": "Электронная почта",
+      "action": "Отправить письмо"
+    },
+    "phone": {
+      "title": "Телефон",
+      "action": "Позвонить сейчас"
+    },
+    "chat": {
+      "title": "Онлайн-чат",
+      "description": "Доступен 24/7",
+      "action": "Открыть чат"
+    },
+    "address": {
+      "title": "Адрес",
+      "description": "Улица Демократии, 1, Тель-Авив",
+      "action": "Как к нам добраться"
+    }
+  },
+  "form": {
+    "heading": "Отправьте нам сообщение",
+    "subheading": "Заполните форму, и мы свяжемся с вами в ближайшее время",
+    "nameLabel": "Полное имя",
+    "namePlaceholder": "Введите полное имя",
+    "emailLabel": "Электронная почта",
+    "phoneLabel": "Телефон",
+    "typeLabel": "Тип запроса",
+    "typeOptionGeneral": "Общий вопрос",
+    "typeOptionCandidate": "Кандидатура",
+    "typeOptionTechnical": "Техническая поддержка",
+    "typeOptionPress": "Пресса",
+    "typeOptionPartnership": "Партнерство",
+    "subjectLabel": "Тема",
+    "subjectPlaceholder": "Тема сообщения",
+    "messageLabel": "Сообщение",
+    "messagePlaceholder": "Напишите ваше сообщение здесь...",
+    "sendButton": "Отправить сообщение",
+    "submissionSuccessAlert": "Ваше сообщение успешно отправлено! Мы свяжемся с вами в ближайшее время."
+  },
+  "departments": {
+    "heading": "Отделы и сферы ответственности",
+    "subheading": "Свяжитесь напрямую с соответствующим отделом",
+    "generalQuestions": {
+      "title": "Общие вопросы",
+      "description": "Информация о проекте и новой модели"
+    },
+    "technicalSupport": {
+      "title": "Техническая поддержка",
+      "description": "Проблемы с сайтом и платформой"
+    },
+    "candidates": {
+      "title": "Кандидаты",
+      "description": "Вопросы, касающиеся подачи кандидатуры"
+    },
+    "press": {
+      "title": "Пресса",
+      "description": "Запросы СМИ и журналистов"
+    }
+  },
+  "officeHours": {
+    "heading": "Часы работы",
+    "weekdayLabel": "Воскресенье - Четверг",
+    "weekdayHours": "08:00 - 18:00",
+    "fridayLabel": "Пятница",
+    "fridayHours": "08:00 - 13:00",
+    "chatLabel": "Онлайн-чат",
+    "chatHours": "24/7"
+  },
+  "community": {
+    "title": "Присоединяйтесь к сообществу",
+    "description": "Присоединяйтесь к нашему сообществу сторонников и будьте в курсе всех новостей и разработок.",
+    "joinButton": "Присоединиться сейчас"
+  }
+}

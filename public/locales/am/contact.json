@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "contactUs": "ያግኙን",
+    "letsTalk": "እንነጋገር",
+    "weAreHereForYou": "እኛ እዚህ ነን ለእርስዎ",
+    "description": "ጥያቄዎች፣ አስተያየቶች ወይም ፕሮጀክቱን ለመቀላቀል ይፈልጋሉ? እርስዎን ለመስማት እና በተቻለ መጠን ለመርዳት ደስተኞች ነን።"
+  },
+  "contactMethods": {
+    "heading": "የእውቂያ ዘዴዎች",
+    "subheading": "ለእርስዎ በጣም ምቹ የሆነውን መንገድ ይምረጡ",
+    "email": {
+      "title": "ኢሜይል",
+      "action": "ኢሜይል ይላኩ"
+    },
+    "phone": {
+      "title": "ስልክ",
+      "action": "አሁን ይደውሉ"
+    },
+    "chat": {
+      "title": "ቀጥታ ውይይት",
+      "description": "24/7 ይገኛል",
+      "action": "ውይይት ይክፈቱ"
+    },
+    "address": {
+      "title": "አድራሻ",
+      "description": "ዲሞክራሲ ጎዳና 1፣ ቴል አቪቭ",
+      "action": "እኛን ያግኙ"
+    }
+  },
+  "form": {
+    "heading": "መልእክት ይላኩልን",
+    "subheading": "ቅጹን ይሙሉ እና በቅርቡ ወደ እርስዎ እንመለሳለን",
+    "nameLabel": "ሙሉ ስም",
+    "namePlaceholder": "ሙሉ ስም ያስገቡ",
+    "emailLabel": "ኢሜይል",
+    "phoneLabel": "ስልክ",
+    "typeLabel": "የጥያቄ አይነት",
+    "typeOptionGeneral": "አጠቃላይ ጥያቄ",
+    "typeOptionCandidate": "እጩነት",
+    "typeOptionTechnical": "ቴክኒካዊ ድጋፍ",
+    "typeOptionPress": "ፕሬስ",
+    "typeOptionPartnership": "ሽርክና",
+    "subjectLabel": "ርዕስ",
+    "subjectPlaceholder": "የመልእክት ርዕስ",
+    "messageLabel": "መልእክት",
+    "messagePlaceholder": "መልእክትዎን እዚህ ይጻፉ...",
+    "sendButton": "መልእክት ይላኩ",
+    "submissionSuccessAlert": "መልእክትዎ በተሳካ ሁኔታ ተልኳል! በቅርቡ ወደ እርስዎ እንመለሳለን።"
+  },
+  "departments": {
+    "heading": "መምሪያዎች እና ኃላፊነቶች",
+    "subheading": "ቀጥታ ወደ ተዛማጅ ክፍል ያነጋግሩ",
+    "generalQuestions": {
+      "title": "አጠቃላይ ጥያቄዎች",
+      "description": "ስለ ፕሮጀክቱ እና አዲስ ሞዴል መረጃ"
+    },
+    "technicalSupport": {
+      "title": "ቴክኒካዊ ድጋፍ",
+      "description": "በድረ-ገጹ እና በመድረኩ ላይ ያሉ ችግሮች"
+    },
+    "candidates": {
+      "title": "እጩዎች",
+      "description": "ስለ እጩነት ማቅረብ ጥያቄዎች"
+    },
+    "press": {
+      "title": "ፕሬስ",
+      "description": "የሚዲያ እና የጋዜጠኞች ጥያቄዎች"
+    }
+  },
+  "officeHours": {
+    "heading": "የስራ ሰዓታት",
+    "weekdayLabel": "እሑድ - ሐሙስ",
+    "weekdayHours": "08:00 - 18:00",
+    "fridayLabel": "አርብ",
+    "fridayHours": "08:00 - 13:00",
+    "chatLabel": "ቀጥታ ውይይት",
+    "chatHours": "24/7"
+  },
+  "community": {
+    "title": "ማህበረሰቡን ይቀላቀሉ",
+    "description": "የደጋፊዎቻችንን ማህበረሰብ ይቀላቀሉ እና በሁሉም ዜናዎች እና ዝመናዎች ወቅታዊ መረጃ ያግኙ።",
+    "joinButton": "አሁን ይቀላቀሉ"
+  }
+}

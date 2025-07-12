@@ -1,0 +1,38 @@
+{
+  "government": {
+    "q1": "How will you improve the efficiency of public administration?",
+    "q2": "What is the importance of transparency in governance?"
+  },
+  "security": {
+    "q1": "What is the most severe security threat to Israel?",
+    "q2": "How will you strengthen internal security?"
+  },
+  "economy": {
+    "q1": "How will you deal with the rising cost of living?",
+    "q2": "What is the importance of increasing market competition?"
+  },
+  "education": {
+    "q1": "How will you improve the education system?",
+    "q2": "What is the importance of technological education?"
+  },
+  "health": {
+    "q1": "How will you shorten waiting times in the healthcare system?",
+    "q2": "What is the importance of preventive medicine?"
+  },
+  "transport": {
+    "q1": "How will you develop public transportation?",
+    "q2": "What is the importance of green transportation?"
+  },
+  "justice": {
+    "q1": "How will you strengthen the judicial system?",
+    "q2": "What is the importance of judicial independence?"
+  },
+  "housing": {
+    "q1": "How will you solve the housing crisis?",
+    "q2": "What is the importance of public housing construction?"
+  },
+  "environment": {
+    "q1": "How will you protect environmental quality?",
+    "q2": "What is the importance of renewable energy?"
+  }
+}

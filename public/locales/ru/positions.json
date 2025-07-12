@@ -1,0 +1,23 @@
+{
+  "pm": "Премьер-министр",
+  "defense": "Оборона",
+  "finance": "Финансы",
+  "education": "Образование",
+  "health": "Здравоохранение",
+  "transport": "Транспорт",
+  "justice": "Юстиция",
+  "housing": "Жилищное строительство",
+  "environment": "Охрана окружающей среды",
+  "culture": "Культура и спорт",
+  "welfare": "Благосостояние и социальные услуги",
+  "foreign_affairs": "Иностранные дела",
+  "agriculture": "Сельское хозяйство",
+  "tourism": "Туризм",
+  "science_technology": "Наука и технологии",
+  "social_affairs": "Социальные вопросы",
+  "religious_affairs": "Дела религий",
+  "internal_security": "Внутренняя безопасность",
+  "immigration_absorption": "Иммиграция и абсорбция",
+  "economy": "Экономика и промышленность",
+  "diaspora_affairs": "Дела диаспоры"
+}

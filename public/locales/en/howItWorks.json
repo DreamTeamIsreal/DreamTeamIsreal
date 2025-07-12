@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "tag": "How It Works",
+    "titlePart1": "A Simple Process",
+    "titlePart2": "For a New Democracy",
+    "description": "Discover how our platform allows you to directly elect ministers and influence the future of the country in four simple steps.",
+    "startButton": "Start Now"
+  },
+  "timeline": {
+    "title": "Estimated Completion Time",
+    "subtitle": "How long does it take to complete the process?",
+    "step1": {
+      "phase": "Registration",
+      "duration": "5 minutes",
+      "description": "Full identity verification against the population registry and district selection"
+    },
+    "step2": {
+      "phase": "Questionnaire",
+      "duration": "15 minutes",
+      "description": "Answering the 100 questions"
+    },
+    "step3": {
+      "phase": "Review",
+      "duration": "30 minutes",
+      "description": "Reviewing candidates and their plans"
+    },
+    "step4": {
+      "phase": "Selection",
+      "duration": "10 minutes",
+      "description": "Selecting the Dream Team"
+    },
+    "total": "Total: ~60 minutes"
+  },
+  "detailedSteps": {
+    "title": "The Detailed Process",
+    "subtitle": "Every step in full detail",
+    "stepNumber": "Step {{number}}"
+  },
+  "step1": {
+    "title": "Secure Registration",
+    "description": "Full identity verification against the population registry",
+    "detail1": "ID card verification",
+    "detail2": "SMS code to mobile phone",
+    "detail3": "Selection of residential district",
+    "detail4": "Advanced encryption"
+  },
+  "step2": {
+    "title": "Matching Questionnaire",
+    "description": "100 questions to identify political preferences",
+    "detail1": "Questions on security issues",
+    "detail2": "Economic questions",
+    "detail3": "Social questions",
+    "detail4": "Environmental questions"
+  },
+  "step3": {
+    "title": "Candidate Matching",
+    "description": "Smart algorithm for finding suitable candidates",
+    "detail1": "Calculation of matching percentages",
+    "detail2": "Comparison between candidates",
+    "detail3": "Personal recommendations",
+    "detail4": "Ranking by relevance"
+  },
+  "step4": {
+    "title": "Team Selection",
+    "description": "Selecting candidates for each government role",
+    "detail1": "Selection of ministers",
+    "detail2": "Selection of committee representatives",
+    "detail3": "Determining authority character",
+    "detail4": "Saving selections"
+  },
+  "cardGenericText": "Intuitive and user-friendly interface",
+  "features": {
+    "title": "Advanced Features",
+    "subtitle": "What makes our platform special?",
+    "feature1": {
+      "title": "Advanced Security",
+      "description": "Bank-grade encryption and two-factor authentication"
+    },
+    "feature2": {
+      "title": "Full Transparency",
+      "description": "All information about candidates is publicly available"
+    },
+    "feature3": {
+      "title": "Personalized Matching",
+      "description": "Smart algorithm for finding suitable candidates"
+    },
+    "feature4": {
+      "title": "Real-time Updates",
+      "description": "Tracking results and statistics"
+    }
+  },
+  "processFlow": {
+    "title": "Process Flow",
+    "subtitle": "From registration to selecting the Dream Team",
+    "step1": "Registration",
+    "step2": "Questionnaire",
+    "step3": "Matching",
+    "step4": "Selection"
+  },
+  "cta": {
+    "title": "Ready to get started?",
+    "subtitle": "Join thousands of citizens who have already chosen their Dream Team",
+    "startButton": "Start the Process",
+    "faqButton": "Frequently Asked Questions"
+  }
+}

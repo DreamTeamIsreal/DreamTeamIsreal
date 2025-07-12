@@ -1,0 +1,76 @@
+{
+  "heading": {
+    "title": "\"The Dream Team\" Website",
+    "description": "The central digital platform for selection, oversight, and public participation"
+  },
+  "steps": {
+    "security": {
+      "title": "Security and Identity Verification",
+      "description": "Secure login with strong identity verification (MFA)",
+      "features": {
+        "feature1": "Verification against Population Registry",
+        "feature2": "One-time code to mobile phone",
+        "feature3": "Advanced encryption",
+        "feature4": "One-time participation only"
+      }
+    },
+    "candidates": {
+      "title": "Candidate Submission",
+      "description": "Transparent candidate profile with all required information",
+      "features": {
+        "feature1": "Police approval and asset declaration",
+        "feature2": "Full curriculum vitae",
+        "feature3": "Five-year plan and Vision 2048",
+        "feature4": "Detailed annual plan"
+      }
+    },
+    "voting": {
+      "title": "Building the Dream Team",
+      "description": "Interactive tool for selecting candidates with a matching questionnaire",
+      "features": {
+        "feature1": "Comprehensive 100-questionnaire",
+        "feature2": "Smart matching mechanism",
+        "feature3": "Comparison between candidates",
+        "feature4": "Selection of local authority character"
+      }
+    },
+    "results": {
+      "title": "Data Visualization",
+      "description": "Displaying Dream Teams on interactive maps",
+      "features": {
+        "feature1": "District and national team",
+        "feature2": "Map of 12 districts",
+        "feature3": "Real-time update",
+        "feature4": "Limited discussion forums"
+      }
+    }
+  },
+  "navigationButtons": {
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "demoInterface": {
+    "title": "User Interface",
+    "security": {
+      "item1": "Identity verification",
+      "item2": "SMS code",
+      "item3": "Approved login"
+    },
+    "candidates": {
+      "name": "Name: {{name}}",
+      "position": "Position: {{position}}",
+      "experience": "Experience: {{years}} years",
+      "policeApproval": "✓ Police approval"
+    },
+    "voting": {
+      "question": "Question {{current}}/{{total}}: {{topic}}",
+      "match": "Match: {{percentage}}%",
+      "recommendedCandidate": "Recommended Candidate: {{name}}"
+    },
+    "results": {
+      "districtParticipation": "Tel Aviv District: {{percentage}}% participation",
+      "leadingTeam": "Leading Team: Updated",
+      "realtimeUpdate": "Update: Real-time"
+    }
+  }
+}

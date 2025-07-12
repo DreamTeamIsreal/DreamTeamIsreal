@@ -1,0 +1,32 @@
+{
+  "title": "تسجيل المستخدم",
+  "subtitle": "أنشئ حسابك للمشاركة في DreamTeamIsrael",
+  "fields": {
+    "israelId": "رقم الهوية الإسرائيلية",
+    "email": "عنوان البريد الإلكتروني",
+    "mobilePhone": "رقم الهاتف المحمول",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "fullNamePlaceholder": "أدخل اسمك الكامل",
+    "dateOfBirth": "تاريخ الميلاد",
+    "city": "المدينة",
+    "cityPlaceholder": "أدخل مدينتك"
+  },
+  "validation": {
+    "invalidIsraelId": "رقم الهوية الإسرائيلية يجب أن يكون 9 أرقام بالضبط",
+    "invalidEmail": "يرجى إدخال عنوان بريد إلكتروني صحيح",
+    "invalidPhone": "رقم الهاتف يجب أن يكون بالتنسيق 05XXXXXXXX",
+    "passwordTooShort": "كلمة المرور يجب أن تكون 8 أحرف على الأقل",
+    "passwordComplexity": "كلمة المرور يجب أن تحتوي على حرف كبير وحرف صغير ورقم",
+    "passwordsDoNotMatch": "كلمات المرور غير متطابقة",
+    "nameTooShort": "الاسم يجب أن يكون حرفين على الأقل",
+    "invalidAge": "العمر يجب أن يكون بين 18 و 120 سنة",
+    "cityTooShort": "المدينة يجب أن تكون حرفين على الأقل",
+    "passwordRequirements": "كلمة المرور يجب أن تكون 8 أحرف على الأقل وتحتوي على حرف كبير وحرف صغير ورقم"
+  },
+  "submit": "إنشاء الحساب",
+  "submitting": "جاري إنشاء الحساب...",
+  "submittingMock": "جاري التسجيل...",
+  "mockModeIndicator": "وضع المحاكاة: التسجيل يتم في وضع المحاكاة"
+}

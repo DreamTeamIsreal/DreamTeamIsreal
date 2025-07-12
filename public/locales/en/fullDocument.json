@@ -1,0 +1,92 @@
+{
+  "hero": {
+    "tag": "The Full Document",
+    "titlePart1": "Direct Citizen Government",
+    "titlePart2": "Complete Policy Document",
+    "description": "A comprehensive 150-page document detailing the new model for Israeli governance, including 100 questions, practical examples, and a detailed implementation plan.",
+    "downloadButton": "Download the Full Document",
+    "viewOnlineButton": "View Online"
+  },
+  "stats": {
+    "pages": "Pages",
+    "chapters": "Chapters",
+    "questions": "Questions",
+    "examples": "Examples"
+  },
+  "toc": {
+    "title": "Table of Contents",
+    "subtitle": "Overview of the chapters and topics in the document"
+  },
+  "chapter1": {
+    "title": "Introduction and Background",
+    "description": "Presentation of the problems in the current system and the need for change"
+  },
+  "chapter2": {
+    "title": "The New Model",
+    "description": "Full details of the direct election system"
+  },
+  "chapter3": {
+    "title": "The District Structure",
+    "description": "Division of districts and regional representation"
+  },
+  "chapter4": {
+    "title": "Candidate Requirements",
+    "description": "Eligibility criteria and transparency requirements"
+  },
+  "chapter5": {
+    "title": "The Digital Platform",
+    "description": "Technological system and information security"
+  },
+  "chapter6": {
+    "title": "Model Implementation",
+    "description": "Transition phases and timeline"
+  },
+  "chapter7": {
+    "title": "Implications and Results",
+    "description": "Analysis of the model's impact on the political system"
+  },
+  "chapter8": {
+    "title": "Appendices",
+    "description": "100 Questions, examples, and sources"
+  },
+  "highlights": {
+    "title": "Key Highlights",
+    "subtitle": "The most important topics in the document"
+  },
+  "highlight1": {
+    "title": "New Election System",
+    "description": "Full details of the direct election process"
+  },
+  "highlight2": {
+    "title": "District Representation",
+    "description": "Map of the 12 districts and method of representation"
+  },
+  "highlight3": {
+    "title": "Transparency Requirements",
+    "description": "Full list of required documents"
+  },
+  "highlight4": {
+    "title": "The 100 Questions",
+    "description": "The complete questionnaire for selecting candidates"
+  },
+  "sample": {
+    "title": "Sample Excerpt",
+    "subtitle": "From Chapter 2 - The New Model",
+    "sectionTitle": "2.1 Principles of Direct Election",
+    "paragraph1": "The new model is based on the principle of direct election of government ministers by citizens. Unlike the current system, where citizens elect parties and parties appoint ministers, in the new model citizens directly elect the individuals who will form the government.",
+    "paragraph2": "The election process is conducted through a secure digital platform, where every citizen has the right to choose their preferred candidate for each government role. The choice is based on a comprehensive 100-question suitability questionnaire that allows the system to present each citizen with the candidates most suitable to their views and values.",
+    "paragraph3": "Candidates are required to meet strict transparency requirements, including submitting a police clearance, a detailed asset declaration, a conflict of interest document, and a detailed five-year work plan. All information is publicly available on the platform's website.",
+    "notePrefix": "Note:",
+    "noteContent": "This is a condensed sample excerpt. The full document includes comprehensive details of all aspects of the model, practical examples, and implementation scenarios."
+  },
+  "cta": {
+    "title": "Get the Full Document",
+    "subtitle": "Download the full document and read about the new model for Israeli governance",
+    "includesTitle": "The document includes:",
+    "includes1": "Full details of the new model",
+    "includes2": "The complete 100 questions",
+    "includes3": "Practical examples and scenarios",
+    "includes4": "A detailed implementation plan",
+    "downloadButton": "Download Now (PDF, 15MB)"
+  }
+}

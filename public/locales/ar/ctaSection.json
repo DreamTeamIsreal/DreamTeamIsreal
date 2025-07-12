@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "tagline": "حان وقت التغيير",
+    "heading": "ابنِ المستقبل",
+    "description": "انضم إلى الفكرة الثورية التي ستغير وجه السياسة الإسرائيلية إلى الأبد. ابنِ فريق أحلامك اليوم."
+  },
+  "stats": {
+    "ministersLabel": "وزراء منتخبون",
+    "districtsLabel": "دوائر انتخابية",
+    "matchingQuestionsLabel": "أسئلة المطابقة",
+    "knessetCommitteesLabel": "لجان الكنيست"
+  },
+  "buttons": {
+    "buildTeam": "ابنِ فريق أحلامك",
+    "downloadDocument": "حمل الوثيقة الكاملة"
+  },
+  "info": {
+    "interestedTitle": "للمهتمين",
+    "interestedDescription": "تتضمن الوثيقة الكاملة 100 سؤال مفصل، وشرحًا للنموذج السياسي الجديد، وأمثلة للمناقشات العامة.",
+    "readMoreIdea": "اقرأ المزيد عن الفكرة"
+  },
+  "community": {
+    "joinTitle": "انضم إلى المجتمع",
+    "joinDescription": "المنصة ستكون متاحة قريباً. اشترك في التحديثات وكن من أوائل من يجربون التجربة الجديدة.",
+    "emailPlaceholder": "بريدك الإلكتروني",
+    "subscribeButton": "اشترك"
+  }
+}

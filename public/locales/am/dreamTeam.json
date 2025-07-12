@@ -1,0 +1,86 @@
+{
+  "title": "የህልም ቡድን ግንባታ",
+  "subtitle": "ለሚኒስትር እና ኮሚቴ አባልነት የሚያሻዎትን እጩዎች ይምረጡ",
+  "positions": {
+    "ministers": "ሚኒስትሮች",
+    "committees": "ኮሚቴዎች"
+  },
+  "actions": {
+    "createTeam": "ቡድን ይፍጠሩ",
+    "updateTeam": "ቡድን ያዘምኑ",
+    "deleteTeam": "ቡድን ያስወግዱ",
+    "viewTeam": "ቡድን ይመልከቱ",
+    "saving": "እያሰቀመጠ...",
+    "deleting": "እያስወገደ...",
+    "teamCreated": "ቡድን ተፈጥሯል",
+    "teamUpdated": "ቡድን ተዘምኗል",
+    "teamDeleted": "ቡድን ተሰርዟል"
+  },
+  "form": {
+    "teamName": "የቡድን ስም",
+    "teamNamePlaceholder": "የቡድንዎን ስም ያስገቡ",
+    "description": "መግለጫ",
+    "descriptionPlaceholder": "የቡድንዎን መግለጫ ያስገቡ",
+    "selectCandidate": "እጩ ይምረጡ",
+    "noCandidates": "ለዚህ ቦታ እጩዎች የሉም",
+    "searchCandidates": "እጩዎችን ይፈልጉ..."
+  },
+  "validation": {
+    "teamNameRequired": "የቡድን ስም አስፈላጊ ነው",
+    "descriptionRequired": "መግለጫ አስፈላጊ ነው",
+    "atLeastOneCandidate": "ቢያንስ አንድ እጩ መምረጥ አለብዎት"
+  },
+  "teamList": {
+    "title": "የቡድኖች ዝርዝር",
+    "noTeams": "ገና ምንም ቡድን አልተፈጠረም",
+    "createFirstTeam": "የመጀመሪያውን ቡድንዎን ይፍጠሩ"
+  },
+  "teamCard": {
+    "candidates": "እጩዎች",
+    "createdOn": "ተፈጥሯል",
+    "lastUpdated": "ያለፈ ዘመን ተዘምኗል"
+  },
+  "candidateCard": {
+    "viewProfile": "መገለጫ ይመልከቱ",
+    "removeFromTeam": "ከቡድን ያስወግዱ",
+    "experience": "ስራዓተ ሰዓት",
+    "education": "ትምህርት"
+  },
+  "positions": {
+    "primeMinister": "ጠቅላይ ሚኒስትር",
+    "ministerOfDefense": "የመከላከያ ሚኒስትር",
+    "ministerOfFinance": "የገንዘብ ሚኒስትር",
+    "ministerOfEducation": "የትምህርት ሚኒስትር",
+    "ministerOfHealth": "የጤና ሚኒስትር",
+    "ministerOfTransport": "የትራንስፖርት ሚኒስትር",
+    "ministerOfJustice": "የፍትህ ሚኒስትር",
+    "ministerOfHousingAndConstruction": "የቤቶች እና ግንባታ ሚኒስትር",
+    "ministerOfInterior": "የሀገር ውስጥ ጉዳይ ሚኒስትር",
+    "ministerOfForeignAffairs": "የውጭ ጉዳይ ሚኒስትር",
+    "ministerOfEnergy": "የኃይል ሚኒስትር",
+    "ministerOfEnvironmentalProtection": "የአካባቢ ጥበቃ ሚኒስትር",
+    "ministerOfCultureAndSport": "የባህልና ስፖርት ሚኒስትር",
+    "ministerOfAliyahAndIntegration": "የአሊያ እና ውህደት ሚኒስትር",
+    "ministerOfWelfare": "የደህንነት ሚኒስትር",
+    "ministerOfAgriculture": "የግብርና ሚኒስትር",
+    "ministerOfIndustryAndTrade": "የኢንዱስትሪና ንግድ ሚኒስትር",
+    "ministerOfDiaspora": "የዲያስፖራ ሚኒስትር"
+  },
+  "committees": {
+    "knessetCommittee": "የክኔሴት ኮሚቴ",
+    "financeCommittee": "የፋይናንስ ኮሚቴ",
+    "economyCommittee": "የኢኮኖሚ ኮሚቴ",
+    "foreignAffairsAndDefenseCommittee": "የውጭ ጉዳይ እና መከላከያ ኮሚቴ",
+    "interiorAndEnvironmentalProtectionCommittee": "የሀገር ውስጥ እና የአካባቢ ጥበቃ ኮሚቴ",
+    "internalSecurityCommittee": "የውስጥ ደህንነት ኮሚቴ",
+    "specialNationalInfrastructureProjectsAndJewishReligiousServicesCommittee": "ልዩ ብሔራዊ የመሠረተ ልማት ፕሮጀክቶች እና የአይሁድ ሃይማኖታዊ አገልግሎቶች ኮሚቴ",
+    "constitutionLawAndJusticeCommittee": "የህገ መንግስት፣ ህግ እና ፍትህ ኮሚቴ",
+    "aliyahAbsorptionAndDiasporaAffairsCommittee": "የአሊያ፣ ውህደት እና የዲያስፖራ ጉዳዮች ኮሚቴ",
+    "educationCultureAndSportCommittee": "የትምህርት፣ ባህል እና ስፖርት ኮሚቴ",
+    "laborAndWelfareCommittee": "የሰራተኛ እና ደህንነት ኮሚቴ",
+    "healthCommittee": "የጤና ኮሚቴ",
+    "stateControlCommittee": "የመንግስት ቁጥጥር ኮሚቴ",
+    "advancementOfWomenAndGenderEqualityCommittee": "የሴቶች እና የፆታ እኩልነት ደረጃን የማሳደግ ኮሚቴ",
+    "scienceAndTechnologyCommittee": "የሳይንስና ቴክኖሎጂ ኮሚቴ"
+  }
+}

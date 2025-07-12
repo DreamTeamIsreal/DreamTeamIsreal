@@ -1,0 +1,16 @@
+{
+  "home": "Главная",
+  "startNow": "Начать сейчас",
+  "notifications": "Уведомления",
+  "user": "Пользователь",
+  "navigation": {
+    "candidateSubmission": "Подача заявки",
+    "teamBuilder": "Создание команды",
+    "dataVisualization": "Визуализация данных",
+    "candidatesDirectory": "Каталог кандидатов",
+    "matchQuiz": "Опрос соответствия"
+  },
+  "headerTitle": "Команда мечты",
+  "headerSubtitle": "Прямая гражданская платформа",
+  "notificationCount": "{{count}} новых уведомлений"
+}

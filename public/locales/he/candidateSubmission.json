@@ -1,0 +1,184 @@
+{
+  "submissionSuccessAlert": "המועמדות הוגשה בהצלחה! תקבל אישור במייל תוך 24 שעות.",
+  "notRegistered": {
+    "title": "נדרש רישום לפלטפורמה",
+    "description": "כדי להגיש מועמדות, עליך להירשם תחילה לפלטפורמה",
+    "startButton": "התחל רישום"
+  },
+  "mainHeading": {
+    "title": "הגשת מועמדות לתפקיד ציבורי",
+    "description": "מלא את כל הפרטים הנדרשים להגשת המועמדות"
+  },
+  "steps": {
+    "typeOfCandidacy": "סוג מועמדות",
+    "personalDetails": "פרטים אישיים",
+    "requiredDocuments": "מסמכים נדרשים",
+    "workPlans": "תוכניות עבודה",
+    "submissionComplete": "סיום הגשה",
+    "stepNumber": "שלב {{number}}",
+    "matchQuiz": "שאלון התאמה"
+  },
+  "step1": {
+    "title": "בחר סוג מועמדות",
+    "description": "לאיזה תפקיד ברצונך להגיש מועמדות?",
+    "ministerCard": {
+      "title": "מועמדות לשר",
+      "description": "הגש מועמדותך לתפקיד שר במשרדי הממשלה השונים. נדרשות תוכניות עבודה מפורטות וחזון ארוך טווח."
+    },
+    "committeeCard": {
+      "title": "מועמדות לוועדת כנסת",
+      "description": "הגש מועמדותך לנציגות מחוזית באחת מ-15 הוועדות הקבועות בכנסת. ייצוג אזורי וקולות מקומיים."
+    }
+  },
+  "step2": {
+    "title": "פרטים אישיים",
+    "description": "מלא את הפרטים הבסיסיים שלך",
+    "profileImage": {
+      "label": "תמונת פרופיל",
+      "uploadText": "העלה תמונה",
+      "requirements": "תמונה ברורה ומקצועית, JPG/PNG עד 5MB"
+    },
+    "fullName": {
+      "label": "שם מלא",
+      "placeholder": "הזן שם מלא"
+    },
+    "desiredPosition": {
+      "label": "תפקיד מבוקש",
+      "placeholder": "בחר תפקיד"
+    },
+    "desiredCommittee": {
+      "label": "ועדה מבוקשת",
+      "placeholder": "בחר ועדה"
+    },
+    "professionalExperience": {
+      "label": "ניסיון מקצועי",
+      "placeholder": "תאר את הניסיון המקצועי שלך..."
+    },
+    "education": {
+      "label": "השכלה",
+      "placeholder": "תאר את ההשכלה שלך..."
+    },
+    "personalVision": {
+      "label": "חזון אישי ותפיסת עולם",
+      "placeholder": "תאר את החזון והתפיסה שלך..."
+    }
+  },
+  "step3": {
+    "title": "מסמכים נדרשים",
+    "description": "העלה את המסמכים הנדרשים לאימות המועמדות",
+    "documents": {
+      "policeRecord": "אישור משטרתי",
+      "wealthDeclaration": "הצהרת הון",
+      "conflictOfInterest": "מסמך ניגוד עניינים",
+      "cv": "קורות חיים מלאים"
+    },
+    "uploadArea": {
+      "dragDrop": "גרור קובץ או לחץ להעלאה",
+      "fileTypes": "PDF, DOC, DOCX עד 10MB"
+    },
+    "importantNotes": {
+      "title": "הערות חשובות:",
+      "note1": "כל המסמכים חייבים להיות בפורמט PDF או Word",
+      "note2": "המסמכים יהיו זמינים לציבור באתר",
+      "note3": "וודא שכל המידע מדויק ועדכני",
+      "note4": "המסמכים יעברו בדיקה לפני אישור המועמדות"
+    }
+  },
+  "step4": {
+    "ministerTitle": "תוכניות עבודה",
+    "committeeTitle": "חזון ותוכנית",
+    "ministerDescription": "פרט את התוכניות והחזון שלך לתפקיד",
+    "committeeDescription": "תאר את החזון שלך לעבודה בוועדה",
+    "fiveYearPlan": {
+      "label": "תוכנית חומש (5 שנים)",
+      "placeholder": "תאר את התוכנית שלך ל-5 השנים הקרובות..."
+    },
+    "vision2048": {
+      "label": "חזון ארוך טווח (עד 2048)",
+      "placeholder": "תאר את החזון שלך לטווח הארוך..."
+    },
+    "yearlyPlan": {
+      "label": "תוכנית שנתית מפורטת",
+      "placeholder": "תאר את התוכנית המפורטת לשנה הראשונה..."
+    },
+    "committeeWorkPlan": {
+      "label": "חזון ותוכנית עבודה בוועדה",
+      "placeholder": "תאר את החזון והתוכנית שלך לעבודה בוועדה..."
+    },
+    "videoLink": {
+      "label": "קישור לסרטון הצגה (אופציונלי)",
+      "placeholder": "https://youtube.com/watch?v=..."
+    },
+    "customQuestion": {
+      "label": "שאלה נוספת לדיבייט (אופציונלי)",
+      "placeholder": "הוסף שאלה שתרצה ששאר המועמדים יענו עליה..."
+    }
+  },
+  "step5": {
+    "quizTitle": "מלאו את שאלון ההתאמה",
+    "quizDescription": "ענו על שאלות אלו כדי לעזור לנו להבין את השקפותיכם הפוליטיות והחברתיות."
+  },
+  "step6": {
+    "title": "סיום הגשת המועמדות",
+    "summary": {
+      "title": "סיכום הפרטים:",
+      "name": "שם",
+      "candidacyType": "סוג מועמדות",
+      "minister": "שר",
+      "committeeMember": "חבר ועדת כנסת",
+      "position": "תפקיד",
+      "committee": "ועדה",
+      "profileImage": "תמונת פרופיל",
+      "uploaded": "הועלתה",
+      "notUploaded": "לא הועלתה",
+      "documents": "מסמכים",
+      "uploadedCount": "הועלו"
+    },
+    "submissionInfo": {
+      "part1": "לאחר הגשת המועמדות, תקבל אישור במייל תוך 24 שעות. המועמדות תעבור בדיקה ותפורסם באתר לאחר אישור.",
+      "ministerSpecific": " כמו כן, תקבל הודעה כאשר מועמדים אחרים יוסיפו שאלות לדיבייט."
+    },
+    "submitButton": "הגש מועמדות"
+  },
+  "navigation": {
+    "previous": "הקודם",
+    "next": "הבא"
+  },
+  "positions": {
+    "primeMinister": "ראש הממשלה",
+    "ministerOfDefense": "שר הביטחון",
+    "ministerOfFinance": "שר האוצר",
+    "ministerOfEducation": "שר החינוך",
+    "ministerOfHealth": "שר הבריאות",
+    "ministerOfTransport": "שר התחבורה",
+    "ministerOfJustice": "שר המשפטים",
+    "ministerOfHousingAndConstruction": "שר השיכון והבינוי",
+    "ministerOfInterior": "שר הפנים",
+    "ministerOfForeignAffairs": "שר החוץ",
+    "ministerOfEnergy": "שר האנרגיה",
+    "ministerOfEnvironmentalProtection": "שר הגנת הסביבה",
+    "ministerOfCultureAndSport": "שר התרבות והספורט",
+    "ministerOfAliyahAndIntegration": "שר העלייה והקליטה",
+    "ministerOfWelfare": "שר הרווחה",
+    "ministerOfAgriculture": "שר החקלאות",
+    "ministerOfIndustryAndTrade": "שר התעשייה והמסחר",
+    "ministerOfDiaspora": "שר התפוצות"
+  },
+  "committees": {
+    "knessetCommittee": "ועדת הכנסת",
+    "financeCommittee": "ועדת הכספים",
+    "economyCommittee": "ועדת הכלכלה",
+    "foreignAffairsAndDefenseCommittee": "ועדת החוץ והביטחון",
+    "interiorAndEnvironmentalProtectionCommittee": "ועדת הפנים והגנת הסביבה",
+    "internalSecurityCommittee": "ועדת ביטחון הפנים",
+    "specialNationalInfrastructureProjectsAndJewishReligiousServicesCommittee": "ועדת מיזמי תשתית לאומיים מיוחדים ושירותי דת יהודיים",
+    "constitutionLawAndJusticeCommittee": "ועדת החוקה, חוק ומשפט",
+    "aliyahAbsorptionAndDiasporaAffairsCommittee": "ועדת העלייה, הקליטה והתפוצות",
+    "educationCultureAndSportCommittee": "ועדת החינוך, התרבות והספורט",
+    "laborAndWelfareCommittee": "ועדת העבודה והרווחה",
+    "healthCommittee": "ועדת הבריאות",
+    "stateControlCommittee": "הוועדה לענייני ביקורת המדינה",
+    "advancementOfWomenAndGenderEqualityCommittee": "הוועדה לקידום מעמד האישה ולשוויון מגדרי",
+    "scienceAndTechnologyCommittee": "ועדת המדע והטכנולוגיה"
+  }
+}

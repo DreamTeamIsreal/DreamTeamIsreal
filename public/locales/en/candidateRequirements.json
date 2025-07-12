@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "backButton": "Back to Main Page",
+    "title": "Candidate Requirements",
+    "heading": "Candidate Requirements",
+    "description": "All you need to know about the requirements for submitting a candidacy for public office on the platform"
+  },
+  "basicRequirements": {
+    "title": "Basic Requirements",
+    "description": "The basic conditions for submitting a candidacy",
+    "items": {
+      "citizen": "Israeli citizen over 21 years old",
+      "votingRight": "Active voting rights",
+      "noCriminalRecord": "No relevant criminal record",
+      "integrity": "Personal integrity and reliability"
+    }
+  },
+  "requiredDocuments": {
+    "title": "Required Documents",
+    "description": "All documents required for submitting a candidacy",
+    "items": {
+      "policeApproval": "Up-to-date police approval",
+      "assetDeclaration": "Detailed asset declaration",
+      "conflictOfInterest": "Conflict of interest document",
+      "resume": "Full resume"
+    }
+  },
+  "professionalSkills": {
+    "title": "Professional Skills",
+    "description": "Required skills for candidates for senior positions",
+    "items": {
+      "education": "Relevant education for the position",
+      "experience": "Proven professional experience",
+      "understanding": "Understanding of the area of responsibility",
+      "management": "Management and leadership skills"
+    }
+  },
+  "transparencyRequirements": {
+    "title": "Transparency Requirements",
+    "description": "All information required for publication and transparency with the public",
+    "items": {
+      "publishInfo": "Publication of all required information to the public",
+      "accessibility": "Public accessibility",
+      "answerQuestions": "Answering public questions",
+      "meetDeadlines": "Meeting deadlines"
+    }
+  },
+  "positions": {
+    "primeMinister": "Prime Minister",
+    "defenseMinister": "Candidate for Minister of Defense",
+    "financeMinister": "Candidate for Minister of Finance",
+    "educationMinister": "Candidate for Minister of Education",
+    "healthMinister": "Candidate for Minister of Health",
+    "transportationMinister": "Candidate for Minister of Transportation",
+    "justiceMinister": "Candidate for Minister of Justice",
+    "housingMinister": "Candidate for Minister of Housing and Construction",
+    "interiorMinister": "Candidate for Minister of Interior",
+    "foreignMinister": "Candidate for Minister of Foreign Affairs",
+    "energyMinister": "Candidate for Minister of Energy",
+    "environmentMinister": "Candidate for Minister of Environmental Protection",
+    "cultureMinister": "Candidate for Minister of Culture and Sport",
+    "immigrationMinister": "Candidate for Minister of Aliyah and Integration",
+    "welfareMinister": "Candidate for Minister of Welfare",
+    "agricultureMinister": "Candidate for Minister of Agriculture",
+    "industryMinister": "Candidate for Minister of Industry and Trade",
+    "diasporaMinister": "Candidate for Minister of Diaspora"
+  },
+  "committees": {
+    "knessetCommittee": "Candidate for Knesset Committee",
+    "financeCommittee": "Candidate for Finance Committee",
+    "economyCommittee": "Candidate for Economy Committee",
+    "foreignAffairsCommittee": "Candidate for Foreign Affairs and Defense Committee",
+    "interiorCommittee": "Candidate for Interior and Environmental Protection Committee",
+    "internalSecurityCommittee": "Candidate for Internal Security Committee",
+    "infrastructureCommittee": "Candidate for Committee on Special National Infrastructure Projects and Jewish Religious Services",
+    "constitutionCommittee": "Candidate for Constitution, Law and Justice Committee",
+    "immigrationCommittee": "Candidate for Aliyah, Absorption and Diaspora Committee",
+    "educationCommittee": "Candidate for Education, Culture and Sports Committee",
+    "laborCommittee": "Candidate for Labor and Welfare Committee",
+    "healthCommittee": "Candidate for Health Committee",
+    "stateAuditCommittee": "Candidate for State Audit Committee",
+    "womenCommittee": "Candidate for Committee on the Advancement of Women and Gender Equality",
+    "scienceCommittee": "Candidate for Science and Technology Committee"
+  },
+  "districts": {
+    "upperGalilee": "Upper Galilee and Golan District",
+    "lowerGalilee": "Lower Galilee and Valleys District",
+    "haifa": "Haifa and Carmel District",
+    "sharon": "Sharon and Northern Central District",
+    "gushDan": "Gush Dan and Metropolitan District",
+    "bneiBrak": "Bnei Brak and Vicinity District",
+    "westJerusalem": "West Jerusalem District",
+    "settlements": "Haredi Jerusalem and Settlements District",
+    "shfela": "Shephelah and South Central District",
+    "northernNegev": "Northern and Western Negev District",
+    "jordanValley": "Jordan Valley and Desert District",
+    "southernNegev": "Southern Negev and Eilat District"
+  }
+}

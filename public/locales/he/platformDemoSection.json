@@ -1,0 +1,76 @@
+{
+  "heading": {
+    "title": "אתר \"נבחרת החלומות\"",
+    "description": "הפלטפורמה הדיגיטלית המרכזית לבחירה, פיקוח ושיתוף ציבורי"
+  },
+  "steps": {
+    "security": {
+      "title": "אבטחה ואימות זהות",
+      "description": "כניסה מאובטחת עם אימות זהות חזק (MFA)",
+      "features": {
+        "feature1": "אימות מול מרשם האוכלוסין",
+        "feature2": "קוד חד-פעמי לטלפון נייד",
+        "feature3": "הצפנה מתקדמת",
+        "feature4": "השתתפות חד-פעמית בלבד"
+      }
+    },
+    "candidates": {
+      "title": "הגשת מועמדות",
+      "description": "פרופיל מועמד שקוף עם כל המידע הנדרש",
+      "features": {
+        "feature1": "אישור משטרתי והצהרת הון",
+        "feature2": "קורות חיים מלאים",
+        "feature3": "תוכנית חומש וחזון 2048",
+        "feature4": "תוכנית שנתית מפורטת"
+      }
+    },
+    "voting": {
+      "title": "בניית נבחרת החלומות",
+      "description": "כלי אינטראקטיבי לבחירת מועמדים עם שאלון התאמה",
+      "features": {
+        "feature1": "שאלון 100 שאלות מקיף",
+        "feature2": "מנגנון התאמה חכם",
+        "feature3": "השוואה בין מועמדים",
+        "feature4": "בחירת צביון הרשות"
+      }
+    },
+    "results": {
+      "title": "תצוגת נתונים",
+      "description": "הצגת נבחרות החלומות במפות אינטראקטיביות",
+      "features": {
+        "feature1": "נבחרת מחוזית וארצית",
+        "feature2": "מפת 12 המחוזות",
+        "feature3": "עדכון בזמן אמת",
+        "feature4": "פורומים לדיון מוגבל"
+      }
+    }
+  },
+  "navigationButtons": {
+    "previous": "הקודם",
+    "next": "הבא"
+  },
+  "demoInterface": {
+    "title": "ממשק המשתמש",
+    "security": {
+      "item1": "אימות זהות",
+      "item2": "קוד SMS",
+      "item3": "כניסה מאושרת"
+    },
+    "candidates": {
+      "name": "שם: {{name}}",
+      "position": "תפקיד: {{position}}",
+      "experience": "ניסיון: {{years}} שנה",
+      "policeApproval": "✓ אישור משטרתי"
+    },
+    "voting": {
+      "question": "שאלה {{current}}/{{total}}: {{topic}}",
+      "match": "התאמה: {{percentage}}%",
+      "recommendedCandidate": "מועמד מומלץ: {{name}}"
+    },
+    "results": {
+      "districtParticipation": "מחוז תל אביב: {{percentage}}% השתתפות",
+      "leadingTeam": "נבחרת מובילה: עודכנה",
+      "realtimeUpdate": "עדכון: זמן אמת"
+    }
+  }
+}

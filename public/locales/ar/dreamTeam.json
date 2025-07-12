@@ -1,0 +1,86 @@
+{
+  "title": "بناء فريق الأحلام",
+  "subtitle": "اختر المرشحين المفضلين لديك لمناصب الوزراء وأعضاء اللجان",
+  "positions": {
+    "ministers": "الوزراء",
+    "committees": "اللجان"
+  },
+  "actions": {
+    "createTeam": "إنشاء فريق",
+    "updateTeam": "تحديث الفريق",
+    "deleteTeam": "حذف الفريق",
+    "viewTeam": "عرض الفريق",
+    "saving": "جاري الحفظ...",
+    "deleting": "جاري الحذف...",
+    "teamCreated": "تم إنشاء الفريق",
+    "teamUpdated": "تم تحديث الفريق",
+    "teamDeleted": "تم حذف الفريق"
+  },
+  "form": {
+    "teamName": "اسم الفريق",
+    "teamNamePlaceholder": "أدخل اسم فريقك",
+    "description": "الوصف",
+    "descriptionPlaceholder": "أدخل وصف فريقك",
+    "selectCandidate": "اختر مرشحاً",
+    "noCandidates": "لا توجد مرشحين لهذا المنصب",
+    "searchCandidates": "البحث عن مرشحين..."
+  },
+  "validation": {
+    "teamNameRequired": "اسم الفريق مطلوب",
+    "descriptionRequired": "الوصف مطلوب",
+    "atLeastOneCandidate": "يجب اختيار مرشح واحد على الأقل"
+  },
+  "teamList": {
+    "title": "قائمة الفرق",
+    "noTeams": "لم يتم إنشاء أي فرق بعد",
+    "createFirstTeam": "أنشئ فريقك الأول"
+  },
+  "teamCard": {
+    "candidates": "المرشحون",
+    "createdOn": "تم الإنشاء في",
+    "lastUpdated": "آخر تحديث"
+  },
+  "candidateCard": {
+    "viewProfile": "عرض الملف الشخصي",
+    "removeFromTeam": "إزالة من الفريق",
+    "experience": "الخبرة",
+    "education": "التعليم"
+  },
+  "positions": {
+    "primeMinister": "رئيس الوزراء",
+    "ministerOfDefense": "وزير الدفاع",
+    "ministerOfFinance": "وزير المالية",
+    "ministerOfEducation": "وزير التربية والتعليم",
+    "ministerOfHealth": "وزير الصحة",
+    "ministerOfTransport": "وزير النقل",
+    "ministerOfJustice": "وزير العدل",
+    "ministerOfHousingAndConstruction": "وزير الإسكان والبناء",
+    "ministerOfInterior": "وزير الداخلية",
+    "ministerOfForeignAffairs": "وزير الخارجية",
+    "ministerOfEnergy": "وزير الطاقة",
+    "ministerOfEnvironmentalProtection": "وزير حماية البيئة",
+    "ministerOfCultureAndSport": "وزير الثقافة والرياضة",
+    "ministerOfAliyahAndIntegration": "وزير الهجرة والاستيعاب",
+    "ministerOfWelfare": "وزير الرفاه",
+    "ministerOfAgriculture": "وزير الزراعة",
+    "ministerOfIndustryAndTrade": "وزير الصناعة والتجارة",
+    "ministerOfDiaspora": "وزير شؤون الشتات"
+  },
+  "committees": {
+    "knessetCommittee": "لجنة الكنيست",
+    "financeCommittee": "لجنة المالية",
+    "economyCommittee": "لجنة الاقتصاد",
+    "foreignAffairsAndDefenseCommittee": "لجنة الشؤون الخارجية والدفاع",
+    "interiorAndEnvironmentalProtectionCommittee": "لجنة الداخلية وحماية البيئة",
+    "internalSecurityCommittee": "لجنة الأمن الداخلي",
+    "specialNationalInfrastructureProjectsAndJewishReligiousServicesCommittee": "لجنة المشاريع الوطنية الخاصة للبنية التحتية والخدمات الدينية اليهودية",
+    "constitutionLawAndJusticeCommittee": "لجنة الدستور والقانون والعدل",
+    "aliyahAbsorptionAndDiasporaAffairsCommittee": "لجنة الهجرة والاستيعاب وشؤون الشتات",
+    "educationCultureAndSportCommittee": "لجنة التربية والتعليم والثقافة والرياضة",
+    "laborAndWelfareCommittee": "لجنة العمل والرفاه",
+    "healthCommittee": "لجنة الصحة",
+    "stateControlCommittee": "لجنة مراقبة الدولة",
+    "advancementOfWomenAndGenderEqualityCommittee": "لجنة النهوض بوضع المرأة والمساواة الجندرية",
+    "scienceAndTechnologyCommittee": "لجنة العلوم والتكنولوجيا"
+  }
+}

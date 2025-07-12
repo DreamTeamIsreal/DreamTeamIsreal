@@ -1,0 +1,33 @@
+{
+  "heading": {
+    "tagline": "Core Principles",
+    "title": "The Direct Citizen's Government",
+    "description": "The model's purpose is to bridge the growing gaps in Israeli society, resolve social conflicts, and build an efficient, stable, and responsive government that listens to the needs of its citizens."
+  },
+  "principles": {
+    "directMandate": {
+      "title": "Direct Mandate and Participatory Democracy",
+      "description": "Direct connection between the public and government ministries through direct election of ministers"
+    },
+    "professionalism": {
+      "title": "Professionalism and Broad Representation",
+      "description": "Ensuring appointments based on qualifications and broad, not sectoral, interest representation"
+    },
+    "transparency": {
+      "title": "Increased Transparency and Accountability",
+      "description": "Public oversight and objective external evaluation of government performance"
+    },
+    "stability": {
+      "title": "Stability and Coordination",
+      "description": "Creating coordination and authority mechanisms to ensure coherent and stable government functioning"
+    },
+    "integrity": {
+      "title": "Integrity and Purity of Conduct",
+      "description": "Strict requirements for ethical and personal transparency from every candidate and elected official"
+    },
+    "modernGovernance": {
+      "title": "Proactive and Modern Governance",
+      "description": "Future preparedness and investment in technology to improve governance"
+    }
+  }
+}

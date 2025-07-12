@@ -1,0 +1,57 @@
+{
+  "heading": {
+    "title": "በእጩዎች ውስጥ ሙሉ ግልጽነት",
+    "description": "እያንዳንዱ እጩ የህዝብ አገልግሎት ለመስጠት ቅድመ ሁኔታ ሆኖ ዝርዝር እና ግልጽ መረጃ ማቅረብ አለበት።"
+  },
+  "requirements": {
+    "title": "ለእያንዳንዱ እጩ የግልጽነት መስፈርቶች",
+    "policeApproval": {
+      "title": "የፖሊስ ማረጋገጫ",
+      "description": "አግባብነት ያለው የወንጀል ታሪክ አለመኖር"
+    },
+    "assetDeclaration": {
+      "title": "የንብረት መግለጫ",
+      "description": "ዝርዝር፣ ህዝባዊ እና ተደራሽ"
+    },
+    "conflictOfInterest": {
+      "title": "የጥቅም ግጭት",
+      "description": "ዝርዝር እና የተረጋገጠ ሰነድ"
+    },
+    "fiveYearPlan": {
+      "title": "የአምስት ዓመት እቅድ",
+      "description": "እስከ 2048 ድረስ ዝርዝር ስትራቴጂ"
+    },
+    "annualPlan": {
+      "title": "የዓመት እቅድ",
+      "description": "ሊለኩ የሚችሉ ግቦች እና የገንዘብ ምንጮች"
+    },
+    "cv": {
+      "title": "የስራ ልምድ",
+      "description": "ሙሉ ሙያዊ ዳራ"
+    },
+    "importantNote": {
+      "title": "አስፈላጊ ማስታወሻ",
+      "description": "እጩዎች ለእነሱ አስፈላጊ በሆኑ ጉዳዮች ላይ ጥልቅ ውይይትን ለማበረታታት ሌሎች እጩዎች መመለስ ያለባቸውን አንድ ጥያቄ ወደ መጠይቁ ማከል ይችላሉ።"
+    }
+  },
+  "sampleCandidate": {
+    "profileTitle": "የእጩ መገለጫ ምሳሌ",
+    "achievements": {
+      "item1": "5 አዳዲስ ትምህርት ቤቶችን መሰረተ",
+      "item2": "በዳርቻው አካባቢ ውጤቶችን በ30% አሻሽሏል",
+      "item3": "ለሴቶች የ STEM ፕሮግራም አዘጋጀ"
+    },
+    "sections": {
+      "professionalBackground": "ሙያዊ ዳራ",
+      "education": "ትምህርት",
+      "vision": "ራዕይ",
+      "keyAchievements": "ዋና ስኬቶች"
+    },
+    "stats": {
+      "match": "ተዛማጅነት",
+      "supporters": "ደጋፊዎች",
+      "rating": "ደረጃ"
+    },
+    "viewFullPlanButton": "ሙሉ እቅዱን ይመልከቱ"
+  }
+}

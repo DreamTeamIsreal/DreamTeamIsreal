@@ -1,0 +1,5 @@
+{
+  "title": "Select Candidates",
+  "description": "Choose a candidate for each position based on the suitability score",
+  "selectCandidate": "Select candidate {{name}}"
+}

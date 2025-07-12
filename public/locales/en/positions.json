@@ -1,0 +1,23 @@
+{
+  "pm": "Prime Minister",
+  "defense": "Defense",
+  "finance": "Finance",
+  "education": "Education",
+  "health": "Health",
+  "transport": "Transport",
+  "justice": "Justice",
+  "housing": "Housing",
+  "environment": "Environmental Protection",
+  "culture": "Culture and Sport",
+  "welfare": "Welfare and Social Services",
+  "foreign_affairs": "Foreign Affairs",
+  "agriculture": "Agriculture",
+  "tourism": "Tourism",
+  "science_technology": "Science and Technology",
+  "social_affairs": "Social Affairs",
+  "religious_affairs": "Religious Affairs",
+  "internal_security": "Internal Security",
+  "immigration_absorption": "Immigration & Absorption",
+  "economy": "Economy & Industry",
+  "diaspora_affairs": "Diaspora Affairs"
+}

@@ -1,0 +1,120 @@
+{
+  "cta": {
+    "title": "Join Us",
+    "description": "Let's build Israel's democratic future together",
+    "joinPlatform": "Join the Platform",
+    "contactUs": "Contact Us"
+  },
+  "hero": {
+    "title": "About the Project",
+    "heading1": "Democratic Revolution",
+    "heading2": "For a New Israel",
+    "description": "The \"Dream Team\" project is an innovative initiative to change the political system in Israel through direct democracy, full transparency, and governmental professionalism."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description1": "We believe that the current political system in Israel requires fundamental change. Our goal is to create a new model that directly and transparently connects citizens with the government.",
+    "description2": "The project is based on principles of participatory democracy, governmental professionalism, and full accountability to the public.",
+    "description3": "We aim to create an efficient, transparent, and accountable government that will lead Israel to a better future.",
+    "stats": {
+      "ministers": "Maximum Ministers",
+      "districts": "Electoral Districts",
+      "questions": "Matching Questions",
+      "committees": "Knesset Committees"
+    }
+  },
+  "principles": {
+    "title": "Core Principles",
+    "description": "The project is based on four central principles that guide all our activities",
+    "directMandate": {
+      "title": "Direct Mandate and Participatory Democracy",
+      "description": "Direct connection between the public and government ministries through direct election of ministers"
+    },
+    "transparency": {
+      "title": "Increased Transparency and Accountability",
+      "description": "Public oversight and objective external evaluation of government performance"
+    },
+    "professionalism": {
+      "title": "Professionalism and Broad Representation",
+      "description": "Ensuring appointments based on qualifications and broad, not sectoral, interest representation"
+    },
+    "stability": {
+      "title": "Stability and Coordination",
+      "description": "Creating coordination and authority mechanisms to ensure coherent and stable government functioning"
+    },
+    "community": {
+      "title": "Community and Partnership",
+      "description": "Building an active community of citizens involved in the democratic process"
+    },
+    "innovation": {
+      "title": "Technological Innovation",
+      "description": "Utilizing advanced technology to improve the election process and citizen engagement"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "If you have questions or ideas to share, we would love to hear from you. Please contact us via the form below.",
+      "form": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "message": "Message",
+        "sendButton": "Send Message"
+      }
+    },
+    "legal": {
+      "title": "Legal Information",
+      "description": "All legal information related to the \"Dream Team\" project, including terms of service and privacy policy, is available here.",
+      "termsOfService": "Terms of Service",
+      "privacyPolicy": "Privacy Policy",
+      "legalNotice": "Legal Notice"
+    },
+    "securityPrivacy": {
+      "title": "Security and Privacy",
+      "description": "We are committed to protecting the privacy and security of our users' information. All information is securely stored and encrypted."
+    },
+    "technicalSupport": {
+      "title": "Technical Support",
+      "description": "If you encounter technical issues or need assistance using the platform, our support team is here to help.",
+      "contactSupport": "Contact Technical Support"
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "The 'Dream Team' project team is composed of experts in various fields, including policy, technology, and society. We are committed to creating positive change in Israel's political system.",
+    "stateExperts": {
+      "title": "State Experts",
+      "description": "Professors and researchers in political science and law"
+    },
+    "techExperts": {
+      "title": "Technology Developers",
+      "description": "Software engineers and information security experts"
+    },
+    "socialActivists": {
+      "title": "Social Activists",
+      "description": "Community leaders and social change activists"
+    }
+  },
+  "timeline": {
+    "2024": {
+      "title": "Idea Development",
+      "description": "Formulation of the theoretical model and initial research"
+    },
+    "2025": {
+      "title": "Platform Construction",
+      "description": "Development of the website and technological systems"
+    },
+    "2026": {
+      "title": "Initial Pilot",
+      "description": "Limited trial in selected districts"
+    },
+    "2027": {
+      "title": "National Expansion",
+      "description": "Full implementation in all 12 districts"
+    },
+    "2028": {
+      "title": "First Elections",
+      "description": "The first elections according to the new model"
+    },
+    "title": "Timeline",
+    "description": "The plan for developing and implementing the new model"
+  }
+}

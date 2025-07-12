@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "tag": "Privacy Policy",
+    "title": "Privacy Policy",
+    "description": "How we protect your privacy and safeguard personal information",
+    "lastUpdate": "Last updated: January 1, 2025"
+  },
+  "dataCollection": {
+    "title": "What information do we collect?",
+    "subtitle": "The information we collect is necessary only for the operation of the platform",
+    "dataTypes": {
+      "personalInfo": {
+        "title": "Personal Information",
+        "item1": "Full Name",
+        "item2": "ID Number",
+        "item3": "Date of Birth",
+        "item4": "Residential Address"
+      },
+      "contactInfo": {
+        "title": "Contact Details",
+        "item1": "Email Address",
+        "item2": "Phone Number",
+        "item3": "Communication Preferences"
+      },
+      "politicalInfo": {
+        "title": "Political Information",
+        "item1": "Questionnaire Answers",
+        "item2": "Candidate Selections",
+        "item3": "Policy Preferences"
+      },
+      "technicalInfo": {
+        "title": "Technical Information",
+        "item1": "IP Address",
+        "item2": "Browser Type",
+        "item3": "Access Times",
+        "item4": "Website Activity"
+      }
+    }
+  },
+  "howWeUseData": {
+    "title": "How do we use the information?",
+    "purposes": {
+      "title": "Purposes of Use",
+      "platformServices": {
+        "title": "Platform Services",
+        "item1": "User identity verification",
+        "item2": "Candidate suitability calculation",
+        "item3": "Saving user selections",
+        "item4": "Providing personal recommendations"
+      },
+      "serviceImprovement": {
+        "title": "Service Improvement",
+        "item1": "General statistical analysis",
+        "item2": "Improving user experience",
+        "item3": "Developing new features",
+        "item4": "Preventing misuse"
+      }
+    },
+    "privacyCommitment": {
+      "title": "Privacy Commitment",
+      "paragraph": "We will never sell, rent, or transfer your personal information to third parties for commercial purposes. The information is used solely for the operation of the platform."
+    }
+  },
+  "protectionMeasures": {
+    "title": "Protection Measures",
+    "subtitle": "Our advanced security measures",
+    "measures": {
+      "measure1": {
+        "title": "Advanced Encryption",
+        "description": "All information is encrypted at bank-grade level (AES-256)"
+      },
+      "measure2": {
+        "title": "Two-Factor Authentication",
+        "description": "Additional protection for the user account"
+      },
+      "measure3": {
+        "title": "Secure Backups",
+        "description": "Daily backup in protected data centers"
+      },
+      "measure4": {
+        "title": "Security Audit",
+        "description": "Periodic security checks by experts"
+      }
+    }
+  },
+  "userRights": {
+    "title": "Your Rights",
+    "subtitle": "You control your personal information",
+    "yourRightsAsUsers": {
+      "title": "Your Rights as Users"
+    },
+    "rightsList": {
+      "right1": "Right to review personal information",
+      "right2": "Right to correct incorrect information",
+      "right3": "Right to delete information",
+      "right4": "Right to transfer information",
+      "right5": "Right to object to processing",
+      "right6": "Right to restrict processing"
+    },
+    "howToExerciseRights": {
+      "title": "How to Exercise Your Rights?",
+      "platform": {
+        "title": "Through the Platform",
+        "description": "Go to account settings and select the relevant option"
+      },
+      "directContact": {
+        "title": "Direct Contact",
+        "description": "Contact our support team"
+      },
+      "responseTime": {
+        "title": "Response Time",
+        "description": "We will respond to requests within 30 days"
+      }
+    }
+  },
+  "contact": {
+    "title": "Questions about Privacy?",
+    "description": "We are here to answer any questions regarding privacy and data protection",
+    "contactUsButton": "Contact Us"
+  }
+}

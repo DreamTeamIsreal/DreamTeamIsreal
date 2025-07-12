@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "tagline": "የለውጥ ጊዜው አሁን ነው",
+    "heading": "ወደፊቱን ይገንቡ",
+    "description": "የእስራኤልን ፖለቲካ ለዘላለም የሚቀይር አብዮታዊ ሀሳብ ይቀላቀሉ። የህልም ቡድንዎን ዛሬ ይገንቡ።"
+  },
+  "stats": {
+    "ministersLabel": "የተመረጡ ሚኒስትሮች",
+    "districtsLabel": "የምርጫ ወረዳዎች",
+    "matchingQuestionsLabel": "የማዛመጃ ጥያቄዎች",
+    "knessetCommitteesLabel": "የክኔሴት ኮሚቴዎች"
+  },
+  "buttons": {
+    "buildTeam": "የህልም ቡድንዎን ይገንቡ",
+    "downloadDocument": "ሙሉ ሰነዱን ያውርዱ"
+  },
+  "info": {
+    "interestedTitle": "ለሚፈልጉት",
+    "interestedDescription": "ሙሉ ሰነዱ 100 ዝርዝር ጥያቄዎችን፣ የአዲሱን የፖለቲካ ሞዴል ማብራሪያ እና የህዝብ ውይይት ምሳሌዎችን ያካትታል።",
+    "readMoreIdea": "ስለ ሐሳቡ የበለጠ ያንብቡ"
+  },
+  "community": {
+    "joinTitle": "ማህበረሰቡን ይቀላቀሉ",
+    "joinDescription": "መድረኩ በቅርቡ ይገኛል። ለዝማኔዎች ይመዝገቡ እና አዲሱን ተሞክሮ ከሚያገኙት የመጀመሪያዎቹ አንዱ ይሁኑ።",
+    "emailPlaceholder": "ኢሜልዎ",
+    "subscribeButton": "ይመዝገቡ"
+  }
+}

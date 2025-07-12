@@ -1,0 +1,66 @@
+{
+  "backButton": "ተመለስ",
+  "candidate": {
+    "position": "የትምህርት ሚኒስትር እጩ",
+    "experience": "በስልጠና 15 ዓመታት ልምድ",
+    "education": "በሳይንስ ትምህርት ዶክትሬት፣ ቴል አቪቭ ዩኒቨርሲቲ",
+    "vision": "ለወደፊቱ የሚያዘጋጅ የትምህርት ስርዓት",
+    "achievements": {
+      "item1": "5 ፈጠራ ያላቸው ትምህርት ቤቶችን መሰረተ",
+      "item2": "በዳርቻው አካባቢ ውጤቶችን በ30% አሻሽሏል",
+      "item3": "ለሴቶች የ STEM ፕሮግራም አዘጋጀ",
+      "item4": "የ2023 የትምህርት የላቀ ሽልማት አሸነፈ"
+    },
+    "plans": {
+      "fiveYearDescription": "የእስራኤልን የትምህርት ስርዓት ለማሻሻል አጠቃላይ የአምስት ዓመት እቅድ፣ የትምህርት ቴክኖሎጂ ኢንቨስትመንትን፣ የአስተማሪ ስልጠናን እና የመሠረተ ልማት ማሻሻያዎችን ጨምሮ። ግቡ እስራኤልን በትምህርት ስኬቶች በአለም አንደኛ ደረጃ ላይ ማስቀመጥ ነው።",
+      "vision2048Description": "ለእያንዳንዱ ተማሪ ግላዊ የሆነ የትምህርት ስርዓት ለመፍጠር የረጅም ጊዜ ራዕይ፣ አርቲፊሻል ኢንተለጀንስ እና የላቀ ቴክኖሎጂዎችን በማዋሃድ። እስከ 2048 ድረስ እያንዳንዱ ተማሪ ለየት ያለ ችሎታው የተመቻቸ ትምህርት ያገኛል።",
+      "yearlyDescription": "50 አዳዲስ የቴክኖሎጂ ክፍሎችን መገንባት፣ 1000 አስተማሪዎችን በአዳዲስ ቴክኖሎጂዎች ማሰልጠን እና 500 ሚሊዮን ሼቅል በትምህርት መሠረተ ልማት ማሻሻያ ላይ ኢንቨስት ማድረግን የሚያካትት ዓመታዊ እቅድ።"
+    },
+    "customQuestion": "በሳይንስ ትምህርቶች ውስጥ የአስተማሪ እጥረትን እንዴት ይቋቋማሉ?"
+  },
+  "stats": {
+    "support": "ድጋፍ",
+    "votes": "ድምጾች",
+    "rating": "ደረጃ",
+    "supporters": "ደጋፊዎች"
+  },
+  "sections": {
+    "aboutCandidate": "ስለ እጩው",
+    "professionalExperience": "ሙያዊ ልምድ",
+    "education": "ትምህርት",
+    "vision": "ራዕይ",
+    "keyAchievements": "ዋና ስኬቶች",
+    "workPlans": "የስራ እቅዶች",
+    "debateQuestion": "ለክርክር የሚሆን ጥያቄ"
+  },
+  "documents": {
+    "policeApproval": {
+      "type": "የፖሊስ ማረጋገጫ"
+    },
+    "assetDeclaration": {
+      "type": "የንብረት መግለጫ"
+    },
+    "conflictOfInterest": {
+      "type": "የጥቅም ግጭት"
+    },
+    "cv": {
+      "type": "የስራ ልምድ"
+    },
+    "status": {
+      "approved": "የጸደቀ"
+    }
+  },
+  "customQuestion": {
+    "label": "እጩው ያከለው ጥያቄ:"
+  },
+  "sidebar": {
+    "documentsTitle": "ሰነዶች",
+    "videoTitle": "የማስተዋወቂያ ቪዲዮ",
+    "videoDescription": "የእጩውን የማስተዋወቂያ ቪዲዮ ይመልከቱ",
+    "playVideoButton": "ቪዲዮ አጫውት",
+    "contactTitle": "ያግኙን",
+    "supportCandidateTitle": "እጩውን ይደግፉ",
+    "joinSupporters": "{{supporters}} ደጋፊዎችን ይቀላቀሉ",
+    "addSupportButton": "ድጋፍ ያክሉ"
+  }
+}

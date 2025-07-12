@@ -1,0 +1,57 @@
+{
+  "heading": {
+    "title": "שקיפות מלאה במועמדים",
+    "description": "כל מועמד חייב להציג מידע מפורט ושקוף כתנאי סף למילוי תפקיד ציבורי"
+  },
+  "requirements": {
+    "title": "דרישות השקיפות לכל מועמד",
+    "policeApproval": {
+      "title": "אישור משטרתי",
+      "description": "העדר עבר פלילי רלוונטי"
+    },
+    "assetDeclaration": {
+      "title": "הצהרת הון",
+      "description": "מפורטת, פומבית ונגישה"
+    },
+    "conflictOfInterest": {
+      "title": "ניגוד עניינים",
+      "description": "מסמך מפורט ומאושר"
+    },
+    "fiveYearPlan": {
+      "title": "תוכנית חומש",
+      "description": "אסטרטגיה מפורטת עד 2048"
+    },
+    "annualPlan": {
+      "title": "תוכנית שנתית",
+      "description": "יעדים מדידים ומקורות מימון"
+    },
+    "cv": {
+      "title": "קורות חיים",
+      "description": "רקע מקצועי מלא"
+    },
+    "importantNote": {
+      "title": "הערה חשובה",
+      "description": "המועמדים יכולים להוסיף שאלה אחת לשאלון ששאר המועמדים יצטרכו לענות עליה, כדי לעודד דיון מעמיק בנושאים החשובים להם."
+    }
+  },
+  "sampleCandidate": {
+    "profileTitle": "פרופיל מועמד לדוגמה",
+    "achievements": {
+      "item1": "ייסדה 5 בתי ספר חדשניים",
+      "item2": "שיפרה ציונים ב-30% בפריפריה",
+      "item3": "פיתחה תוכנית STEM לבנות"
+    },
+    "sections": {
+      "professionalBackground": "רקע מקצועי",
+      "education": "השכלה",
+      "vision": "חזון",
+      "keyAchievements": "הישגים מרכזיים"
+    },
+    "stats": {
+      "match": "התאמה",
+      "supporters": "תומכים",
+      "rating": "דירוג"
+    },
+    "viewFullPlanButton": "צפה בתוכנית המלאה"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "submissionSuccessAlert": "Ваша кандидатура успешно подана! Подтверждение придет на электронную почту в течение 24 часов.",
+  "notRegistered": {
+    "title": "Требуется регистрация на платформе",
+    "description": "Для подачи кандидатуры сначала зарегистрируйтесь на платформе.",
+    "startButton": "Начать регистрацию"
+  },
+  "mainHeading": {
+    "title": "Подача кандидатуры на государственную должность",
+    "description": "Пожалуйста, заполните все необходимые данные для подачи кандидатуры."
+  },
+  "steps": {
+    "typeOfCandidacy": "Тип кандидатуры",
+    "personalDetails": "Личные данные",
+    "requiredDocuments": "Необходимые документы",
+    "workPlans": "Планы работы",
+    "submissionComplete": "Подача завершена",
+    "stepNumber": "Шаг {{number}}",
+    "matchQuiz": "Опрос на соответствие"
+  },
+  "step1": {
+    "title": "Выберите тип кандидатуры",
+    "description": "На какую должность вы хотите подать заявку?",
+    "ministerCard": {
+      "title": "Кандидат на министра",
+      "description": "Подайте заявку на министерскую должность в различных министерствах правительства. Требуются подробные рабочие планы и долгосрочное видение."
+    },
+    "committeeCard": {
+      "title": "Кандидат в комитет Кнессета",
+      "description": "Подайте заявку на региональное представительство в одном из 15 постоянных комитетов Кнессета. Региональное представительство и местные голоса."
+    }
+  },
+  "step2": {
+    "title": "Личные данные",
+    "description": "Пожалуйста, заполните ваши основные данные",
+    "profileImage": {
+      "label": "Фото профиля",
+      "uploadText": "Загрузить фото",
+      "requirements": "Четкое и профессиональное фото, JPG/PNG до 5MB"
+    },
+    "fullName": {
+      "label": "Полное имя",
+      "placeholder": "Введите полное имя"
+    },
+    "desiredPosition": {
+      "label": "Желаемая должность",
+      "placeholder": "Выберите должность"
+    },
+    "desiredCommittee": {
+      "label": "Желаемый комитет",
+      "placeholder": "Выберите комитет"
+    },
+    "professionalExperience": {
+      "label": "Профессиональный опыт",
+      "placeholder": "Опишите ваш профессиональный опыт..."
+    },
+    "education": {
+      "label": "Образование",
+      "placeholder": "Опишите ваше образование..."
+    },
+    "personalVision": {
+      "label": "Личное видение и взгляды",
+      "placeholder": "Опишите ваше видение и взгляды..."
+    }
+  },
+  "step3": {
+    "title": "Необходимые документы",
+    "description": "Загрузите необходимые документы для подтверждения вашей кандидатуры",
+    "documents": {
+      "policeRecord": "Справка о несудимости",
+      "wealthDeclaration": "Декларация о доходах",
+      "conflictOfInterest": "Документ о конфликте интересов",
+      "cv": "Полное резюме"
+    },
+    "uploadArea": {
+      "dragDrop": "Перетащите файл или нажмите для загрузки",
+      "fileTypes": "PDF, DOC, DOCX до 10MB"
+    },
+    "importantNotes": {
+      "title": "Важные примечания:",
+      "note1": "Все документы должны быть в формате PDF или Word",
+      "note2": "Документы будут доступны для общественности на сайте",
+      "note3": "Убедитесь, что вся информация точна и актуальна",
+      "note4": "Документы будут проверены перед утверждением кандидатуры"
+    }
+  },
+  "step4": {
+    "ministerTitle": "Планы работы",
+    "committeeTitle": "Видение и план",
+    "ministerDescription": "Опишите ваши планы и видение для должности",
+    "committeeDescription": "Опишите ваше видение работы в комитете",
+    "fiveYearPlan": {
+      "label": "Пятилетний план",
+      "placeholder": "Опишите ваш план на ближайшие 5 лет..."
+    },
+    "vision2048": {
+      "label": "Долгосрочное видение (до 2048)",
+      "placeholder": "Опишите ваше долгосрочное видение..."
+    },
+    "yearlyPlan": {
+      "label": "Детальный годовой план",
+      "placeholder": "Опишите ваш подробный план на первый год..."
+    },
+    "committeeWorkPlan": {
+      "label": "Видение и план работы в комитете",
+      "placeholder": "Опишите ваше видение и план работы в комитете..."
+    },
+    "videoLink": {
+      "label": "Ссылка на видео-презентацию (необязательно)",
+      "placeholder": "https://youtube.com/watch?v=..."
+    },
+    "customQuestion": {
+      "label": "Дополнительный вопрос для обсуждения (необязательно)",
+      "placeholder": "Добавьте вопрос, на который вы хотите, чтобы ответили другие кандидаты..."
+    }
+  },
+  "step5": {
+    "quizTitle": "Пройдите опрос на соответствие",
+    "quizDescription": "Ответьте на эти вопросы, чтобы мы могли лучше понять ваши политические и социальные взгляды."
+  },
+  "step6": {
+    "title": "Подача кандидатуры завершена",
+    "summary": {
+      "title": "Сводка данных:",
+      "name": "Имя",
+      "candidacyType": "Тип кандидатуры",
+      "minister": "Министр",
+      "committeeMember": "Член комитета Кнессета",
+      "position": "Должность",
+      "committee": "Комитет",
+      "profileImage": "Фото профиля",
+      "uploaded": "Загружено",
+      "notUploaded": "Не загружено",
+      "documents": "Документы",
+      "uploadedCount": "Загружено"
+    },
+    "submissionInfo": {
+      "part1": "После подачи кандидатуры вы получите подтверждение на электронную почту в течение 24 часов. Кандидатура будет рассмотрена и опубликована на сайте после утверждения.",
+      "ministerSpecific": " Вы также получите уведомление, когда другие кандидаты добавят вопросы для обсуждения."
+    },
+    "submitButton": "Подать кандидатуру"
+  },
+  "navigation": {
+    "previous": "Назад",
+    "next": "Далее"
+  },
+  "positions": {
+    "primeMinister": "Премьер-министр",
+    "ministerOfDefense": "Министр обороны",
+    "ministerOfFinance": "Министр финансов",
+    "ministerOfEducation": "Министр образования",
+    "ministerOfHealth": "Министр здравоохранения",
+    "ministerOfTransport": "Министр транспорта",
+    "ministerOfJustice": "Министр юстиции",
+    "ministerOfHousingAndConstruction": "Министр строительства и жилья",
+    "ministerOfInterior": "Министр внутренних дел",
+    "ministerOfForeignAffairs": "Министр иностранных дел",
+    "ministerOfEnergy": "Министр энергетики",
+    "ministerOfEnvironmentalProtection": "Министр охраны окружающей среды",
+    "ministerOfCultureAndSport": "Министр культуры и спорта",
+    "ministerOfAliyahAndIntegration": "Министр алии и интеграции",
+    "ministerOfWelfare": "Министр социального обеспечения",
+    "ministerOfAgriculture": "Министр сельского хозяйства",
+    "ministerOfIndustryAndTrade": "Министр промышленности и торговли",
+    "ministerOfDiaspora": "Министр по делам диаспоры"
+  },
+  "committees": {
+    "knessetCommittee": "Комитет Кнессета",
+    "financeCommittee": "Финансовый комитет",
+    "economyCommittee": "Экономический комитет",
+    "foreignAffairsAndDefenseCommittee": "Комитет по иностранным делам и обороне",
+    "interiorAndEnvironmentalProtectionCommittee": "Комитет по внутренним делам и охране окружающей среды",
+    "internalSecurityCommittee": "Комитет по внутренней безопасности",
+    "specialNationalInfrastructureProjectsAndJewishReligiousServicesCommittee": "Комитет по специальным национальным инфраструктурным проектам и религиозным услугам",
+    "constitutionLawAndJusticeCommittee": "Комитет по конституции, закону и правосудию",
+    "aliyahAbsorptionAndDiasporaAffairsCommittee": "Комитет по алие, абсорбции и делам диаспоры",
+    "educationCultureAndSportCommittee": "Комитет по образованию, культуре и спорту",
+    "laborAndWelfareCommittee": "Комитет по труду и социальному обеспечению",
+    "healthCommittee": "Комитет по здравоохранению",
+    "stateControlCommittee": "Комитет государственного контроля",
+    "advancementOfWomenAndGenderEqualityCommittee": "Комитет по продвижению женщин и гендерному равенству",
+    "scienceAndTechnologyCommittee": "Комитет по науке и технологиям"
+  }
+}

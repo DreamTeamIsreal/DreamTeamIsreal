@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "tagline": "ثورة ديمقراطية جديدة",
+    "headingPart1": "فريق",
+    "headingPart2": "الأحلام",
+    "description": "اختر وزراءك مباشرة. ابنِ الحكومة التي ستغير إسرائيل."
+  },
+  "benefits": {
+    "directElection": {
+      "title": "الانتخاب المباشر",
+      "description": "اختر الوزراء مباشرة دون الاعتماد على الأحزاب"
+    },
+    "fullTransparency": {
+      "title": "شفافية كاملة",
+      "description": "يكشف كل مرشح جميع المعلومات المطلوبة"
+    },
+    "maximumEfficiency": {
+      "title": "أقصى كفاءة",
+      "description": "حكومة صغيرة ومهنية تصل إلى 18 وزيراً"
+    }
+  },
+  "cta": {
+    "buildTeamButton": "ابنِ فريق أحلامك",
+    "learnMoreButton": "تعرف على المزيد حول النموذج"
+  },
+  "stats": {
+    "ministersLabel": "الحد الأقصى للوزراء",
+    "districtsLabel": "الدوائر الانتخابية",
+    "matchingQuestionsLabel": "أسئلة المطابقة",
+    "knessetCommitteesLabel": "لجان الكنيست"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "backButton": "Back to Home Page",
+  "hero": {
+    "tagline": "Copyright",
+    "title": "Copyright",
+    "description": "Information about copyright, licenses, and platform content usage",
+    "copyrightNotice": "© 2025 Dream Team Ltd. All rights reserved."
+  },
+  "copyrightNoticeSection": {
+    "title": "Copyright Notice",
+    "paragraph1": "All content, design, code, and technology related to the \"Dream Team\" platform are protected by copyright and belong to \"Dream Team Ltd.\".",
+    "paragraph2": "The use, copying, distribution, or modification of any part of the content without explicit written permission is prohibited by law and may lead to legal action."
+  },
+  "protectedContent": {
+    "title": "Protected Content",
+    "categories": {
+      "softwareAndCode": {
+        "title": "Software and Code",
+        "items": [
+          "Platform source code",
+          "Matching algorithms",
+          "Security systems",
+          "User interfaces"
+        ]
+      },
+      "contentAndDesign": {
+        "title": "Content and Design",
+        "items": [
+          "Graphic design and logo",
+          "Texts and content",
+          "Images and icons",
+          "Videos and simulations"
+        ]
+      },
+      "methodology": {
+        "title": "Methodology",
+        "items": [
+          "The matching questionnaire (100 questions)",
+          "Matching calculation methodology",
+          "District structure",
+          "Verification processes"
+        ]
+      },
+      "documents": {
+        "title": "Documents",
+        "items": [
+          "The full document (150 pages)",
+          "User guides",
+          "Policy documents",
+          "Information materials"
+        ]
+      }
+    }
+  },
+  "allowedUsageRights": {
+    "title": "Allowed Usage Rights",
+    "personalUse": {
+      "title": "Personal Use",
+      "items": [
+        "Viewing and using the platform",
+        "Downloading the full document for personal reading",
+        "Sharing links to the website",
+        "Printing for personal use"
+      ]
+    },
+    "academicUse": {
+      "title": "Academic Use",
+      "items": [
+        "Citation with full attribution",
+        "Use in academic research",
+        "Presentation in class (with attribution)",
+        "Academic and pedagogical discussion"
+      ]
+    }
+  },
+  "prohibitedUses": {
+    "title": "Prohibited Uses",
+    "commercialUse": {
+      "title": "Commercial Use",
+      "items": [
+        "Selling or renting the content",
+        "Using in advertisements",
+        "Creating derivative products",
+        "Gaining economic profit from the content"
+      ]
+    },
+    "modificationAndDistribution": {
+      "title": "Modification and Distribution",
+      "items": [
+        "Modifying or editing the content",
+        "Distributing without license",
+        "Copying the source code",
+        "Creating unauthorized copies"
+      ]
+    }
+  },
+  "thirdPartyLicenses": {
+    "title": "Third-Party Licenses",
+    "description": "The platform uses third-party libraries and tools subject to the following licenses:",
+    "licenses": [
+      {
+        "name": "React",
+        "license": "MIT License",
+        "purpose": "JavaScript library for building user interfaces"
+      },
+      {
+        "name": "Tailwind CSS",
+        "license": "MIT License",
+        "purpose": "CSS framework for styling"
+      },
+      {
+        "name": "Lucide React",
+        "license": "ISC License",
+        "purpose": "Icon library"
+      },
+      {
+        "name": "Supabase",
+        "license": "Apache 2.0",
+        "purpose": "Database and authentication"
+      }
+    ]
+  },
+  "dmcaNotice": {
+    "title": "DMCA Notice",
+    "paragraph1": "If you believe that content on the site infringes your copyright, please send a detailed notice including:",
+    "items": [
+      "Identification of the copyrighted work",
+      "Location of the infringing content on the site",
+      "Your contact information",
+      "A statement of good faith",
+      "Physical or electronic signature"
+    ],
+    "emailPrefix": "Send DMCA notices to:",
+    "emailAddress": "dmca@dreamteam.gov.il"
+  },
+  "licenseRequests": {
+    "title": "License Requests",
+    "description": "For license requests for commercial, extended academic, or any other use not covered by the basic usage rights, please contact:",
+    "licensingAndPartnerships": {
+      "title": "Licensing and Partnerships",
+      "email": "licensing@dreamteam.gov.il",
+      "phone": "03-1234567 extension 3"
+    },
+    "responseTime": {
+      "title": "Response Time",
+      "standard": "Up to 10 business days",
+      "urgent": "Urgent requests: 48 hours"
+    }
+  }
+}

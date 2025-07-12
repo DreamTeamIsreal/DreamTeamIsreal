@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "backButton": "العودة إلى الصفحة الرئيسية",
+    "title": "متطلبات المرشحين",
+    "heading": "متطلبات المرشحين",
+    "description": "كل ما تحتاج معرفته عن متطلبات تقديم الترشيح لمنصب عام في المنصة"
+  },
+  "basicRequirements": {
+    "title": "المتطلبات الأساسية",
+    "description": "الشروط الأساسية لتقديم الترشيح",
+    "items": {
+      "citizen": "مواطن إسرائيلي فوق 21 عاماً",
+      "votingRight": "حق التصويت الفعال",
+      "noCriminalRecord": "لا يوجد سجل جنائي ذي صلة",
+      "integrity": "نزاهة وموثوقية شخصية"
+    }
+  },
+  "requiredDocuments": {
+    "title": "الوثائق المطلوبة",
+    "description": "جميع الوثائق المطلوبة لتقديم الترشيح",
+    "items": {
+      "policeApproval": "تصريح شرطة محدث",
+      "assetDeclaration": "إقرار مفصل بالذمة المالية",
+      "conflictOfInterest": "وثيقة تضارب المصالح",
+      "resume": "سيرة ذاتية كاملة"
+    }
+  },
+  "professionalSkills": {
+    "title": "المهارات المهنية",
+    "description": "المهارات المطلوبة للمرشحين للمناصب العليا",
+    "items": {
+      "education": "تعليم ذو صلة بالمنصب",
+      "experience": "خبرة مهنية مثبتة",
+      "understanding": "فهم مجال المسؤولية",
+      "management": "مهارات الإدارة والقيادة"
+    }
+  },
+  "transparencyRequirements": {
+    "title": "متطلبات الشفافية",
+    "description": "جميع المعلومات المطلوبة للنشر والشفافية أمام الجمهور",
+    "items": {
+      "publishInfo": "نشر جميع المعلومات المطلوبة للجمهور",
+      "accessibility": "إمكانية الوصول للجمهور",
+      "answerQuestions": "الإجابة على أسئلة الجمهور",
+      "meetDeadlines": "الالتزام بالمواعيد النهائية"
+    }
+  },
+  "positions": {
+    "primeMinister": "رئيس الوزراء",
+    "defenseMinister": "مرشح لوزير الدفاع",
+    "financeMinister": "مرشح لوزير المالية",
+    "educationMinister": "مرشح لوزير التعليم",
+    "healthMinister": "مرشح لوزير الصحة",
+    "transportationMinister": "مرشح لوزير النقل",
+    "justiceMinister": "مرشح لوزير العدل",
+    "housingMinister": "مرشح لوزير الإسكان والبناء",
+    "interiorMinister": "مرشح لوزير الداخلية",
+    "foreignMinister": "مرشح لوزير الخارجية",
+    "energyMinister": "مرشح لوزير الطاقة",
+    "environmentMinister": "مرشح لوزير حماية البيئة",
+    "cultureMinister": "مرشح لوزير الثقافة والرياضة",
+    "immigrationMinister": "مرشح لوزير الهجرة والاستيعاب",
+    "welfareMinister": "مرشح لوزير الشؤون الاجتماعية",
+    "agricultureMinister": "مرشح لوزير الزراعة",
+    "industryMinister": "مرشح لوزير الصناعة والتجارة",
+    "diasporaMinister": "مرشح لوزير شؤون الشتات"
+  },
+  "committees": {
+    "knessetCommittee": "مرشح للجنة الكنيست",
+    "financeCommittee": "مرشح للجنة المالية",
+    "economyCommittee": "مرشح للجنة الاقتصاد",
+    "foreignAffairsCommittee": "مرشح للجنة الخارجية والدفاع",
+    "interiorCommittee": "مرشح للجنة الداخلية وحماية البيئة",
+    "internalSecurityCommittee": "مرشح للجنة الأمن الداخلي",
+    "infrastructureCommittee": "مرشح للجنة مشاريع البنية التحتية الوطنية الخاصة والخدمات الدينية اليهودية",
+    "constitutionCommittee": "مرشح للجنة الدستور والقانون والعدالة",
+    "immigrationCommittee": "مرشح للجنة الهجرة والاستيعاب والشتات",
+    "educationCommittee": "مرشح للجنة التعليم والثقافة والرياضة",
+    "laborCommittee": "مرشح للجنة العمل والرعاية الاجتماعية",
+    "healthCommittee": "مرشح للجنة الصحة",
+    "stateAuditCommittee": "مرشح للجنة مراقبة الدولة",
+    "womenCommittee": "مرشح للجنة النهوض بوضع المرأة والمساواة بين الجنسين",
+    "scienceCommittee": "مرشح للجنة العلوم والتكنولوجيا"
+  },
+  "districts": {
+    "upperGalilee": "منطقة الجليل الأعلى والجولان",
+    "lowerGalilee": "منطقة الجليل الأسفل والوديان",
+    "haifa": "منطقة حيفا والكرمل",
+    "sharon": "منطقة شارون ووسط الشمال",
+    "gushDan": "منطقة غوش دان والمتروبوليتان",
+    "bneiBrak": "منطقة بني براك والمناطق المحيطة",
+    "westJerusalem": "منطقة القدس الغربية",
+    "settlements": "منطقة القدس الحريدية والمستوطنات",
+    "shfela": "منطقة الشفلة ووسط الجنوب",
+    "northernNegev": "منطقة النقب الشمالي والغربي",
+    "jordanValley": "منطقة غور الأردن والصحراء",
+    "southernNegev": "منطقة النقب الجنوبي وإيلات"
+  }
+}

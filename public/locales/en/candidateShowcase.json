@@ -1,0 +1,57 @@
+{
+  "heading": {
+    "title": "Full Transparency in Candidates",
+    "description": "Every candidate must present detailed and transparent information as a prerequisite for holding public office."
+  },
+  "requirements": {
+    "title": "Transparency Requirements for Every Candidate",
+    "policeApproval": {
+      "title": "Police Approval",
+      "description": "Absence of relevant criminal record"
+    },
+    "assetDeclaration": {
+      "title": "Asset Declaration",
+      "description": "Detailed, public, and accessible"
+    },
+    "conflictOfInterest": {
+      "title": "Conflict of Interest",
+      "description": "Detailed and approved document"
+    },
+    "fiveYearPlan": {
+      "title": "Five-Year Plan",
+      "description": "Detailed strategy until 2048"
+    },
+    "annualPlan": {
+      "title": "Annual Plan",
+      "description": "Measurable goals and funding sources"
+    },
+    "cv": {
+      "title": "Curriculum Vitae",
+      "description": "Full professional background"
+    },
+    "importantNote": {
+      "title": "Important Note",
+      "description": "Candidates can add one question to the questionnaire that other candidates will need to answer, to encourage in-depth discussion on topics important to them."
+    }
+  },
+  "sampleCandidate": {
+    "profileTitle": "Sample Candidate Profile",
+    "achievements": {
+      "item1": "Founded 5 innovative schools",
+      "item2": "Improved scores by 30% in the periphery",
+      "item3": "Developed a STEM program for girls"
+    },
+    "sections": {
+      "professionalBackground": "Professional Background",
+      "education": "Education",
+      "vision": "Vision",
+      "keyAchievements": "Key Achievements"
+    },
+    "stats": {
+      "match": "Match",
+      "supporters": "Supporters",
+      "rating": "Rating"
+    },
+    "viewFullPlanButton": "View Full Plan"
+  }
+}

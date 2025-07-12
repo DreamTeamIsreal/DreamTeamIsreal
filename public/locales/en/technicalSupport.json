@@ -1,0 +1,127 @@
+{
+  "hero": {
+    "tag": "Technical Support",
+    "title": "Technical Support",
+    "description": "Need help? We're here for you 24/7 with quick and effective solutions",
+    "searchPlaceholder": "Search for a solution to your problem..."
+  },
+  "supportChannels": {
+    "mainTitle": "Support Channels",
+    "subtitle": "Choose the most convenient way for you",
+    "chat": {
+      "title": "Live Chat",
+      "description": "Immediate support 24/7",
+      "action": "Open Chat",
+      "availability": "Always available"
+    },
+    "email": {
+      "title": "Email",
+      "description": "support@dreamteam.gov.il",
+      "action": "Send Email",
+      "availability": "Response within 24 hours"
+    },
+    "phone": {
+      "title": "Phone",
+      "description": "03-1234567 Ext. 1",
+      "action": "Call Now",
+      "availability": "Sunday-Thursday 08:00-18:00"
+    },
+    "helpCenter": {
+      "title": "Help Center",
+      "description": "Guides and Articles",
+      "action": "Browse Guides",
+      "availability": "Always available"
+    }
+  },
+  "searchResults": {
+    "title": "Search results for \"{{term}}\" ({{count}} results)",
+    "noResults": "No results found for your search",
+    "clearSearch": "Clear Search"
+  },
+  "commonIssues": {
+    "mainTitle": "Common Issues",
+    "subtitle": "Solutions for the most common problems",
+    "category1": {
+      "title": "Login Issues",
+      "q1": {
+        "question": "I forgot my password",
+        "answer": "Click on 'Forgot Password' on the login page. We will send a reset code to your registered mobile phone."
+      },
+      "q2": {
+        "question": "Not receiving SMS code",
+        "answer": "Check that the phone number is correct, you have good reception, and SMS messages are not blocked. If the problem persists, contact support."
+      },
+      "q3": {
+        "question": "My account is blocked",
+        "answer": "Account blocking can be due to multiple failed login attempts. Contact support to unblock your account."
+      }
+    },
+    "category2": {
+      "title": "Technical Problems",
+      "q1": {
+        "question": "The site is not loading",
+        "answer": "Try refreshing the page, clearing your browser's cache, or using a different browser. Also check your internet connection."
+      },
+      "q2": {
+        "question": "Cannot upload files",
+        "answer": "Make sure the file is in a supported format (PDF, DOC, DOCX) and does not exceed 10MB. Try uploading one file at a time."
+      },
+      "q3": {
+        "question": "The questionnaire is not saving",
+        "answer": "Ensure you have a stable internet connection and have answered all required questions. Try saving again or refreshing the page."
+      }
+    },
+    "category3": {
+      "title": "Questions about the Process",
+      "q1": {
+        "question": "How long does it take to approve a candidacy?",
+        "answer": "The candidacy approval process takes up to 5 business days. You will receive an email notification when your candidacy is approved."
+      },
+      "q2": {
+        "question": "How can I update my details?",
+        "answer": "Log in to your account and click on 'Account Settings'. There you can update your personal details."
+      },
+      "q3": {
+        "question": "What happens if I want to cancel my candidacy?",
+        "answer": "Candidacy can be canceled at any time through account settings or by contacting support."
+      }
+    }
+  },
+  "systemRequirements": {
+    "mainTitle": "System Requirements",
+    "subtitle": "Ensure your system meets the requirements",
+    "category1": {
+      "title": "Supported Browsers",
+      "item1": "Chrome 90+",
+      "item2": "Firefox 88+",
+      "item3": "Safari 14+",
+      "item4": "Edge 90+"
+    },
+    "category2": {
+      "title": "Operating Systems",
+      "item1": "Windows 10+",
+      "item2": "macOS 10.15+",
+      "item3": "iOS 13+",
+      "item4": "Android 8+"
+    },
+    "category3": {
+      "title": "Internet Connection",
+      "item1": "Minimum speed: 1 Mbps",
+      "item2": "Stable connection recommended",
+      "item3": "Wi-Fi or Cellular"
+    },
+    "category4": {
+      "title": "Browser Settings",
+      "item1": "JavaScript enabled",
+      "item2": "Cookies enabled",
+      "item3": "Pop-ups allowed for the site"
+    }
+  },
+  "contactSupport": {
+    "title": "Still need help?",
+    "description": "Our technical support team is available to help you with any issue",
+    "liveChatButton": "Open Live Chat",
+    "emailButton": "Send Email",
+    "avgResponseTime": "Average response time: Less than 30 minutes"
+  }
+}

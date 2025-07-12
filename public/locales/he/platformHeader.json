@@ -1,0 +1,16 @@
+{
+  "home": "עמוד הבית",
+  "startNow": "התחל עכשיו",
+  "notifications": "התראות",
+  "user": "משתמש",
+  "navigation": {
+    "candidateSubmission": "הגשת מועמדות",
+    "teamBuilder": "בניית נבחרת",
+    "dataVisualization": "תצוגת נתונים",
+    "candidatesDirectory": "ספריית מועמדים",
+    "matchQuiz": "שאלון התאמה"
+  },
+  "headerTitle": "נבחרת החלומות",
+  "headerSubtitle": "פלטפורמת האזרח הישיר",
+  "notificationCount": "{{count}} התראות חדשות"
+}

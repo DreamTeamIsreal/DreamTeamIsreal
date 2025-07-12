@@ -1,0 +1,16 @@
+{
+  "home": "Home",
+  "startNow": "Start Now",
+  "notifications": "Notifications",
+  "user": "User",
+  "navigation": {
+    "candidateSubmission": "Candidate Submission",
+    "teamBuilder": "Team Builder",
+    "dataVisualization": "Data Visualization",
+    "candidatesDirectory": "Candidates Directory",
+    "matchQuiz": "Match Quiz"
+  },
+  "headerTitle": "The Dream Team",
+  "headerSubtitle": "The Direct Citizen Platform",
+  "notificationCount": "{{count}} new notifications"
+}

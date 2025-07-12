@@ -1,0 +1,75 @@
+{
+  "title": "اختبار المطابقة",
+  "subtitle": "شارك آراءك السياسية والاجتماعية",
+  "instructions": "أجب عن هذه الأسئلة لمساعدتنا على فهم آرائك السياسية والاجتماعية.",
+  "sections": {
+    "political": "الآراء السياسية",
+    "social": "الآراء الاجتماعية",
+    "economic": "الآراء الاقتصادية",
+    "security": "آراء الأمن"
+  },
+  "questions": {
+    "political": {
+      "democracy": "ما مدى أهمية الديمقراطية؟",
+      "governmentRole": "ما مدى أهمية دور الحكومة؟",
+      "individualRights": "ما مدى أهمية الحقوق الفردية؟",
+      "nationalUnity": "ما مدى أهمية الوحدة الوطنية؟"
+    },
+    "social": {
+      "education": "ما مدى أهمية التعليم؟",
+      "healthcare": "ما مدى أهمية الرعاية الصحية؟",
+      "socialWelfare": "ما مدى أهمية الرفاه الاجتماعي؟",
+      "culturalDiversity": "ما مدى أهمية التنوع الثقافي؟"
+    },
+    "economic": {
+      "freeMarket": "ما مدى أهمية السوق الحرة؟",
+      "regulation": "ما مدى أهمية التنظيم الحكومي؟",
+      "taxation": "ما مدى أهمية الضرائب؟",
+      "publicServices": "ما مدى أهمية الخدمات العامة؟"
+    },
+    "security": {
+      "military": "ما مدى أهمية القوة العسكرية؟",
+      "diplomacy": "ما مدى أهمية الدبلوماسية؟",
+      "intelligence": "ما مدى أهمية جمع المعلومات الاستخباراتية؟",
+      "cyberSecurity": "ما مدى أهمية الأمن السيبراني؟"
+    }
+  },
+  "answers": {
+    "stronglyDisagree": "أختلف بشدة",
+    "disagree": "أختلف",
+    "neutral": "محايد",
+    "agree": "أوافق",
+    "stronglyAgree": "أوافق بشدة"
+  },
+  "actions": {
+    "next": "التالي",
+    "previous": "السابق",
+    "submit": "إرسال",
+    "submitting": "جاري الإرسال...",
+    "saveProgress": "حفظ التقدم",
+    "saving": "جاري الحفظ..."
+  },
+  "progress": {
+    "section": "القسم",
+    "of": "من",
+    "completed": "مكتمل"
+  },
+  "results": {
+    "title": "نتائج المطابقة",
+    "subtitle": "نتائجك والمرشحون المتطابقون",
+    "score": "النتيجة",
+    "matches": "المرشحون المتطابقون",
+    "noMatches": "لا توجد مرشحين متطابقين",
+    "viewCandidates": "عرض المرشحين",
+    "retakeQuiz": "إعادة الاختبار"
+  },
+  "validation": {
+    "allQuestionsRequired": "يجب الإجابة على جميع الأسئلة",
+    "sectionIncomplete": "هذا القسم غير مكتمل"
+  },
+  "loading": "جاري تحميل الأسئلة...",
+  "error": {
+    "title": "حدث خطأ",
+    "description": "تعذر تحميل الأسئلة. يرجى المحاولة مرة أخرى."
+  }
+}

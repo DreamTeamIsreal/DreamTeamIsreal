@@ -1,0 +1,159 @@
+{
+  "hero": {
+    "tag": "Security & Privacy",
+    "title": "Security & Privacy",
+    "description": "How we protect your information and maintain the highest level of privacy"
+  },
+  "securityPromise": {
+    "title": "Our Commitment",
+    "description": "We are committed to protecting your personal information at the highest level. Your privacy and security are our top priorities, and we invest significant resources to ensure your information remains protected and private."
+  },
+  "securityFeatures": {
+    "mainTitle": "Advanced Security Features",
+    "subtitle": "The advanced technologies that protect you",
+    "feature1": {
+      "title": "Advanced Encryption",
+      "description": "Bank-grade encryption (AES-256) for all information",
+      "detail1": "Real-time data encryption",
+      "detail2": "Communication encryption (TLS 1.3)",
+      "detail3": "Rotating encryption keys",
+      "detail4": "Encrypted storage in the database"
+    },
+    "feature2": {
+      "title": "Two-Factor Authentication",
+      "description": "Additional protection for the user account",
+      "detail1": "SMS code to mobile phone",
+      "detail2": "Verification against population registry",
+      "detail3": "Biometric identity check (optional)",
+      "detail4": "One-time login only"
+    },
+    "feature3": {
+      "title": "Secure Infrastructure",
+      "description": "Servers protected in advanced data centers",
+      "detail1": "Data centers in Israel only",
+      "detail2": "Daily encrypted backups",
+      "detail3": "Intrusion detection systems",
+      "detail4": "24/7 security monitoring"
+    },
+    "feature4": {
+      "title": "Full Privacy",
+      "description": "Maximum protection of personal information",
+      "detail1": "Data anonymization",
+      "detail2": "Automatic deletion of logs",
+      "detail3": "No tracking or profiling",
+      "detail4": "Full user control over information"
+    }
+  },
+  "dataProtectionLifecycle": {
+    "title": "Data Protection Lifecycle",
+    "subtitle": "How we protect information at every stage",
+    "phase1": {
+      "phase": "Collection",
+      "description": "Only information necessary for platform operation",
+      "measure1": "Explicit consent",
+      "measure2": "Minimum data",
+      "measure3": "Full transparency"
+    },
+    "phase2": {
+      "phase": "Storage",
+      "description": "Advanced encryption and security",
+      "measure1": "Full encryption",
+      "measure2": "Protected backups",
+      "measure3": "Limited access"
+    },
+    "phase3": {
+      "phase": "Processing",
+      "description": "Use for defined purposes only",
+      "measure1": "Anonymization",
+      "measure2": "Activity audit",
+      "measure3": "Automatic deletion"
+    },
+    "phase4": {
+      "phase": "Deletion",
+      "description": "Secure deletion when no longer required",
+      "measure1": "Full deletion",
+      "measure2": "Deletion verification",
+      "measure3": "User notification"
+    }
+  },
+  "complianceStandards": {
+    "title": "Standards and Regulations",
+    "subtitle": "We comply with all international standards",
+    "standard1": {
+      "name": "ISO 27001",
+      "description": "International standard for information security management"
+    },
+    "standard2": {
+      "name": "GDPR",
+      "description": "European regulation for personal data protection"
+    },
+    "standard3": {
+      "name": "Privacy Protection Law",
+      "description": "Israeli law for citizen privacy protection"
+    },
+    "standard4": {
+      "name": "SOC 2 Type II",
+      "description": "Comprehensive third-party security audit"
+    }
+  },
+  "additionalSecurityMeasures": {
+    "title": "Additional Security Measures",
+    "monitoring": {
+      "title": "Monitoring and Control",
+      "continuousMonitoring": {
+        "title": "Continuous Monitoring",
+        "item1": "24/7 suspicious activity tracking",
+        "item2": "Automatic alerts on anomalies",
+        "item3": "User behavior analysis",
+        "item4": "Periodic penetration tests"
+      },
+      "accessControl": {
+        "title": "Access Control",
+        "item1": "Graduated permissions for employees",
+        "item2": "Logging of every action in the system",
+        "item3": "Identity verification for every access",
+        "item4": "Periodic audit of permissions"
+      }
+    },
+    "incidentResponse": {
+      "title": "Incident Response",
+      "emergencyPlan": {
+        "title": "Emergency Plan",
+        "item1": "Immediate response team",
+        "item2": "Disaster recovery plan",
+        "item3": "Geographically dispersed backups",
+        "item4": "Periodic emergency drills"
+      },
+      "reportingAndTransparency": {
+        "title": "Reporting and Transparency",
+        "item1": "Immediate incident reporting",
+        "item2": "Real-time user updates",
+        "item3": "Periodic security reports",
+        "item4": "Cooperation with authorities"
+      }
+    }
+  },
+  "userGuidelines": {
+    "title": "User Security Guidelines",
+    "subtitle": "You can also help maintain your security",
+    "whatToDo": {
+      "title": "What to Do",
+      "item1": "Use a strong and unique password",
+      "item2": "Log in only from known devices",
+      "item3": "Log out after use",
+      "item4": "Report suspicious activity"
+    },
+    "whatNotToDo": {
+      "title": "What Not to Do",
+      "item1": "Do not share your login details",
+      "item2": "Do not log in from public Wi-Fi networks",
+      "item3": "Do not click on suspicious links",
+      "item4": "Do not ignore security alerts"
+    }
+  },
+  "contact": {
+    "title": "Security Questions?",
+    "description": "Our security team is available for any questions or to report a security issue",
+    "contactUsButton": "Contact Us"
+  }
+}

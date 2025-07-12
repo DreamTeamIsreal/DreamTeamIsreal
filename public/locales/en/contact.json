@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "contactUs": "Contact Us",
+    "letsTalk": "Let's Talk",
+    "weAreHereForYou": "We are here for you",
+    "description": "Do you have questions, suggestions, or want to join the project? We'd be happy to hear from you and help in any way possible."
+  },
+  "contactMethods": {
+    "heading": "Contact Methods",
+    "subheading": "Choose the most convenient way for you",
+    "email": {
+      "title": "Email",
+      "action": "Send Email"
+    },
+    "phone": {
+      "title": "Phone",
+      "action": "Call Now"
+    },
+    "chat": {
+      "title": "Live Chat",
+      "description": "Available 24/7",
+      "action": "Open Chat"
+    },
+    "address": {
+      "title": "Address",
+      "description": "Democracy Street 1, Tel Aviv",
+      "action": "Get Directions"
+    }
+  },
+  "form": {
+    "heading": "Send us a Message",
+    "subheading": "Fill out the form and we'll get back to you shortly",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "Enter full name",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "typeLabel": "Inquiry Type",
+    "typeOptionGeneral": "General Inquiry",
+    "typeOptionCandidate": "Candidacy",
+    "typeOptionTechnical": "Technical Support",
+    "typeOptionPress": "Press",
+    "typeOptionPartnership": "Partnership",
+    "subjectLabel": "Subject",
+    "subjectPlaceholder": "Subject of the message",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Write your message here...",
+    "sendButton": "Send Message",
+    "submissionSuccessAlert": "Your message has been sent successfully! We will get back to you shortly."
+  },
+  "departments": {
+    "heading": "Departments and Responsibilities",
+    "subheading": "Contact the relevant department directly",
+    "generalQuestions": {
+      "title": "General Questions",
+      "description": "Information about the project and the new model"
+    },
+    "technicalSupport": {
+      "title": "Technical Support",
+      "description": "Website and platform issues"
+    },
+    "candidates": {
+      "title": "Candidates",
+      "description": "Questions regarding candidacy submission"
+    },
+    "press": {
+      "title": "Press",
+      "description": "Media and journalist inquiries"
+    }
+  },
+  "officeHours": {
+    "heading": "Office Hours",
+    "weekdayLabel": "Sunday - Thursday",
+    "weekdayHours": "08:00 - 18:00",
+    "fridayLabel": "Friday",
+    "fridayHours": "08:00 - 13:00",
+    "chatLabel": "Live Chat",
+    "chatHours": "24/7"
+  },
+  "community": {
+    "title": "Join the Community",
+    "description": "Join our community of supporters and stay updated with all the news and developments.",
+    "joinButton": "Join Now"
+  }
+}

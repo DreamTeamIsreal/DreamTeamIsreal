@@ -1,0 +1,32 @@
+{
+  "title": "የተጠቃሚ ምዝገባ",
+  "subtitle": "በDreamTeamIsrael ለመሳተፍ መለያዎን ይፍጠሩ",
+  "fields": {
+    "israelId": "የእስራኤል መታወቂያ",
+    "email": "የኢሜይል አድራሻ",
+    "mobilePhone": "የስልክ ቁጥር",
+    "password": "የይለፍ ቃል",
+    "confirmPassword": "የይለፍ ቃል ያረጋግጡ",
+    "fullName": "ሙሉ ስም",
+    "fullNamePlaceholder": "ሙሉ ስምዎን ያስገቡ",
+    "dateOfBirth": "የትውልድ ቀን",
+    "city": "ከተማ",
+    "cityPlaceholder": "ከተማዎን ያስገቡ"
+  },
+  "validation": {
+    "invalidIsraelId": "የእስራኤል መታወቂያ በትክክል 9 አሃዞች መሆን አለበት",
+    "invalidEmail": "እባክዎ ትክክለኛ የኢሜይል አድራሻ ያስገቡ",
+    "invalidPhone": "የስልክ ቁጥር በ05XXXXXXXX ቅርጸት መሆን አለበት",
+    "passwordTooShort": "የይለፍ ቃል ቢያንስ 8 ቁምፊዎች መሆን አለበት",
+    "passwordComplexity": "የይለፍ ቃል ትልቅ ፊደል፣ ትንሽ ፊደል እና ቁጥር መያዝ አለበት",
+    "passwordsDoNotMatch": "የይለፍ ቃሎች አይጣጣሙም",
+    "nameTooShort": "ስም ቢያንስ 2 ቁምፊዎች መሆን አለበት",
+    "invalidAge": "ዕድሜ በ18 እና 120 ዓመት መካከል መሆን አለበት",
+    "cityTooShort": "ከተማ ቢያንስ 2 ቁምፊዎች መሆን አለበት",
+    "passwordRequirements": "የይለፍ ቃል ቢያንስ 8 ቁምፊዎች ትልቅ ፊደል፣ ትንሽ ፊደል እና ቁጥር መያዝ አለበት"
+  },
+  "submit": "መለያ ይፍጠሩ",
+  "submitting": "መለያ እያፈጠረ...",
+  "submittingMock": "ምዝገባ እያስመዘገበ...",
+  "mockModeIndicator": "የማስመዘገቢያ ሁኔታ: ምዝገባ በማስመዘገቢያ ሁኔታ ይከናወናል"
+}

@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "contactUs": "צור קשר",
+    "letsTalk": "בואו נדבר",
+    "weAreHereForYou": "אנחנו כאן בשבילכם",
+    "description": "יש לכם שאלות, הצעות או רוצים להצטרף לפרויקט? אנחנו נשמח לשמוע מכם ולעזור בכל דרך אפשרית."
+  },
+  "contactMethods": {
+    "heading": "דרכי יצירת קשר",
+    "subheading": "בחרו את הדרך הנוחה לכם ביותר",
+    "email": {
+      "title": "אימייל",
+      "action": "שלח אימייל"
+    },
+    "phone": {
+      "title": "טלפון",
+      "action": "התקשר עכשיו"
+    },
+    "chat": {
+      "title": "צ'אט חי",
+      "description": "זמין 24/7",
+      "action": "פתח צ'אט"
+    },
+    "address": {
+      "title": "כתובת",
+      "description": "רחוב הדמוקרטיה 1, תל אביב",
+      "action": "הגע אלינו"
+    }
+  },
+  "form": {
+    "heading": "שלחו לנו הודעה",
+    "subheading": "מלאו את הטופס ונחזור אליכם בהקדם",
+    "nameLabel": "שם מלא",
+    "namePlaceholder": "הזן שם מלא",
+    "emailLabel": "אימייל",
+    "phoneLabel": "טלפון",
+    "typeLabel": "סוג הפנייה",
+    "typeOptionGeneral": "שאלה כללית",
+    "typeOptionCandidate": "מועמדות",
+    "typeOptionTechnical": "תמיכה טכנית",
+    "typeOptionPress": "עיתונות",
+    "typeOptionPartnership": "שותפות",
+    "subjectLabel": "נושא",
+    "subjectPlaceholder": "נושא ההודעה",
+    "messageLabel": "הודעה",
+    "messagePlaceholder": "כתבו את ההודעה שלכם כאן...",
+    "sendButton": "שלח הודעה",
+    "submissionSuccessAlert": "הודעתך נשלחה בהצלחה! נחזור אליך בהקדם."
+  },
+  "departments": {
+    "heading": "מחלקות ותחומי אחריות",
+    "subheading": "פנו ישירות למחלקה הרלוונטית",
+    "generalQuestions": {
+      "title": "שאלות כלליות",
+      "description": "מידע על הפרויקט והמודל החדש"
+    },
+    "technicalSupport": {
+      "title": "תמיכה טכנית",
+      "description": "בעיות באתר ובפלטפורמה"
+    },
+    "candidates": {
+      "title": "מועמדים",
+      "description": "שאלות לגבי הגשת מועמדות"
+    },
+    "press": {
+      "title": "עיתונות",
+      "description": "פניות תקשורת ועיתונאים"
+    }
+  },
+  "officeHours": {
+    "heading": "שעות פעילות",
+    "weekdayLabel": "ראשון - חמישי",
+    "weekdayHours": "08:00 - 18:00",
+    "fridayLabel": "שישי",
+    "fridayHours": "08:00 - 13:00",
+    "chatLabel": "צ'אט חי",
+    "chatHours": "24/7"
+  },
+  "community": {
+    "title": "הצטרפו לקהילה",
+    "description": "הצטרפו לקהילת התומכים שלנו ותישארו מעודכנים בכל החדשות והפיתוחים.",
+    "joinButton": "הצטרף עכשיו"
+  }
+}

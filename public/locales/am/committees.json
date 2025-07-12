@@ -1,0 +1,19 @@
+{
+  "knesset": "ክንሰት",
+  "finance_committee": "የገንዘብ ኮሚቴ",
+  "economy": "የኢኮኖሚ ኮሚቴ",
+  "foreign_defense": "የውጭ ጥበቃ ኮሚቴ",
+  "interior_env": "የውስጥ እና የአካባቢ ጥበቃ ኮሚቴ",
+  "education_culture": "የትምህርት እና የባህል ኮሚቴ",
+  "health_committee": "የጤና ኮሚቴ",
+  "labor_welfare": "የሥራ እና የተመጣጠኝነት ኮሚቴ",
+  "constitution_law": "የሕግ እና የፈቃድ ኮሚቴ",
+  "science_technology_committee": "የሳይንስ እና የቴክኖሎጂ ኮሚቴ",
+  "agriculture_committee": "የግብርና ኮሚቴ",
+  "tourism_committee": "የጉብኝት ኮሚቴ",
+  "social_affairs_committee": "የማህበራዊ ጉዳይ ኮሚቴ",
+  "religious_affairs_committee": "የመጽፈፍት ጉዳይ ኮሚቴ",
+  "internal_security_committee": "የውስጣዊ  security",
+  "state_audit_committee": "የክልል ኦዲት ኮሚቴ",
+  "women_equality_committee": "የሴቶች ሁኔታ እና የሥርዓተ-ፆታ እኩልነት ኮሚቴ"
+}

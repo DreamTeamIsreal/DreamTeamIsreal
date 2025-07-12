@@ -1,0 +1,19 @@
+{
+  "knesset": "الكنيست",
+  "finance_committee": "اللجنة المالية",
+  "economy": "اللجنة الاقتصادية",
+  "foreign_defense": "لجنة الخارجية والأمن",
+  "interior_env": "لجنة الداخلية وحماية البيئة",
+  "education_culture": "لجنة التربية والثقافة",
+  "health_committee": "لجنة الصحة",
+  "labor_welfare": "لجنة العمل والرفاه الاجتماعي",
+  "constitution_law": "اللجنة الدستورية والقانونية",
+  "science_technology_committee": "لجنة العلوم والتكنولوجيا",
+  "agriculture_committee": "لجنة الزراعة",
+  "tourism_committee": "لجنة السياحة",
+  "social_affairs_committee": "لجنة الشؤون الاجتماعية",
+  "religious_affairs_committee": "لجنة الشؤون الدينية",
+  "internal_security_committee": "لجنة الأمن الداخلي",
+  "state_audit_committee": "لجنة مراقبة الدولة",
+  "women_equality_committee": "لجنة النهوض بوضع المرأة والمساواة بين الجنسين"
+}

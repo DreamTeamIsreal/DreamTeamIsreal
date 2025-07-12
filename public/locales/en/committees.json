@@ -1,0 +1,19 @@
+{
+  "knesset": "Knesset",
+  "finance_committee": "Finance Committee",
+  "economy": "Economy",
+  "foreign_defense": "Foreign Affairs and Defense",
+  "interior_env": "Interior and Environment",
+  "education_culture": "Education and Culture",
+  "health_committee": "Health Committee",
+  "labor_welfare": "Labor and Welfare",
+  "constitution_law": "Constitution, Law and Justice",
+  "science_technology_committee": "Science and Technology Committee",
+  "agriculture_committee": "Agriculture Committee",
+  "tourism_committee": "Tourism Committee",
+  "social_affairs_committee": "Social Affairs Committee",
+  "religious_affairs_committee": "Religious Affairs Committee",
+  "internal_security_committee": "Internal Security Committee",
+  "state_audit_committee": "State Audit Committee",
+  "women_equality_committee": "Committee on the Status of Women and Gender Equality"
+}

@@ -1,0 +1,23 @@
+{
+  "pm": "ראש הממשלה",
+  "defense": "הביטחון",
+  "finance": "האוצר",
+  "education": "החינוך",
+  "health": "הבריאות",
+  "transport": "התחבורה",
+  "justice": "המשפטים",
+  "housing": "השיכון",
+  "environment": "איכות הסביבה",
+  "culture": "התרבות והספורט",
+  "welfare": "הרווחה והשירותים החברתיים",
+  "foreign_affairs": "החוץ",
+  "agriculture": "החקלאות",
+  "tourism": "התיירות",
+  "science_technology": "המדע והטכנולוגיה",
+  "social_affairs": "עניינים חברתיים",
+  "religious_affairs": "הדתות",
+  "internal_security": "ביטחון פנים",
+  "immigration_absorption": "עלייה וקליטה",
+  "economy": "כלכלה ותעשייה",
+  "diaspora_affairs": "תפוצות"
+}

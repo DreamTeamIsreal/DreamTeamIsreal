@@ -1,0 +1,21 @@
+{
+  "forMinister": "Candidate for Minister",
+  "forCommittee": "Candidate for Committee",
+  "experience": "Experience",
+  "supporters": "Supporters",
+  "rating": "Rating",
+  "match": "Match",
+  "viewProfile": "View Profile",
+  "fullRanking": "Full Ranking",
+  "experienceEducation": "15 years of experience in education",
+  "experienceHealth": "20 years in medicine",
+  "experienceJustice": "12 years in law",
+  "experienceTransport": "18 years in transportation",
+  "experienceKnesset": "10 years of parliamentary experience",
+  "experienceEconomy": "14 years in economics",
+  "plans": {
+    "fiveYearTitle": "Five-Year Plan",
+    "vision2048Title": "Vision 2048",
+    "yearlyTitle": "Yearly Plan"
+  }
+}

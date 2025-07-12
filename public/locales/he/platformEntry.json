@@ -1,0 +1,60 @@
+{
+  "secureEntryTag": "כניסה מאובטחת לפלטפורמה",
+  "registration": {
+    "title": "רישום לפלטפורמה",
+    "subtitle": "מלא את פרטיך לרישום מאובטח",
+    "idNumberLabel": "מספר תעודת זהות",
+    "fullNameLabel": "שם מלא",
+    "fullNamePlaceholder": "שם פרטי ומשפחה",
+    "birthDateLabel": "תאריך לידה",
+    "mobilePhoneLabel": "מספר טלפון נייד",
+    "emailLabel": "כתובת אימייל",
+    "settlementLabel": "יישוב מגורים (המחוז ייבחר אוטומטית)",
+    "settlementPlaceholder": "חפש יישוב...",
+    "autoSelectedDistrict": "מחוז נבחר אוטומטית",
+    "sendCodeButton": "שלח קוד אימות",
+    "codeSentAlert": "קוד אימות נשלח לטלפון שלך",
+    "verificationCodeLabel": "קוד אימות (הזן 1234 לדמו)",
+    "invalidCodeAlert": "קוד שגוי, נסה שוב",
+    "verifyCodeButton": "אמת קוד והמשך"
+  },
+  "questionnaire": {
+    "mainTitle": "שאלון התאמה",
+    "subtitle": "ענה על השאלות למציאת המועמדים המתאימים לך",
+    "questionProgress": "שאלה {{current}} מתוך {{total}}",
+    "completed": "הושלם",
+    "q1": "ישראל צריכה לשאוף להסדרים מדיניים אזוריים רחבים לפני הסכם קבע עם הפלסטינים.",
+    "q2": "יש להוריד את נטל המס על המעמד הבינוני באופן משמעותי.",
+    "q3": "יש להגדיל באופן משמעותי את תקציב מערכת הבריאות הציבורית.",
+    "q4": "יש להשקיע רוב תקציב התחבורה בפיתוח תחבורה ציבורית על פני כבישים.",
+    "q5": "יש להגביל את מספר השרים בממשלה ל-18 לכל היותר.",
+    "option1": "בכלל לא מסכים",
+    "option2": "לא מסכים",
+    "option3": "ניטרלי",
+    "option4": "מסכים",
+    "option5": "מסכים לחלוטין"
+  },
+  "welcomeBack": "ברוך הבא חזרה, {{name}}!",
+  "user": "משתמש",
+  "registrationComplete": "רישום הושלם בהצלחה!",
+  "welcomeToPlatform": "ברוך הבא לפלטפורמת \"נבחרת החלומות\"",
+  "chooseActionRegistered": "בחר את הפעולה הרצויה",
+  "whatToDoToday": "מה תרצה לעשות היום?",
+  "chooseAction": "בחר את הפעולה שברצונך לבצע",
+  "yourDistrictIs": "המחוז שלך: <bold>{{district}}</bold>",
+  "platformOptions": {
+    "option1": {
+      "title": "הגשת מועמדות",
+      "description": "הגש מועמדותך לתפקיד ציבורי או לוועדת כנסת"
+    },
+    "option2": {
+      "title": "בניית נבחרת החלומות",
+      "description": "בחר את המועמדים המועדפים עליך"
+    },
+    "option3": {
+      "title": "תצוגת נתונים",
+      "description": "צפה בנתונים ובנבחרות המובילות"
+    },
+    "startButton": "התחל עכשיו"
+  }
+}

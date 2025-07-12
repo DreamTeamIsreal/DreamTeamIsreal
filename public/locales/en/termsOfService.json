@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "tag": "Terms of Service",
+    "title": "Terms of Service",
+    "description": "Terms of Use for the \"Dream Team\" platform - please read carefully before use",
+    "lastUpdate": "Last updated: January 1, 2025"
+  },
+  "importantNotice": {
+    "title": "Important Notice",
+    "description": "Use of the platform is conditional upon full acceptance of these terms. If you do not agree to the terms, please refrain from using the service."
+  },
+  "section1": {
+    "title": "1. Definitions",
+    "item1": "The Platform - the 'Dream Team' website and all related services",
+    "item2": "The User - any person who registers and uses the platform",
+    "item3": "The Candidate - a person who submits a candidacy for a public office through the platform",
+    "item4": "The Service - all services offered on the website"
+  },
+  "section2": {
+    "title": "2. Terms of Use",
+    "item1": "Use of the platform is conditional upon full acceptance of these terms",
+    "item2": "The user undertakes to provide only true and accurate information",
+    "item3": "It is forbidden to use the platform for illegal purposes",
+    "item4": "The user is responsible for maintaining their login details"
+  },
+  "section3": {
+    "title": "3. Registration and User Account",
+    "item1": "Registration is conditional upon full identity verification against the population registry",
+    "item2": "Any Israeli citizen over the age of 18 is entitled to register",
+    "item3": "It is forbidden to create more than one account per person",
+    "item4": "The company reserves the right to block suspicious accounts"
+  },
+  "section4": {
+    "title": "4. Privacy and Information Security",
+    "item1": "Personal information is protected in accordance with the Privacy Protection Law",
+    "item2": "Advanced encryption is used to secure the information",
+    "item3": "Information will not be transferred to third parties without consent",
+    "item4": "The user may update or delete their information"
+  },
+  "section5": {
+    "title": "5. System Conduct",
+    "item1": "It is forbidden to publish offensive, abusive, or illegal content",
+    "item2": "It is forbidden to attempt to hack or damage the system",
+    "item3": "Other users and candidates must be respected",
+    "item4": "It is forbidden to disseminate false or misleading information"
+  },
+  "section6": {
+    "title": "6. Copyright",
+    "item1": "All content on the website is protected by copyright",
+    "item2": "It is forbidden to copy or distribute content without permission",
+    "item3": "Users grant a license to use the content they upload",
+    "item4": "The company retains its intellectual property rights"
+  },
+  "section7": {
+    "title": "7. Liability and Limitations",
+    "item1": "The service is provided 'as is' without express warranty",
+    "item2": "The company is not liable for indirect or consequential damages",
+    "item3": "The user uses the service at their sole risk",
+    "item4": "Liability is limited to the amount paid for the service"
+  },
+  "section8": {
+    "title": "8. Changes to Terms",
+    "item1": "The company may change the terms at any time",
+    "item2": "Changes will be published on the website and take effect immediately",
+    "item3": "Continued use constitutes acceptance of the changes",
+    "item4": "Material changes will be brought to the users' attention"
+  },
+  "contactSection": {
+    "title": "Questions or Clarifications?",
+    "description": "If you have any questions regarding the terms of use, please contact us:",
+    "contactButton": "Contact Us"
+  }
+}

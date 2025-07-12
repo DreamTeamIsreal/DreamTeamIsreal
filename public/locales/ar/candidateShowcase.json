@@ -1,0 +1,57 @@
+{
+  "heading": {
+    "title": "شفافية كاملة في المرشحين",
+    "description": "يجب على كل مرشح تقديم معلومات مفصلة وشفافة كشرط أساسي لشغل منصب عام."
+  },
+  "requirements": {
+    "title": "متطلبات الشفافية لكل مرشح",
+    "policeApproval": {
+      "title": "موافقة الشرطة",
+      "description": "عدم وجود سجل جنائي ذي صلة"
+    },
+    "assetDeclaration": {
+      "title": "إقرار الذمة المالية",
+      "description": "مفصل، علني، ومتاح"
+    },
+    "conflictOfInterest": {
+      "title": "تضارب المصالح",
+      "description": "وثيقة مفصلة ومعتمدة"
+    },
+    "fiveYearPlan": {
+      "title": "خطة خمسية",
+      "description": "استراتيجية مفصلة حتى عام 2048"
+    },
+    "annualPlan": {
+      "title": "خطة سنوية",
+      "description": "أهداف قابلة للقياس ومصادر تمويل"
+    },
+    "cv": {
+      "title": "السيرة الذاتية",
+      "description": "خلفية مهنية كاملة"
+    },
+    "importantNote": {
+      "title": "ملاحظة هامة",
+      "description": "يمكن للمرشحين إضافة سؤال واحد إلى الاستبيان الذي سيتعين على المرشحين الآخرين الإجابة عليه، لتشجيع النقاش المتعمق حول القضايا المهمة بالنسبة لهم."
+    }
+  },
+  "sampleCandidate": {
+    "profileTitle": "ملف تعريف المرشح النموذجي",
+    "achievements": {
+      "item1": "أسست 5 مدارس مبتكرة",
+      "item2": "حسنت الدرجات بنسبة 30% في المناطق الطرفية",
+      "item3": "طورت برنامج STEM للفتيات"
+    },
+    "sections": {
+      "professionalBackground": "الخلفية المهنية",
+      "education": "التعليم",
+      "vision": "الرؤية",
+      "keyAchievements": "الإنجازات الرئيسية"
+    },
+    "stats": {
+      "match": "المطابقة",
+      "supporters": "الداعمون",
+      "rating": "التقييم"
+    },
+    "viewFullPlanButton": "عرض الخطة الكاملة"
+  }
+}

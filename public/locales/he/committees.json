@@ -1,0 +1,19 @@
+{
+  "knesset": "הכנסת",
+  "finance_committee": "הכספים",
+  "economy": "הכלכלה",
+  "foreign_defense": "החוץ והביטחון",
+  "interior_env": "הפנים והגנת הסביבה",
+  "education_culture": "החינוך והתרבות",
+  "health_committee": "הבריאות",
+  "labor_welfare": "העבודה והרווחה",
+  "constitution_law": "חוקתית ומשפטית",
+  "science_technology_committee": "המדע והטכנולוגיה",
+  "agriculture_committee": "החקלאות",
+  "tourism_committee": "התיירות",
+  "social_affairs_committee": "עניינים חברתיים",
+  "religious_affairs_committee": "הדתות",
+  "internal_security_committee": "ביטחון פנים",
+  "state_audit_committee": "ועדת ביקורת המדינה",
+  "women_equality_committee": "ועדה לקידום מעמד האישה ולשוויון מגדרי"
+}

@@ -1,0 +1,16 @@
+{
+  "home": "الصفحة الرئيسية",
+  "startNow": "ابدأ الآن",
+  "notifications": "الإشعارات",
+  "user": "المستخدم",
+  "navigation": {
+    "candidateSubmission": "تقديم الترشيح",
+    "teamBuilder": "بناء الفريق",
+    "dataVisualization": "عرض البيانات",
+    "candidatesDirectory": "دليل المرشحين",
+    "matchQuiz": "استبيان المطابقة"
+  },
+  "headerTitle": "فريق الأحلام",
+  "headerSubtitle": "منصة المواطن المباشر",
+  "notificationCount": "{{count}} إشعارات جديدة"
+}

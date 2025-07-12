@@ -1,0 +1,60 @@
+{
+  "secureEntryTag": "Secure Platform Entry",
+  "registration": {
+    "title": "Welcome to DreamTeamIsrael",
+    "subtitle": "Join the democratic revolution and help build Israel's dream team",
+    "idNumberLabel": "Israel ID Number",
+    "fullNameLabel": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "birthDateLabel": "Date of Birth",
+    "mobilePhoneLabel": "Mobile Phone",
+    "emailLabel": "Email Address",
+    "settlementLabel": "Settlement/City",
+    "settlementPlaceholder": "Search for your settlement or city",
+    "autoSelectedDistrict": "Auto-selected District",
+    "sendCodeButton": "Send Verification Code",
+    "verificationCodeLabel": "Verification Code",
+    "verifyCodeButton": "Verify Code",
+    "codeSentAlert": "Verification code sent to your phone",
+    "invalidCodeAlert": "Invalid verification code"
+  },
+  "questionnaire": {
+    "mainTitle": "Quick Questionnaire",
+    "subtitle": "Help us understand your preferences",
+    "questionProgress": "Question {current} of {total}",
+    "completed": "Completed",
+    "q1": "How important is national security to you?",
+    "q2": "What's your priority for economic policy?",
+    "q3": "How do you view social welfare programs?",
+    "q4": "What's your stance on environmental protection?",
+    "q5": "How important is education reform to you?",
+    "option1": "Very Low Priority",
+    "option2": "Low Priority",
+    "option3": "Neutral",
+    "option4": "High Priority",
+    "option5": "Very High Priority"
+  },
+  "platformOptions": {
+    "option1": {
+      "title": "Submit Candidacy",
+      "description": "Apply to become a minister or committee representative"
+    },
+    "option2": {
+      "title": "Build Dream Team",
+      "description": "Select candidates for your ideal government"
+    },
+    "option3": {
+      "title": "View Statistics",
+      "description": "Explore data and insights about candidates"
+    }
+  },
+  "welcomeToPlatform": "Welcome to DreamTeamIsrael Platform",
+  "chooseAction": "What would you like to do today?",
+  "registrationComplete": "Registration Complete!",
+  "welcomeBack": "Welcome back, {name}!",
+  "chooseActionRegistered": "What would you like to do today?",
+  "whatToDoToday": "Choose your next action:",
+  "user": "User",
+  "yourDistrictIs": "Your district is: <bold>{district}</bold>",
+  "mockModeToggle": "Enable Mock Mode (Simulate API calls)"
+}

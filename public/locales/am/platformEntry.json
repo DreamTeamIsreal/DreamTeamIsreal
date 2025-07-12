@@ -1,0 +1,60 @@
+{
+  "secureEntryTag": "ወደ መድረኩ ደህንነቱ የተጠበቀ መግቢያ",
+  "registration": {
+    "title": "ለመድረኩ ይመዝገቡ",
+    "subtitle": "ለደህንነቱ የተጠበቀ ምዝገባ ዝርዝሮችዎን ይሙሉ",
+    "idNumberLabel": "መታወቂያ ቁጥር",
+    "fullNameLabel": "ሙሉ ስም",
+    "fullNamePlaceholder": "የመጀመሪያ እና የአያት ስም",
+    "birthDateLabel": "የትውልድ ቀን",
+    "mobilePhoneLabel": "የሞባይል ስልክ ቁጥር",
+    "emailLabel": "ኢሜይል አድራሻ",
+    "settlementLabel": "የመኖሪያ ሰፈር (ወረዳው በራስ-ሰር ይመረጣል)",
+    "settlementPlaceholder": "ሰፈር ፈልግ...",
+    "autoSelectedDistrict": "ወረዳ በራስ-ሰር ተመርጧል",
+    "sendCodeButton": "የማረጋገጫ ኮድ ላክ",
+    "codeSentAlert": "የማረጋገጫ ኮድ ወደ ስልክዎ ተልኳል",
+    "verificationCodeLabel": "የማረጋገጫ ኮድ (ለማሳያ 1234 ያስገቡ)",
+    "invalidCodeAlert": "የተሳሳተ ኮድ፣ እንደገና ይሞክሩ",
+    "verifyCodeButton": "ኮድ ያረጋግጡ እና ይቀጥሉ"
+  },
+  "questionnaire": {
+    "mainTitle": "የተዛማጅ መጠይቅ",
+    "subtitle": "ለእርስዎ በጣም ተስማሚ የሆኑ እጩዎችን ለማግኘት ጥያቄዎችን ይመልሱ",
+    "questionProgress": "ጥያቄ {{current}} ከ {{total}}",
+    "completed": "ተጠናቋል",
+    "q1": "እስራኤል ከፍልስጤማውያን ጋር ቋሚ ስምምነት ከማድረጓ በፊት ሰፊ ክልላዊ የፖለቲካ ዝግጅቶችን መፈለግ አለባት።",
+    "q2": "በመካከለኛ ደረጃ ላይ ያለው የግብር ጫና በከፍተኛ ሁኔታ መቀነስ አለበት።",
+    "q3": "የህዝብ ጤና ስርዓት በጀት በከፍተኛ ሁኔታ መጨመር አለበት።",
+    "q4": "አብዛኛው የትራንስፖርት በጀት ከመንገዶች ይልቅ የህዝብ ትራንስፖርት ልማት ላይ መዋል አለበት።",
+    "q5": "በመንግስት ውስጥ የሚኒስትሮች ቁጥር ቢበዛ በ 18 መገደብ አለበት።",
+    "option1": "በፍፁም አልስማማም",
+    "option2": "አልስማማም",
+    "option3": "ገለልተኛ",
+    "option4": "እስማማለሁ",
+    "option5": "ሙሉ በሙሉ እስማማለሁ"
+  },
+  "welcomeBack": "እንኳን ደህና መጣህ፣ {{name}}!",
+  "user": "ተጠቃሚ",
+  "registrationComplete": "ምዝገባ በተሳካ ሁኔታ ተጠናቋል!",
+  "welcomeToPlatform": "እንኳን ወደ \"ህልም ቡድን\" መድረክ በደህና መጡ",
+  "chooseActionRegistered": "የሚፈልጉትን ተግባር ይምረጡ",
+  "whatToDoToday": "ዛሬ ምን ማድረግ ይፈልጋሉ?",
+  "chooseAction": "ሊያከናውኑት የሚፈልጉትን ተግባር ይምረጡ",
+  "yourDistrictIs": "የእርስዎ ወረዳ: <bold>{{district}}</bold>",
+  "platformOptions": {
+    "option1": {
+      "title": "እጩነት ማስገባት",
+      "description": "ለህዝባዊ ቦታ ወይም ለክኔሴት ኮሚቴ እጩነትዎን ያስገቡ"
+    },
+    "option2": {
+      "title": "የህልም ቡድንን መገንባት",
+      "description": "የሚመርጡትን እጩዎች ይምረጡ"
+    },
+    "option3": {
+      "title": "የውሂብ እይታ",
+      "description": "ውሂብን እና መሪ ቡድኖችን ይመልከቱ"
+    },
+    "startButton": "አሁን ጀምር"
+  }
+}

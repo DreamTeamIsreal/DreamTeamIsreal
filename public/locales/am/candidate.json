@@ -1,0 +1,21 @@
+{
+  "forMinister": "ለሚኒስትር የሚመረጥ",
+  "forCommittee": "ለኮሚቴ የሚመረጥ",
+  "experience": "ልምድ",
+  "supporters": "ደጋፊዎች",
+  "rating": "ደረጃ",
+  "match": "መሳሰልና",
+  "viewProfile": "ፕሮፋይል እንዲታይ",
+  "fullRanking": "ሙሉ ደረጃ",
+  "experienceEducation": "በትምህርት 15 ዓመታት ልምድ",
+  "experienceHealth": "በሕክምና 20 ዓመታት",
+  "experienceJustice": "በሕግ 12 ዓመታት",
+  "experienceTransport": "በመጓጓዣ 18 ዓመታት",
+  "experienceKnesset": "በፓርላማ 10 ዓመታት ልምድ",
+  "experienceEconomy": "14 ዓመት በኢኮኖሚያ",
+  "plans": {
+    "fiveYearTitle": "አምስት ዓመት ዕቅድ",
+    "vision2048Title": "ራዕይ 2048",
+    "yearlyTitle": "ዓመታዊ ዕቅድ"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "submissionSuccessAlert": "የእርስዎ መመዝገብ በተሳካ ሁኔታ ተጠናቋል! በ24 ሰዓታት ውስጥ ማረጋገጫ ኢሜይል ይደርሳችሁ።",
+  "notRegistered": {
+    "title": "በመድረኩ ላይ መመዝገብ ያስፈልጋል",
+    "description": "መመዝገብ ለመላክ በመጀመሪያ በመድረኩ ላይ መመዝገብ አለብዎት።",
+    "startButton": "መመዝገብ ጀምር"
+  },
+  "mainHeading": {
+    "title": "ለህዝብ ቦታ የመመዝገብ ማቅረቢያ",
+    "description": "ለመመዝገብ ሁሉንም የተጠየቁትን ዝርዝሮች ይሙሉ።"
+  },
+  "steps": {
+    "typeOfCandidacy": "የመመዝገብ አይነት",
+    "personalDetails": "የግል ዝርዝሮች",
+    "requiredDocuments": "የሚያስፈልጉ ሰነዶች",
+    "workPlans": "የስራ እቅዶች",
+    "submissionComplete": "መላክ ተጠናቋል",
+    "stepNumber": "እስከ {{number}} ደረጃ",
+    "matchQuiz": "የማስተካከያ ጥያቄ"
+  },
+  "step1": {
+    "title": "የመመዝገብ አይነት ይምረጡ",
+    "description": "ለምን ቦታ መመዝገብ ይፈልጋሉ?",
+    "ministerCard": {
+      "title": "የሚኒስትር መመዝገብ",
+      "description": "በመንግስት ሚኒስቴሮች ውስጥ ለሚኒስትር ቦታ ይመዝገቡ። ዝርዝር የስራ እቅዶችና ረጅም የተስፋ ራዕይ ያስፈልጋል።"
+    },
+    "committeeCard": {
+      "title": "የኮሚቴ መመዝገብ",
+      "description": "በ15 ቋሚ የኮሚቴዎች መካከል አንዱ ለክልል ቦታ ይመዝገቡ። ክልል የሚወክሉ እና የአካባቢ ድምፆች።"
+    }
+  },
+  "step2": {
+    "title": "የግል ዝርዝሮች",
+    "description": "መሰረታዊ ዝርዝሮችዎን ይሙሉ",
+    "profileImage": {
+      "label": "የመገለጫ ፎቶ",
+      "uploadText": "ፎቶ ያስገቡ",
+      "requirements": "ግልፅ እና ሙያዊ ፎቶ፣ JPG/PNG እስከ 5MB"
+    },
+    "fullName": {
+      "label": "ሙሉ ስም",
+      "placeholder": "ሙሉ ስም ያስገቡ"
+    },
+    "desiredPosition": {
+      "label": "የተፈላጊ ቦታ",
+      "placeholder": "ቦታ ይምረጡ"
+    },
+    "desiredCommittee": {
+      "label": "የተፈላጊ ኮሚቴ",
+      "placeholder": "ኮሚቴ ይምረጡ"
+    },
+    "professionalExperience": {
+      "label": "የሙያ ልምድ",
+      "placeholder": "የሙያ ልምድዎን ይግለጹ..."
+    },
+    "education": {
+      "label": "ትምህርት",
+      "placeholder": "ትምህርትዎን ይግለጹ..."
+    },
+    "personalVision": {
+      "label": "የግል ራዕይና አስተያየት",
+      "placeholder": "ራዕይዎንና አስተያየትዎን ይግለጹ..."
+    }
+  },
+  "step3": {
+    "title": "የሚያስፈልጉ ሰነዶች",
+    "description": "የመመዝገብዎን ማረጋገጫ ሰነዶች ያስገቡ",
+    "documents": {
+      "policeRecord": "የፖሊስ ማረጋገጫ",
+      "wealthDeclaration": "የባለሃብትነት መግለጫ",
+      "conflictOfInterest": "የግንኙነት ግጭት ሰነድ",
+      "cv": "ሙሉ የስራ ታሪክ"
+    },
+    "uploadArea": {
+      "dragDrop": "ፋይል ይጎትቱ ወይም ለማስገባት ይጫኑ",
+      "fileTypes": "PDF, DOC, DOCX እስከ 10MB"
+    },
+    "importantNotes": {
+      "title": "አስፈላጊ ማስታወቂያዎች:",
+      "note1": "ሁሉም ሰነዶች PDF ወይም Word መሆን አለባቸው",
+      "note2": "ሰነዶቹ በድህረ ገጹ ላይ ለህዝብ ይታያሉ",
+      "note3": "ሁሉም መረጃዎች ትክክለኛና የተዘረዘሩ መሆን አለባቸው",
+      "note4": "ሰነዶቹ ከመመዝገብ በፊት ይገመገማሉ"
+    }
+  },
+  "step4": {
+    "ministerTitle": "የስራ እቅዶች",
+    "committeeTitle": "ራዕይና እቅድ",
+    "ministerDescription": "ለቦታዎ ዝርዝር የስራ እቅዶችና ራዕይ ይግለጹ",
+    "committeeDescription": "በኮሚቴው ውስጥ ራዕይዎን ይግለጹ",
+    "fiveYearPlan": {
+      "label": "አምስት ዓመት እቅድ",
+      "placeholder": "ለቀጣዩ 5 ዓመታት እቅድዎን ይግለጹ..."
+    },
+    "vision2048": {
+      "label": "ረጅም ዘመናዊ ራዕይ (እስከ 2048)",
+      "placeholder": "ረጅም ዘመናዊ ራዕይዎን ይግለጹ..."
+    },
+    "yearlyPlan": {
+      "label": "ዝርዝር ዓመታዊ እቅድ",
+      "placeholder": "ለመጀመሪያው ዓመት ዝርዝር እቅድዎን ይግለጹ..."
+    },
+    "committeeWorkPlan": {
+      "label": "በኮሚቴው ውስጥ ራዕይና የስራ እቅድ",
+      "placeholder": "በኮሚቴው ውስጥ ራዕይዎንና እቅድዎን ይግለጹ..."
+    },
+    "videoLink": {
+      "label": "የማቅረብ ቪዲዮ አገናኝ (አማራጭ)",
+      "placeholder": "https://youtube.com/watch?v=..."
+    },
+    "customQuestion": {
+      "label": "ተጨማሪ የውይይት ጥያቄ (አማራጭ)",
+      "placeholder": "ሌሎች እጩዎች ሊመልሱበት የሚፈልጉትን ጥያቄ ያክሉ..."
+    }
+  },
+  "step5": {
+    "quizTitle": "የማስተካከያ ጥያቄዎችን ይሙሉ",
+    "quizDescription": "የፖለቲካና ማህበረሰብ አስተያየቶቻችንን ለማስተዋል እባክዎ እነዚህን ጥያቄዎች ይሙሉ።"
+  },
+  "step6": {
+    "title": "የመመዝገብ ማቅረቢያ ተጠናቋል",
+    "summary": {
+      "title": "የዝርዝሮች ማጠቃለያ:",
+      "name": "ስም",
+      "candidacyType": "የመመዝገብ አይነት",
+      "minister": "ሚኒስትር",
+      "committeeMember": "የኮሚቴ አባል",
+      "position": "ቦታ",
+      "committee": "ኮሚቴ",
+      "profileImage": "የመገለጫ ፎቶ",
+      "uploaded": "ተሰቅሏል",
+      "notUploaded": "አልተሰቀመም",
+      "documents": "ሰነዶች",
+      "uploadedCount": "ተሰቅሏል"
+    },
+    "submissionInfo": {
+      "part1": "መመዝገብዎን ከላኩ በኋላ በ24 ሰዓታት ውስጥ ማረጋገጫ ኢሜይል ይደርሳችሁ። መመዝገብዎ ይገመገማል እና ከተፈቀደ በኋላ በድህረ ገጹ ላይ ይታያል።",
+      "ministerSpecific": " እንዲሁም ሌሎች እጩዎች የውይይት ጥያቄዎች ሲጨምሩ ማሳወቂያ ይደርሳችሁ።"
+    },
+    "submitButton": "መመዝገብ ያስገቡ"
+  },
+  "navigation": {
+    "previous": "የቀድሞ",
+    "next": "ቀጣይ"
+  },
+  "positions": {
+    "primeMinister": "ጠቅላይ ሚኒስትር",
+    "ministerOfDefense": "የመከላከያ ሚኒስትር",
+    "ministerOfFinance": "የፋይናንስ ሚኒስትር",
+    "ministerOfEducation": "የትምህርት ሚኒስትር",
+    "ministerOfHealth": "የጤና ሚኒስትር",
+    "ministerOfTransport": "የትራንስፖርት ሚኒስትር",
+    "ministerOfJustice": "የፍትሕ ሚኒስትር",
+    "ministerOfHousingAndConstruction": "የመኖሪያና ህንፃ ሚኒስትር",
+    "ministerOfInterior": "የውስጥ ጉዳይ ሚኒስትር",
+    "ministerOfForeignAffairs": "የውጭ ጉዳይ ሚኒስትር",
+    "ministerOfEnergy": "የኃይል ሚኒስትር",
+    "ministerOfEnvironmentalProtection": "የአካባቢ ጥበቃ ሚኒስትር",
+    "ministerOfCultureAndSport": "የባህልና ስፖርት ሚኒስትር",
+    "ministerOfAliyahAndIntegration": "የአሊያና መዋቅር ሚኒስትር",
+    "ministerOfWelfare": "የደህንነት ሚኒስትር",
+    "ministerOfAgriculture": "የግብርና ሚኒስትር",
+    "ministerOfIndustryAndTrade": "የኢንዱስትሪና ንግድ ሚኒስትር",
+    "ministerOfDiaspora": "የስደተኞች ሚኒስትር"
+  },
+  "committees": {
+    "knessetCommittee": "የክኔሴት ኮሚቴ",
+    "financeCommittee": "የፋይናንስ ኮሚቴ",
+    "economyCommittee": "የኢኮኖሚ ኮሚቴ",
+    "foreignAffairsAndDefenseCommittee": "የውጭ ጉዳይና መከላከያ ኮሚቴ",
+    "interiorAndEnvironmentalProtectionCommittee": "የውስጥ ጉዳይና አካባቢ ጥበቃ ኮሚቴ",
+    "internalSecurityCommittee": "የውስጥ ደህንነት ኮሚቴ",
+    "specialNationalInfrastructureProjectsAndJewishReligiousServicesCommittee": "የሀገር አቀፍ ኢንፍራስትራክቸር ፕሮጀክቶችና የአይሁድ ሃይማኖት አገልግሎቶች ኮሚቴ",
+    "constitutionLawAndJusticeCommittee": "የሕግና ፍትሕ ኮሚቴ",
+    "aliyahAbsorptionAndDiasporaAffairsCommittee": "የአሊያና መዋቅርና የስደተኞች ጉዳይ ኮሚቴ",
+    "educationCultureAndSportCommittee": "የትምህርት ባህልና ስፖርት ኮሚቴ",
+    "laborAndWelfareCommittee": "የሥራና ደህንነት ኮሚቴ",
+    "healthCommittee": "የጤና ኮሚቴ",
+    "stateControlCommittee": "የመንግስት ቁጥጥር ኮሚቴ",
+    "advancementOfWomenAndGenderEqualityCommittee": "የሴቶች ማሻሻያና የፆታ እኩልነት ኮሚቴ",
+    "scienceAndTechnologyCommittee": "የሳይንስና ቴክኖሎጂ ኮሚቴ"
+  }
+}

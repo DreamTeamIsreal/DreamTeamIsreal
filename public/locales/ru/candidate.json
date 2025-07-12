@@ -1,0 +1,21 @@
+{
+  "forMinister": "Кандидат в министра",
+  "forCommittee": "Кандидат в комитет",
+  "experience": "Опыт",
+  "supporters": "Поддержка",
+  "rating": "Рейтинг",
+  "match": "Совпадение",
+  "viewProfile": "Просмотреть профиль",
+  "fullRanking": "Полный рейтинг",
+  "experienceEducation": "15 лет опыта в образовании",
+  "experienceHealth": "20 лет в здравоохранении",
+  "experienceJustice": "12 лет в юстиции",
+  "experienceTransport": "18 лет в транспорте",
+  "experienceKnesset": "10 лет парламентского опыта",
+  "experienceEconomy": "14 лет в экономике",
+  "plans": {
+    "fiveYearTitle": "Пятилетний план",
+    "vision2048Title": "Видение 2048",
+    "yearlyTitle": "Годовой план"
+  }
+}

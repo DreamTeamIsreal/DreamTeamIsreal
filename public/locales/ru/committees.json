@@ -1,0 +1,19 @@
+{
+  "knesset": "Кнессет",
+  "finance_committee": "Комитет по финансам",
+  "economy": "Комитет по экономике",
+  "foreign_defense": "Комитет по иностранным делам и обороне",
+  "interior_env": "Комитет по внутренним делам и охране окружающей среды",
+  "education_culture": "Комитет по образованию и культуре",
+  "health_committee": "Комитет по здравоохранению",
+  "labor_welfare": "Комитет по труду и социальному обеспечению",
+  "constitution_law": "Конституционный и правовой комитет",
+  "science_technology_committee": "Комитет по науке и технологиям",
+  "agriculture_committee": "Комитет по сельскому хозяйству",
+  "tourism_committee": "Комитет по туризму",
+  "social_affairs_committee": "Комитет по социальным вопросам",
+  "religious_affairs_committee": "Комитет по религиозным вопросам",
+  "internal_security_committee": "Комитет по внутренней безопасности",
+  "state_audit_committee": "Комитет государственного контроля",
+  "women_equality_committee": "Комитет по положению женщин и гендерному равенству"
+}

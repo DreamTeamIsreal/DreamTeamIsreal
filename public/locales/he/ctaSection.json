@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "tagline": "הגיע הזמן לשינוי",
+    "heading": "בנה את העתיד",
+    "description": "הצטרף לרעיון המהפכני שישנה את פני הפוליטיקה הישראלית לתמיד. בנה את נבחרת החלומות שלך עוד היום."
+  },
+  "stats": {
+    "ministersLabel": "שרים נבחרים",
+    "districtsLabel": "מחוזות בחירה",
+    "matchingQuestionsLabel": "שאלות התאמה",
+    "knessetCommitteesLabel": "ועדות כנסת"
+  },
+  "buttons": {
+    "buildTeam": "בנה את נבחרת החלומות שלך",
+    "downloadDocument": "הורד את המסמך המלא"
+  },
+  "info": {
+    "interestedTitle": "למתעניינים",
+    "interestedDescription": "המסמך המלא כולל 100 שאלות מפורטות, הסבר על המודל הפוליטי החדש, ודוגמאות לדיונים ציבוריים.",
+    "readMoreIdea": "קרא עוד על הרעיון"
+  },
+  "community": {
+    "joinTitle": "הצטרף לקהילה",
+    "joinDescription": "הפלטפורמה תהיה זמינה בקרוב. הירשם לעדכונים ותהיה בין הראשונים לחוות את החוויה החדשה.",
+    "emailPlaceholder": "האימייל שלך",
+    "subscribeButton": "הירשם"
+  }
+}

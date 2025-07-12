@@ -1,0 +1,184 @@
+{
+  "submissionSuccessAlert": "تم تقديم ترشيحك بنجاح! ستتلقى تأكيدًا عبر البريد الإلكتروني خلال 24 ساعة.",
+  "notRegistered": {
+    "title": "مطلوب التسجيل في المنصة",
+    "description": "لتقديم ترشيحك، يجب عليك أولاً التسجيل في المنصة.",
+    "startButton": "بدء التسجيل"
+  },
+  "mainHeading": {
+    "title": "تقديم مرشح لمنصب عام",
+    "description": "يرجى تعبئة جميع التفاصيل المطلوبة لتقديم ترشيحك."
+  },
+  "steps": {
+    "typeOfCandidacy": "نوع الترشيح",
+    "personalDetails": "المعلومات الشخصية",
+    "requiredDocuments": "المستندات المطلوبة",
+    "workPlans": "خطط العمل",
+    "submissionComplete": "اكتمال التقديم",
+    "stepNumber": "الخطوة {{number}}",
+    "matchQuiz": "استبيان التوافق"
+  },
+  "step1": {
+    "title": "اختر نوع الترشيح",
+    "description": "لأي منصب ترغب في التقديم؟",
+    "ministerCard": {
+      "title": "ترشيح وزير",
+      "description": "قدم طلبك لمنصب وزاري في وزارات الحكومة المختلفة. مطلوب خطط عمل مفصلة ورؤية طويلة الأمد."
+    },
+    "committeeCard": {
+      "title": "ترشيح لجنة الكنيست",
+      "description": "قدم طلبك للتمثيل الإقليمي في إحدى اللجان الدائمة الخمسة عشر في الكنيست. تمثيل إقليمي وأصوات محلية."
+    }
+  },
+  "step2": {
+    "title": "المعلومات الشخصية",
+    "description": "يرجى تعبئة التفاصيل الأساسية الخاصة بك",
+    "profileImage": {
+      "label": "صورة الملف الشخصي",
+      "uploadText": "رفع صورة",
+      "requirements": "صورة واضحة واحترافية، JPG/PNG حتى 5MB"
+    },
+    "fullName": {
+      "label": "الاسم الكامل",
+      "placeholder": "أدخل الاسم الكامل"
+    },
+    "desiredPosition": {
+      "label": "المنصب المطلوب",
+      "placeholder": "اختر المنصب"
+    },
+    "desiredCommittee": {
+      "label": "اللجنة المطلوبة",
+      "placeholder": "اختر اللجنة"
+    },
+    "professionalExperience": {
+      "label": "الخبرة المهنية",
+      "placeholder": "صف خبرتك المهنية..."
+    },
+    "education": {
+      "label": "التعليم",
+      "placeholder": "صف تعليمك..."
+    },
+    "personalVision": {
+      "label": "الرؤية الشخصية والفكرية",
+      "placeholder": "صف رؤيتك وفكرك..."
+    }
+  },
+  "step3": {
+    "title": "المستندات المطلوبة",
+    "description": "قم برفع المستندات المطلوبة للتحقق من ترشيحك",
+    "documents": {
+      "policeRecord": "سجل الشرطة",
+      "wealthDeclaration": "إقرار الذمة المالية",
+      "conflictOfInterest": "وثيقة تضارب المصالح",
+      "cv": "السيرة الذاتية الكاملة"
+    },
+    "uploadArea": {
+      "dragDrop": "اسحب الملف أو انقر للرفع",
+      "fileTypes": "PDF, DOC, DOCX حتى 10MB"
+    },
+    "importantNotes": {
+      "title": "ملاحظات هامة:",
+      "note1": "يجب أن تكون جميع المستندات بصيغة PDF أو Word",
+      "note2": "ستكون المستندات متاحة للجمهور على الموقع",
+      "note3": "تأكد من أن جميع المعلومات دقيقة ومحدثة",
+      "note4": "سيتم مراجعة المستندات قبل الموافقة على الترشيح"
+    }
+  },
+  "step4": {
+    "ministerTitle": "خطط العمل",
+    "committeeTitle": "الرؤية والخطة",
+    "ministerDescription": "فصل خططك ورؤيتك للمنصب",
+    "committeeDescription": "صف رؤيتك للعمل في اللجنة",
+    "fiveYearPlan": {
+      "label": "خطة خمسية",
+      "placeholder": "صف خطتك للسنوات الخمس القادمة..."
+    },
+    "vision2048": {
+      "label": "رؤية طويلة الأمد (حتى 2048)",
+      "placeholder": "صف رؤيتك طويلة الأمد..."
+    },
+    "yearlyPlan": {
+      "label": "خطة سنوية مفصلة",
+      "placeholder": "صف خطتك المفصلة للسنة الأولى..."
+    },
+    "committeeWorkPlan": {
+      "label": "رؤية وخطة العمل في اللجنة",
+      "placeholder": "صف رؤيتك وخطتك للعمل في اللجنة..."
+    },
+    "videoLink": {
+      "label": "رابط فيديو تعريفي (اختياري)",
+      "placeholder": "https://youtube.com/watch?v=..."
+    },
+    "customQuestion": {
+      "label": "سؤال إضافي للنقاش (اختياري)",
+      "placeholder": "أضف سؤالاً ترغب أن يجيب عليه باقي المرشحين..."
+    }
+  },
+  "step5": {
+    "quizTitle": "أكمل استبيان التوافق",
+    "quizDescription": "أجب عن هذه الأسئلة لمساعدتنا في فهم آرائك السياسية والاجتماعية."
+  },
+  "step6": {
+    "title": "اكتمال تقديم المرشح",
+    "summary": {
+      "title": "ملخص التفاصيل:",
+      "name": "الاسم",
+      "candidacyType": "نوع الترشيح",
+      "minister": "وزير",
+      "committeeMember": "عضو لجنة الكنيست",
+      "position": "المنصب",
+      "committee": "اللجنة",
+      "profileImage": "صورة الملف الشخصي",
+      "uploaded": "تم الرفع",
+      "notUploaded": "لم يتم الرفع",
+      "documents": "المستندات",
+      "uploadedCount": "تم الرفع"
+    },
+    "submissionInfo": {
+      "part1": "بعد تقديم ترشيحك، ستتلقى تأكيدًا عبر البريد الإلكتروني خلال 24 ساعة. سيتم مراجعة الترشيح ونشره على الموقع بعد الموافقة.",
+      "ministerSpecific": " ستتلقى أيضًا إشعارًا عندما يضيف مرشحون آخرون أسئلة للنقاش."
+    },
+    "submitButton": "تقديم الترشيح"
+  },
+  "navigation": {
+    "previous": "السابق",
+    "next": "التالي"
+  },
+  "positions": {
+    "primeMinister": "رئيس الوزراء",
+    "ministerOfDefense": "وزير الدفاع",
+    "ministerOfFinance": "وزير المالية",
+    "ministerOfEducation": "وزير التعليم",
+    "ministerOfHealth": "وزير الصحة",
+    "ministerOfTransport": "وزير النقل",
+    "ministerOfJustice": "وزير العدل",
+    "ministerOfHousingAndConstruction": "وزير الإسكان والبناء",
+    "ministerOfInterior": "وزير الداخلية",
+    "ministerOfForeignAffairs": "وزير الخارجية",
+    "ministerOfEnergy": "وزير الطاقة",
+    "ministerOfEnvironmentalProtection": "وزير حماية البيئة",
+    "ministerOfCultureAndSport": "وزير الثقافة والرياضة",
+    "ministerOfAliyahAndIntegration": "وزير الهجرة والاستيعاب",
+    "ministerOfWelfare": "وزير الرفاهية",
+    "ministerOfAgriculture": "وزير الزراعة",
+    "ministerOfIndustryAndTrade": "وزير الصناعة والتجارة",
+    "ministerOfDiaspora": "وزير الشتات"
+  },
+  "committees": {
+    "knessetCommittee": "لجنة الكنيست",
+    "financeCommittee": "لجنة المالية",
+    "economyCommittee": "لجنة الاقتصاد",
+    "foreignAffairsAndDefenseCommittee": "لجنة الشؤون الخارجية والدفاع",
+    "interiorAndEnvironmentalProtectionCommittee": "لجنة الداخلية وحماية البيئة",
+    "internalSecurityCommittee": "لجنة الأمن الداخلي",
+    "specialNationalInfrastructureProjectsAndJewishReligiousServicesCommittee": "لجنة مشاريع البنية التحتية الوطنية الخاصة وخدمات الدين اليهودية",
+    "constitutionLawAndJusticeCommittee": "لجنة الدستور والقانون والعدل",
+    "aliyahAbsorptionAndDiasporaAffairsCommittee": "لجنة الهجرة والاستيعاب وشؤون الشتات",
+    "educationCultureAndSportCommittee": "لجنة التعليم والثقافة والرياضة",
+    "laborAndWelfareCommittee": "لجنة العمل والرفاهية",
+    "healthCommittee": "لجنة الصحة",
+    "stateControlCommittee": "لجنة مراقبة الدولة",
+    "advancementOfWomenAndGenderEqualityCommittee": "لجنة النهوض بمكانة المرأة والمساواة بين الجنسين",
+    "scienceAndTechnologyCommittee": "لجنة العلوم والتكنولوجيا"
+  }
+}

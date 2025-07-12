@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "tagline": "מהפכה דמוקרטית חדשה",
+    "headingPart1": "נבחרת",
+    "headingPart2": "החלומות",
+    "description": "בחר את השרים שלך ישירות. בנה את הממשלה שתשנה את ישראל."
+  },
+  "benefits": {
+    "directElection": {
+      "title": "בחירה ישירה",
+      "description": "בחר את השרים ישירות ללא תלות במפלגות"
+    },
+    "fullTransparency": {
+      "title": "שקיפות מלאה",
+      "description": "כל מועמד חושף את כל המידע הנדרש"
+    },
+    "maximumEfficiency": {
+      "title": "יעילות מקסימלית",
+      "description": "ממשלה קטנה ומקצועית עד 18 שרים"
+    }
+  },
+  "cta": {
+    "buildTeamButton": "בנה את נבחרת החלומות שלך",
+    "learnMoreButton": "למד עוד על המודל"
+  },
+  "stats": {
+    "ministersLabel": "שרים מקסימום",
+    "districtsLabel": "מחוזות בחירה",
+    "matchingQuestionsLabel": "שאלות התאמה",
+    "knessetCommitteesLabel": "ועדות כנסת"
+  }
+}

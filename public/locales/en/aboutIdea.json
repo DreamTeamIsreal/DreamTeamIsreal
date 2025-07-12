@@ -1,0 +1,89 @@
+{
+  "benefits": {
+    "title": "Benefits",
+    "description": "What will we gain from transitioning to the new model?",
+    "stableGovernment": "Stable and efficient governance",
+    "fullTransparency": "Full transparency",
+    "increasedAccountability": "Increased accountability",
+    "fairRepresentation": "Fair representation for all citizens",
+    "governmentalProfessionalism": "Governmental professionalism",
+    "strengthenedDemocracy": "Strengthened democracy"
+  },
+  "hero": {
+    "title": "About the Idea",
+    "heading1": "Direct Democracy",
+    "heading2": "For a New Era",
+    "description": "The idea behind \"Dream Team\" is to create a new political system based on direct democracy, full transparency, and governmental professionalism."
+  },
+  "problems": {
+    "title": "Problems in the Current System",
+    "description": "The Israeli political system suffers from several structural problems that prevent it from functioning efficiently.",
+    "trustCrisis": {
+      "title": "Trust Crisis",
+      "description": "Public trust in the political system is at an all-time low."
+    },
+    "instability": {
+      "title": "Instability",
+      "description": "Short-term governments that fail to implement long-term policies."
+    },
+    "misrepresentation": {
+      "title": "Inadequate Representation",
+      "description": "The party system does not faithfully represent the will of the public."
+    },
+    "lackOfTransparency": {
+      "title": "Lack of Transparency",
+      "description": "Decision-making processes are closed and not transparent to the public."
+    }
+  },
+  "solutions": {
+    "title": "Our Solution",
+    "description": "An innovative model combining direct democracy with governmental professionalism.",
+    "directElection": {
+      "title": "Direct Election of Ministers",
+      "description": "Citizens directly elect ministers, independent of political parties."
+    },
+    "regionalRepresentation": {
+      "title": "District Representation",
+      "description": "12 electoral districts ensuring adequate representation for each region."
+    },
+    "fullTransparency": {
+      "title": "Full Transparency",
+      "description": "Every candidate discloses all required information to the public."
+    },
+    "professionalism": {
+      "title": "Professionalism",
+      "description": "Appointments based on qualifications, not political considerations."
+    },
+    "howItWorks": {
+      "title": "How It Works?",
+      "description": "A simple and transparent process for electing the government.",
+      "step1": {
+        "title": "Platform Registration",
+        "description": "Citizens register on the platform with full identity verification."
+      },
+      "step2": {
+        "title": "Completing the Matching Questionnaire",
+        "description": "100 questions allowing for precise matching with candidates."
+      },
+      "step3": {
+        "title": "Selecting the Dream Team",
+        "description": "Choosing the most suitable candidates for each role."
+      },
+      "step4": {
+        "title": "Voting and Determining Results",
+        "description": "Democratic voting and determination of the new government."
+      }
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "\"We envision a future where every citizen in Israel can directly influence governance, where transparency is the norm, not the exception, and where professionalism guides decision-making. This is a future of true, efficient, and accountable democracy.\"",
+      "team": "The \"Dream Team\" Project Team"
+    },
+    "cta": {
+      "title": "Let's Make the Vision a Reality",
+      "description": "Join us in creating the democratic future of Israel.",
+      "joinPlatform": "Join the Platform",
+      "readDocument": "Read the Full Document"
+    }
+  }
+}

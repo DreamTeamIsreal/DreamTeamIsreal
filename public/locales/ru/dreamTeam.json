@@ -1,0 +1,86 @@
+{
+  "title": "Создание команды мечты",
+  "subtitle": "Выберите предпочитаемых кандидатов на должности министров и членов комитетов",
+  "positions": {
+    "ministers": "Министры",
+    "committees": "Комитеты"
+  },
+  "actions": {
+    "createTeam": "Создать команду",
+    "updateTeam": "Обновить команду",
+    "deleteTeam": "Удалить команду",
+    "viewTeam": "Просмотреть команду",
+    "saving": "Сохранение...",
+    "deleting": "Удаление...",
+    "teamCreated": "Команда создана",
+    "teamUpdated": "Команда обновлена",
+    "teamDeleted": "Команда удалена"
+  },
+  "form": {
+    "teamName": "Название команды",
+    "teamNamePlaceholder": "Введите название вашей команды",
+    "description": "Описание",
+    "descriptionPlaceholder": "Введите описание вашей команды",
+    "selectCandidate": "Выбрать кандидата",
+    "noCandidates": "Нет кандидатов на эту должность",
+    "searchCandidates": "Поиск кандидатов..."
+  },
+  "validation": {
+    "teamNameRequired": "Название команды обязательно",
+    "descriptionRequired": "Описание обязательно",
+    "atLeastOneCandidate": "Необходимо выбрать хотя бы одного кандидата"
+  },
+  "teamList": {
+    "title": "Список команд",
+    "noTeams": "Команды еще не созданы",
+    "createFirstTeam": "Создайте свою первую команду"
+  },
+  "teamCard": {
+    "candidates": "Кандидаты",
+    "createdOn": "Создано",
+    "lastUpdated": "Последнее обновление"
+  },
+  "candidateCard": {
+    "viewProfile": "Просмотреть профиль",
+    "removeFromTeam": "Удалить из команды",
+    "experience": "Опыт",
+    "education": "Образование"
+  },
+  "positions": {
+    "primeMinister": "Премьер-министр",
+    "ministerOfDefense": "Министр обороны",
+    "ministerOfFinance": "Министр финансов",
+    "ministerOfEducation": "Министр образования",
+    "ministerOfHealth": "Министр здравоохранения",
+    "ministerOfTransport": "Министр транспорта",
+    "ministerOfJustice": "Министр юстиции",
+    "ministerOfHousingAndConstruction": "Министр строительства и жилищно-коммунального хозяйства",
+    "ministerOfInterior": "Министр внутренних дел",
+    "ministerOfForeignAffairs": "Министр иностранных дел",
+    "ministerOfEnergy": "Министр энергетики",
+    "ministerOfEnvironmentalProtection": "Министр охраны окружающей среды",
+    "ministerOfCultureAndSport": "Министр культуры и спорта",
+    "ministerOfAliyahAndIntegration": "Министр алии и интеграции",
+    "ministerOfWelfare": "Министр благосостояния",
+    "ministerOfAgriculture": "Министр сельского хозяйства",
+    "ministerOfIndustryAndTrade": "Министр промышленности и торговли",
+    "ministerOfDiaspora": "Министр по делам диаспоры"
+  },
+  "committees": {
+    "knessetCommittee": "Комитет Кнессета",
+    "financeCommittee": "Финансовый комитет",
+    "economyCommittee": "Экономический комитет",
+    "foreignAffairsAndDefenseCommittee": "Комитет по иностранным делам и обороне",
+    "interiorAndEnvironmentalProtectionCommittee": "Комитет по внутренним делам и охране окружающей среды",
+    "internalSecurityCommittee": "Комитет по внутренней безопасности",
+    "specialNationalInfrastructureProjectsAndJewishReligiousServicesCommittee": "Комитет по специальным национальным инфраструктурным проектам и еврейским религиозным службам",
+    "constitutionLawAndJusticeCommittee": "Комитет по конституции, закону и правосудию",
+    "aliyahAbsorptionAndDiasporaAffairsCommittee": "Комитет по алии, абсорбции и делам диаспоры",
+    "educationCultureAndSportCommittee": "Комитет по образованию, культуре и спорту",
+    "laborAndWelfareCommittee": "Комитет по труду и благосостоянию",
+    "healthCommittee": "Комитет по здравоохранению",
+    "stateControlCommittee": "Комитет государственного контроля",
+    "advancementOfWomenAndGenderEqualityCommittee": "Комитет по продвижению статуса женщин и гендерного равенства",
+    "scienceAndTechnologyCommittee": "Комитет по науке и технологиям"
+  }
+}

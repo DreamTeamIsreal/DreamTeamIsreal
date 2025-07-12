@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "contactUs": "تواصل معنا",
+    "letsTalk": "دعنا نتحدث",
+    "weAreHereForYou": "نحن هنا من أجلك",
+    "description": "هل لديك أسئلة أو اقتراحات أو ترغب في الانضمام إلى المشروع؟ يسعدنا أن نسمع منك ونساعدك بأي طريقة ممكنة."
+  },
+  "contactMethods": {
+    "heading": "طرق التواصل",
+    "subheading": "اختر الطريقة الأنسب لك",
+    "email": {
+      "title": "البريد الإلكتروني",
+      "action": "إرسال بريد إلكتروني"
+    },
+    "phone": {
+      "title": "الهاتف",
+      "action": "اتصل الآن"
+    },
+    "chat": {
+      "title": "الدردشة المباشرة",
+      "description": "متاح 24/7",
+      "action": "فتح الدردشة"
+    },
+    "address": {
+      "title": "العنوان",
+      "description": "شارع الديمقراطية 1، تل أبيب",
+      "action": "احصل على الاتجاهات"
+    }
+  },
+  "form": {
+    "heading": "أرسل لنا رسالة",
+    "subheading": "املأ النموذج وسنتواصل معك قريباً",
+    "nameLabel": "الاسم الكامل",
+    "namePlaceholder": "أدخل الاسم الكامل",
+    "emailLabel": "البريد الإلكتروني",
+    "phoneLabel": "الهاتف",
+    "typeLabel": "نوع الاستفسار",
+    "typeOptionGeneral": "استفسار عام",
+    "typeOptionCandidate": "ترشيح",
+    "typeOptionTechnical": "دعم فني",
+    "typeOptionPress": "صحافة",
+    "typeOptionPartnership": "شراكة",
+    "subjectLabel": "الموضوع",
+    "subjectPlaceholder": "موضوع الرسالة",
+    "messageLabel": "الرسالة",
+    "messagePlaceholder": "اكتب رسالتك هنا...",
+    "sendButton": "إرسال رسالة",
+    "submissionSuccessAlert": "تم إرسال رسالتك بنجاح! سنتواصل معك قريباً."
+  },
+  "departments": {
+    "heading": "الأقسام ومجالات المسؤولية",
+    "subheading": "تواصل مباشرة مع القسم المختص",
+    "generalQuestions": {
+      "title": "أسئلة عامة",
+      "description": "معلومات حول المشروع والنموذج الجديد"
+    },
+    "technicalSupport": {
+      "title": "الدعم الفني",
+      "description": "مشاكل في الموقع والمنصة"
+    },
+    "candidates": {
+      "title": "المرشحون",
+      "description": "أسئلة بخصوص تقديم الترشيحات"
+    },
+    "press": {
+      "title": "صحافة",
+      "description": "استفسارات وسائل الإعلام والصحفيين"
+    }
+  },
+  "officeHours": {
+    "heading": "ساعات العمل",
+    "weekdayLabel": "الأحد - الخميس",
+    "weekdayHours": "08:00 - 18:00",
+    "fridayLabel": "الجمعة",
+    "fridayHours": "08:00 - 13:00",
+    "chatLabel": "الدردشة المباشرة",
+    "chatHours": "24/7"
+  },
+  "community": {
+    "title": "انضم إلى المجتمع",
+    "description": "انضم إلى مجتمع داعمينا وابق على اطلاع بجميع الأخبار والتطورات.",
+    "joinButton": "انضم الآن"
+  }
+}

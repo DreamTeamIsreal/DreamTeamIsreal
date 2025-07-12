@@ -1,0 +1,76 @@
+{
+  "heading": {
+    "title": "\"የህልም ቡድን\" ድር ጣቢያ",
+    "description": "ለዜጎች ምርጫ፣ ቁጥጥር እና ተሳትፎ ማዕከላዊ ዲጂታል መድረክ"
+  },
+  "steps": {
+    "security": {
+      "title": "ደህንነት እና የማንነት ማረጋገጫ",
+      "description": "በጠንካራ የማንነት ማረጋገጫ (MFA) ደህንነቱ የተጠበቀ መግቢያ",
+      "features": {
+        "feature1": "ከህዝብ መመዝገቢያ ጋር ማረጋገጥ",
+        "feature2": "ለሞባይል ስልክ የአንድ ጊዜ ኮድ",
+        "feature3": "የላቀ ኢንክሪፕሽን",
+        "feature4": "አንድ ጊዜ ብቻ መሳተፍ"
+      }
+    },
+    "candidates": {
+      "title": "እጩነት ማስገባት",
+      "description": "ሁሉንም አስፈላጊ መረጃዎች የያዘ ግልጽ የእጩ መገለጫ",
+      "features": {
+        "feature1": "የፖሊስ ማረጋገጫ እና የንብረት መግለጫ",
+        "feature2": "ሙሉ የስራ ልምድ",
+        "feature3": "የአምስት ዓመት እቅድ እና ራዕይ 2048",
+        "feature4": "ዝርዝር ዓመታዊ እቅድ"
+      }
+    },
+    "voting": {
+      "title": "የህልም ቡድን ግንባታ",
+      "description": "ከማዛመጃ መጠይቅ ጋር እጩዎችን ለመምረጥ በይነተገናኝ መሳሪያ",
+      "features": {
+        "feature1": "አጠቃላይ የ100 ጥያቄዎች መጠይቅ",
+        "feature2": "ብልህ የማዛመጃ ዘዴ",
+        "feature3": "በእጩዎች መካከል ማወዳደር",
+        "feature4": "የአካባቢውን ባለስልጣን ባህሪ መምረጥ"
+      }
+    },
+    "results": {
+      "title": "የውሂብ እይታ",
+      "description": "የህልም ቡድኖችን በይነተገናኝ ካርታዎች ላይ ማሳየት",
+      "features": {
+        "feature1": "የአውራጃ እና የሀገር አቀፍ ቡድን",
+        "feature2": "የ12 ወረዳዎች ካርታ",
+        "feature3": "በእውነተኛ ጊዜ ማዘመን",
+        "feature4": "የተገደቡ የውይይት መድረኮች"
+      }
+    }
+  },
+  "navigationButtons": {
+    "previous": "የቀድሞ",
+    "next": "ቀጣይ"
+  },
+  "demoInterface": {
+    "title": "የተጠቃሚ በይነገጽ",
+    "security": {
+      "item1": "የማንነት ማረጋገጫ",
+      "item2": "የኤስኤምኤስ ኮድ",
+      "item3": "የተፈቀደ መግቢያ"
+    },
+    "candidates": {
+      "name": "ስም: {{name}}",
+      "position": "ቦታ: {{position}}",
+      "experience": "ልምድ: {{years}} ዓመታት",
+      "policeApproval": "✓ የፖሊስ ማረጋገጫ"
+    },
+    "voting": {
+      "question": "ጥያቄ {{current}}/{{total}}: {{topic}}",
+      "match": "ተዛማጅነት: {{percentage}}%",
+      "recommendedCandidate": "የሚመከር እጩ: {{name}}"
+    },
+    "results": {
+      "districtParticipation": "የቴል አቪቭ አውራጃ: {{percentage}}% ተሳትፎ",
+      "leadingTeam": "መሪ ቡድን: ተዘምኗል",
+      "realtimeUpdate": "ዝማኔ: በእውነተኛ ጊዜ"
+    }
+  }
+}

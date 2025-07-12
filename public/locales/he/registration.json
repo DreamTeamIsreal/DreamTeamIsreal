@@ -1,0 +1,32 @@
+{
+  "title": "הרשמת משתמש",
+  "subtitle": "צור את החשבון שלך כדי להשתתף ב-DreamTeamIsrael",
+  "fields": {
+    "israelId": "תעודת זהות",
+    "email": "כתובת אימייל",
+    "mobilePhone": "טלפון נייד",
+    "password": "סיסמה",
+    "confirmPassword": "אימות סיסמה",
+    "fullName": "שם מלא",
+    "fullNamePlaceholder": "הכנס את שמך המלא",
+    "dateOfBirth": "תאריך לידה",
+    "city": "עיר",
+    "cityPlaceholder": "הכנס את העיר שלך"
+  },
+  "validation": {
+    "invalidIsraelId": "תעודת זהות חייבת להיות בדיוק 9 ספרות",
+    "invalidEmail": "אנא הכנס כתובת אימייל תקינה",
+    "invalidPhone": "מספר טלפון חייב להיות בפורמט 05XXXXXXXX",
+    "passwordTooShort": "סיסמה חייבת להיות לפחות 8 תווים",
+    "passwordComplexity": "סיסמה חייבת להכיל אות גדולה, אות קטנה ומספר",
+    "passwordsDoNotMatch": "הסיסמאות אינן תואמות",
+    "nameTooShort": "שם חייב להיות לפחות 2 תווים",
+    "invalidAge": "גיל חייב להיות בין 18 ל-120 שנים",
+    "cityTooShort": "עיר חייבת להיות לפחות 2 תווים",
+    "passwordRequirements": "סיסמה חייבת להיות לפחות 8 תווים עם אות גדולה, אות קטנה ומספר"
+  },
+  "submit": "צור חשבון",
+  "submitting": "יוצר חשבון...",
+  "submittingMock": "מדמה הרשמה...",
+  "mockModeIndicator": "מצב סימולציה: ההרשמה תתבצע בסימולציה"
+}

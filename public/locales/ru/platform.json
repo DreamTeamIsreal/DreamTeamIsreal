@@ -1,0 +1,16 @@
+{
+  "title": "Команда мечты",
+  "subtitle": "Правительство прямого гражданства",
+  "candidateSubmission": "Подача заявки",
+  "teamBuilder": "Создание команды мечты",
+  "dataVisualization": "Визуализация данных",
+  "candidatesDirectory": "Каталог кандидатов",
+  "candidatesDirectoryDescription": "Просмотрите всех кандидатов на государственные должности и в комиссии Кнессета",
+  "searchPlaceholder": "Искать кандидата...",
+  "allCandidates": "Все кандидаты",
+  "ministerCandidates": "Кандидаты в министры",
+  "committeeCandidates": "Кандидаты в комитеты",
+  "allPositions": "Все должности",
+  "allDistricts": "Все районы",
+  "clearFilters": "Очистить фильтры"
+}

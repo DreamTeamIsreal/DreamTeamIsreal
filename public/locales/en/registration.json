@@ -1,0 +1,32 @@
+{
+  "title": "User Registration",
+  "subtitle": "Create your account to participate in DreamTeamIsrael",
+  "fields": {
+    "israelId": "Israel ID",
+    "email": "Email Address",
+    "mobilePhone": "Mobile Phone",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "dateOfBirth": "Date of Birth",
+    "city": "City",
+    "cityPlaceholder": "Enter your city"
+  },
+  "validation": {
+    "invalidIsraelId": "Israel ID must be exactly 9 digits",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Phone number must be in format 05XXXXXXXX",
+    "passwordTooShort": "Password must be at least 8 characters long",
+    "passwordComplexity": "Password must contain uppercase, lowercase, and number",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "nameTooShort": "Name must be at least 2 characters long",
+    "invalidAge": "Age must be between 18 and 120 years",
+    "cityTooShort": "City must be at least 2 characters long",
+    "passwordRequirements": "Password must be at least 8 characters with uppercase, lowercase, and number"
+  },
+  "submit": "Create Account",
+  "submitting": "Creating Account...",
+  "submittingMock": "Simulating Registration...",
+  "mockModeIndicator": "Mock Mode: Registration will be simulated"
+}

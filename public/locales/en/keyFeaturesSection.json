@@ -1,0 +1,39 @@
+{
+  "heading": {
+    "tagline": "Key Features",
+    "title": "The New Model",
+    "description": "Proposed changes in the governmental structure that will lead to a more efficient, transparent, and accountable administration."
+  },
+  "features": {
+    "newElectionSystem": {
+      "title": "New Electoral System",
+      "subtitle": "The Expanded Citizen Card",
+      "description": "Unifying local and national elections on the same day, with direct election of ministers and determination of the local authority's character."
+    },
+    "smallProfessionalGovernment": {
+      "title": "Small & Professional Government",
+      "subtitle": "Up to 18 Ministries Only",
+      "description": "Limiting the number of ministers, a binding shared national vision, and professional appointments only."
+    },
+    "transparencyAccountability": {
+      "title": "Transparency & Accountability",
+      "subtitle": "Oversight and Performance",
+      "description": "Supreme performance board, public work plans, and a goal-based remuneration mechanism."
+    },
+    "adaptedRegionalRepresentation": {
+      "title": "Adapted Regional Representation",
+      "subtitle": "12 Electoral Districts",
+      "description": "Division according to the character of the local authority, broad representation in Knesset committees from each district."
+    },
+    "continuousEvaluation": {
+      "title": "Continuous Evaluation",
+      "subtitle": "Performance Measurement",
+      "description": "Measurable goals, transparent periodic reports, and an improvement plan for underperformers."
+    },
+    "digitalPlatform": {
+      "title": "Digital Platform",
+      "subtitle": "The Dream Team",
+      "description": "A secure website for candidate selection, a 100-question matching questionnaire, and transparent profiles."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "tagline": "It's Time for Change",
+    "heading": "Build the Future",
+    "description": "Join the revolutionary idea that will change the face of Israeli politics forever. Build your dream team today."
+  },
+  "stats": {
+    "ministersLabel": "Elected Ministers",
+    "districtsLabel": "Electoral Districts",
+    "matchingQuestionsLabel": "Matching Questions",
+    "knessetCommitteesLabel": "Knesset Committees"
+  },
+  "buttons": {
+    "buildTeam": "Build Your Dream Team",
+    "downloadDocument": "Download the Full Document"
+  },
+  "info": {
+    "interestedTitle": "For Those Interested",
+    "interestedDescription": "The full document includes 100 detailed questions, an explanation of the new political model, and examples of public discussions.",
+    "readMoreIdea": "Read More About the Idea"
+  },
+  "community": {
+    "joinTitle": "Join the Community",
+    "joinDescription": "The platform will be available soon. Sign up for updates and be among the first to experience the new journey.",
+    "emailPlaceholder": "Your Email",
+    "subscribeButton": "Subscribe"
+  }
+}

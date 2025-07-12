@@ -1,0 +1,184 @@
+{
+  "submissionSuccessAlert": "Your candidacy was submitted successfully! You will receive confirmation by email within 24 hours.",
+  "notRegistered": {
+    "title": "Platform Registration Required",
+    "description": "To submit your candidacy, you must first register on the platform.",
+    "startButton": "Start Registration"
+  },
+  "mainHeading": {
+    "title": "Candidate Submission for Public Office",
+    "description": "Fill in all required details to submit your candidacy."
+  },
+  "steps": {
+    "typeOfCandidacy": "Type of Candidacy",
+    "personalDetails": "Personal Details",
+    "requiredDocuments": "Required Documents",
+    "workPlans": "Work Plans",
+    "submissionComplete": "Submission Complete",
+    "stepNumber": "Step {{number}}",
+    "matchQuiz": "Match Quiz"
+  },
+  "step1": {
+    "title": "Choose Type of Candidacy",
+    "description": "Which position do you want to apply for?",
+    "ministerCard": {
+      "title": "Minister Candidacy",
+      "description": "Apply for a ministerial position in various government ministries. Detailed work plans and long-term vision required."
+    },
+    "committeeCard": {
+      "title": "Knesset Committee Candidacy",
+      "description": "Apply for regional representation in one of the 15 permanent Knesset committees. Regional representation and local voices."
+    }
+  },
+  "step2": {
+    "title": "Personal Details",
+    "description": "Fill in your basic details",
+    "profileImage": {
+      "label": "Profile Image",
+      "uploadText": "Upload Image",
+      "requirements": "Clear, professional photo, JPG/PNG up to 5MB"
+    },
+    "fullName": {
+      "label": "Full Name",
+      "placeholder": "Enter full name"
+    },
+    "desiredPosition": {
+      "label": "Desired Position",
+      "placeholder": "Select position"
+    },
+    "desiredCommittee": {
+      "label": "Desired Committee",
+      "placeholder": "Select committee"
+    },
+    "professionalExperience": {
+      "label": "Professional Experience",
+      "placeholder": "Describe your professional experience..."
+    },
+    "education": {
+      "label": "Education",
+      "placeholder": "Describe your education..."
+    },
+    "personalVision": {
+      "label": "Personal Vision and Worldview",
+      "placeholder": "Describe your vision and worldview..."
+    }
+  },
+  "step3": {
+    "title": "Required Documents",
+    "description": "Upload the required documents to verify your candidacy",
+    "documents": {
+      "policeRecord": "Police Record",
+      "wealthDeclaration": "Wealth Declaration",
+      "conflictOfInterest": "Conflict of Interest Document",
+      "cv": "Full CV"
+    },
+    "uploadArea": {
+      "dragDrop": "Drag file or click to upload",
+      "fileTypes": "PDF, DOC, DOCX up to 10MB"
+    },
+    "importantNotes": {
+      "title": "Important Notes:",
+      "note1": "All documents must be in PDF or Word format",
+      "note2": "Documents will be available to the public on the website",
+      "note3": "Ensure all information is accurate and up to date",
+      "note4": "Documents will be reviewed before candidacy approval"
+    }
+  },
+  "step4": {
+    "ministerTitle": "Work Plans",
+    "committeeTitle": "Vision and Plan",
+    "ministerDescription": "Detail your plans and vision for the position",
+    "committeeDescription": "Describe your vision for work in the committee",
+    "fiveYearPlan": {
+      "label": "Five-Year Plan",
+      "placeholder": "Describe your plan for the next 5 years..."
+    },
+    "vision2048": {
+      "label": "Long-Term Vision (to 2048)",
+      "placeholder": "Describe your long-term vision..."
+    },
+    "yearlyPlan": {
+      "label": "Detailed Annual Plan",
+      "placeholder": "Describe your detailed plan for the first year..."
+    },
+    "committeeWorkPlan": {
+      "label": "Vision and Work Plan in Committee",
+      "placeholder": "Describe your vision and plan for work in the committee..."
+    },
+    "videoLink": {
+      "label": "Introduction Video Link (optional)",
+      "placeholder": "https://youtube.com/watch?v=..."
+    },
+    "customQuestion": {
+      "label": "Additional Debate Question (optional)",
+      "placeholder": "Add a question you want other candidates to answer..."
+    }
+  },
+  "step5": {
+    "quizTitle": "Complete the Match Quiz",
+    "quizDescription": "Answer these questions to help us understand your political and social views."
+  },
+  "step6": {
+    "title": "Candidate Submission Complete",
+    "summary": {
+      "title": "Summary of Details:",
+      "name": "Name",
+      "candidacyType": "Type of Candidacy",
+      "minister": "Minister",
+      "committeeMember": "Knesset Committee Member",
+      "position": "Position",
+      "committee": "Committee",
+      "profileImage": "Profile Image",
+      "uploaded": "Uploaded",
+      "notUploaded": "Not uploaded",
+      "documents": "Documents",
+      "uploadedCount": "Uploaded"
+    },
+    "submissionInfo": {
+      "part1": "After submitting your candidacy, you will receive confirmation by email within 24 hours. The candidacy will be reviewed and published on the website after approval.",
+      "ministerSpecific": " You will also receive a notification when other candidates add debate questions."
+    },
+    "submitButton": "Submit Candidacy"
+  },
+  "navigation": {
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "positions": {
+    "primeMinister": "Prime Minister",
+    "ministerOfDefense": "Minister of Defense",
+    "ministerOfFinance": "Minister of Finance",
+    "ministerOfEducation": "Minister of Education",
+    "ministerOfHealth": "Minister of Health",
+    "ministerOfTransport": "Minister of Transport",
+    "ministerOfJustice": "Minister of Justice",
+    "ministerOfHousingAndConstruction": "Minister of Housing and Construction",
+    "ministerOfInterior": "Minister of Interior",
+    "ministerOfForeignAffairs": "Minister of Foreign Affairs",
+    "ministerOfEnergy": "Minister of Energy",
+    "ministerOfEnvironmentalProtection": "Minister of Environmental Protection",
+    "ministerOfCultureAndSport": "Minister of Culture and Sport",
+    "ministerOfAliyahAndIntegration": "Minister of Aliyah and Integration",
+    "ministerOfWelfare": "Minister of Welfare",
+    "ministerOfAgriculture": "Minister of Agriculture",
+    "ministerOfIndustryAndTrade": "Minister of Industry and Trade",
+    "ministerOfDiaspora": "Minister of Diaspora"
+  },
+  "committees": {
+    "knessetCommittee": "Knesset Committee",
+    "financeCommittee": "Finance Committee",
+    "economyCommittee": "Economy Committee",
+    "foreignAffairsAndDefenseCommittee": "Foreign Affairs and Defense Committee",
+    "interiorAndEnvironmentalProtectionCommittee": "Interior and Environmental Protection Committee",
+    "internalSecurityCommittee": "Internal Security Committee",
+    "specialNationalInfrastructureProjectsAndJewishReligiousServicesCommittee": "Special National Infrastructure Projects and Jewish Religious Services Committee",
+    "constitutionLawAndJusticeCommittee": "Constitution, Law and Justice Committee",
+    "aliyahAbsorptionAndDiasporaAffairsCommittee": "Aliyah, Absorption and Diaspora Affairs Committee",
+    "educationCultureAndSportCommittee": "Education, Culture and Sport Committee",
+    "laborAndWelfareCommittee": "Labor and Welfare Committee",
+    "healthCommittee": "Health Committee",
+    "stateControlCommittee": "State Control Committee",
+    "advancementOfWomenAndGenderEqualityCommittee": "Advancement of Women and Gender Equality Committee",
+    "scienceAndTechnologyCommittee": "Science and Technology Committee"
+  }
+}

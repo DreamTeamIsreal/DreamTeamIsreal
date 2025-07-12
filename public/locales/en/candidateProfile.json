@@ -1,0 +1,66 @@
+{
+  "backButton": "Back",
+  "candidate": {
+    "position": "Candidate for Minister of Education",
+    "experience": "15 years of experience in education",
+    "education": "PhD in Educational Sciences, Tel Aviv University",
+    "vision": "An education system that prepares for the future",
+    "achievements": {
+      "item1": "Founded 5 innovative schools",
+      "item2": "Improved scores by 30% in the periphery",
+      "item3": "Developed a STEM program for girls",
+      "item4": "Won the 2023 Education Excellence Award"
+    },
+    "plans": {
+      "fiveYearDescription": "A comprehensive five-year plan to improve the Israeli education system, including investment in educational technology, teacher training, and infrastructure improvements. The goal is to bring Israel to first place in the world in educational achievements.",
+      "vision2048Description": "A long-term vision for creating a personalized education system for every student, integrating artificial intelligence and advanced technologies. By 2048, every student will receive an education tailored to their unique abilities.",
+      "yearlyDescription": "An annual plan including the establishment of 50 new technology classrooms, training 1000 teachers in new technologies, and investing 500 million NIS in improving educational infrastructure."
+    },
+    "customQuestion": "How will you address the shortage of teachers in science subjects?"
+  },
+  "stats": {
+    "support": "Support",
+    "votes": "Votes",
+    "rating": "Rating",
+    "supporters": "Supporters"
+  },
+  "sections": {
+    "aboutCandidate": "About the Candidate",
+    "professionalExperience": "Professional Experience",
+    "education": "Education",
+    "vision": "Vision",
+    "keyAchievements": "Key Achievements",
+    "workPlans": "Work Plans",
+    "debateQuestion": "Question for Debate"
+  },
+  "documents": {
+    "policeApproval": {
+      "type": "Police Approval"
+    },
+    "assetDeclaration": {
+      "type": "Asset Declaration"
+    },
+    "conflictOfInterest": {
+      "type": "Conflict of Interest"
+    },
+    "cv": {
+      "type": "Curriculum Vitae"
+    },
+    "status": {
+      "approved": "Approved"
+    }
+  },
+  "customQuestion": {
+    "label": "Question added by the candidate:"
+  },
+  "sidebar": {
+    "documentsTitle": "Documents",
+    "videoTitle": "Introduction Video",
+    "videoDescription": "Watch the candidate's introduction video",
+    "playVideoButton": "Play Video",
+    "contactTitle": "Contact",
+    "supportCandidateTitle": "Support Candidate",
+    "joinSupporters": "Join {{supporters}} supporters",
+    "addSupportButton": "Add Support"
+  }
+}

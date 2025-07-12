@@ -1,0 +1,16 @@
+{
+  "home": "መነሻ ገጽ",
+  "startNow": "አሁን ይጀምሩ",
+  "notifications": "ማሳወቂያዎች",
+  "user": "ተጠቃሚ",
+  "navigation": {
+    "candidateSubmission": "እጩነት ማስገባት",
+    "teamBuilder": "የቡድን ግንባታ",
+    "dataVisualization": "የውሂብ እይታ",
+    "candidatesDirectory": "የእጩዎች ማውጫ",
+    "matchQuiz": "የማዛመጃ ፈተና"
+  },
+  "headerTitle": "የህልም ቡድን",
+  "headerSubtitle": "የቀጥታ ዜጋ መድረክ",
+  "notificationCount": "{{count}} አዳዲስ ማሳወቂያዎች"
+}

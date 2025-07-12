@@ -1,0 +1,23 @@
+{
+  "pm": "رئيس الوزراء",
+  "defense": "الدفاع",
+  "finance": "المالية",
+  "education": "التعليم",
+  "health": "الصحة",
+  "transport": "النقل",
+  "justice": "العدل",
+  "housing": "الإسكان",
+  "environment": "جودة البيئة",
+  "culture": "الثقافة والرياضة",
+  "welfare": "الرفاه والخدمات الاجتماعية",
+  "foreign_affairs": "الخارجية",
+  "agriculture": "الزراعة",
+  "tourism": "السياحة",
+  "science_technology": "العلوم والتكنولوجيا",
+  "social_affairs": "الشؤون الاجتماعية",
+  "religious_affairs": "الشؤون الدينية",
+  "internal_security": "الأمن الداخلي",
+  "immigration_absorption": "الهجرة والاستيعاب",
+  "economy": "الاقتصاد والصناعة",
+  "diaspora_affairs": "شؤون الشتات"
+}

@@ -1,0 +1,21 @@
+{
+  "forMinister": "מועמד לשר",
+  "forCommittee": "מועמד לוועדת",
+  "experience": "ניסיון",
+  "supporters": "תומכים",
+  "rating": "דירוג",
+  "match": "התאמה",
+  "viewProfile": "צפה בפרופיל",
+  "fullRanking": "דירוג מלא",
+  "experienceEducation": "15 שנות ניסיון בחינוך",
+  "experienceHealth": "20 שנה ברפואה",
+  "experienceJustice": "12 שנה במשפטים",
+  "experienceTransport": "18 שנה בתחבורה",
+  "experienceKnesset": "10 שנות ניסיון פרלמנטרי",
+  "experienceEconomy": "14 שנה בכלכלה",
+  "plans": {
+    "fiveYearTitle": "תוכנית חומש",
+    "vision2048Title": "חזון 2048",
+    "yearlyTitle": "תוכנית שנתית"
+  }
+}

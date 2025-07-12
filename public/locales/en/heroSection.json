@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "tagline": "A New Democratic Revolution",
+    "headingPart1": "The Dream",
+    "headingPart2": "Team",
+    "description": "Elect your ministers directly. Build the government that will change Israel."
+  },
+  "benefits": {
+    "directElection": {
+      "title": "Direct Election",
+      "description": "Elect ministers directly, independent of parties"
+    },
+    "fullTransparency": {
+      "title": "Full Transparency",
+      "description": "Every candidate discloses all required information"
+    },
+    "maximumEfficiency": {
+      "title": "Maximum Efficiency",
+      "description": "A small and professional government of up to 18 ministers"
+    }
+  },
+  "cta": {
+    "buildTeamButton": "Build Your Dream Team",
+    "learnMoreButton": "Learn More About the Model"
+  },
+  "stats": {
+    "ministersLabel": "Maximum Ministers",
+    "districtsLabel": "Electoral Districts",
+    "matchingQuestionsLabel": "Matching Questions",
+    "knessetCommitteesLabel": "Knesset Committees"
+  }
+}

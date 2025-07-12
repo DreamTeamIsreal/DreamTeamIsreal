@@ -1,0 +1,99 @@
+{
+  "hero": {
+    "backButton": "חזור לעמוד הראשי",
+    "title": "דרישות מועמדים",
+    "heading": "דרישות מועמדים",
+    "description": "כל מה שצריך לדעת על הדרישות להגשת מועמדות לתפקיד ציבורי בפלטפורמה"
+  },
+  "basicRequirements": {
+    "title": "דרישות בסיסיות",
+    "description": "התנאים הבסיסיים להגשת מועמדות",
+    "items": {
+      "citizen": "אזרח ישראלי מעל גיל 21",
+      "votingRight": "זכות בחירה פעילה",
+      "noCriminalRecord": "ללא עבר פלילי רלוונטי",
+      "integrity": "יושרה ואמינות אישית"
+    }
+  },
+  "requiredDocuments": {
+    "title": "מסמכים נדרשים",
+    "description": "כל המסמכים הנדרשים להגשת מועמדות",
+    "items": {
+      "policeApproval": "אישור משטרתי עדכני",
+      "assetDeclaration": "הצהרת הון מפורטת",
+      "conflictOfInterest": "מסמך ניגוד עניינים",
+      "resume": "קורות חיים מלאים"
+    }
+  },
+  "professionalSkills": {
+    "title": "כישורים מקצועיים",
+    "description": "הכישורים הנדרשים למועמדים לתפקידים בכירים",
+    "items": {
+      "education": "השכלה רלוונטית לתפקיד",
+      "experience": "ניסיון מקצועי מוכח",
+      "understanding": "הבנה בתחום האחריות",
+      "management": "כישורי ניהול והובלה"
+    }
+  },
+  "transparencyRequirements": {
+    "title": "דרישות שקיפות",
+    "description": "כל המידע הנדרש לפרסום ולשקיפות מול הציבור",
+    "items": {
+      "publishInfo": "פרסום כל המידע הנדרש לציבור",
+      "accessibility": "נגישות לציבור",
+      "answerQuestions": "מענה לשאלות הציבור",
+      "meetDeadlines": "עמידה בלוחות זמנים"
+    }
+  },
+  "positions": {
+    "primeMinister": "ראש הממשלה",
+    "defenseMinister": "מועמד לשר הביטחון",
+    "financeMinister": "מועמד לשר האוצר",
+    "educationMinister": "מועמד לשר החינוך",
+    "healthMinister": "מועמד לשר הבריאות",
+    "transportationMinister": "מועמד לשר התחבורה",
+    "justiceMinister": "מועמד לשר המשפטים",
+    "housingMinister": "מועמד לשר השיכון והבינוי",
+    "interiorMinister": "מועמד לשר הפנים",
+    "foreignMinister": "מועמד לשר החוץ",
+    "energyMinister": "מועמד לשר האנרגיה",
+    "environmentMinister": "מועמד לשר הגנת הסביבה",
+    "cultureMinister": "מועמד לשר התרבות והספורט",
+    "immigrationMinister": "מועמד לשר העלייה והקליטה",
+    "welfareMinister": "מועמד לשר הרווחה",
+    "agricultureMinister": "מועמד לשר החקלאות",
+    "industryMinister": "מועמד לשר התעשייה והמסחר",
+    "diasporaMinister": "מועמד לשר התפוצות"
+  },
+  "committees": {
+    "knessetCommittee": "מועמד לוועדת הכנסת",
+    "financeCommittee": "מועמד לוועדת הכספים",
+    "economyCommittee": "מועמד לוועדת הכלכלה",
+    "foreignAffairsCommittee": "מועמד לוועדת החוץ והביטחון",
+    "interiorCommittee": "מועמד לוועדת הפנים והגנת הסביבה",
+    "internalSecurityCommittee": "מועמד לוועדת ביטחון הפנים",
+    "infrastructureCommittee": "מועמד לוועדת מיזמי תשתית לאומיים מיוחדים ושירותי דת יהודיים",
+    "constitutionCommittee": "מועמד לוועדת החוקה, חוק ומשפט",
+    "immigrationCommittee": "מועמד לוועדת העלייה, הקליטה והתפוצות",
+    "educationCommittee": "מועמד לוועדת החינוך, התרבות והספורט",
+    "laborCommittee": "מועמד לוועדת העבודה והרווחה",
+    "healthCommittee": "מועמד לוועדת הבריאות",
+    "stateAuditCommittee": "מועמד להוועדה לענייני ביקורת המדינה",
+    "womenCommittee": "מועמד להוועדה לקידום מעמד האישה ולשוויון מגדרי",
+    "scienceCommittee": "מועמד לוועדת המדע והטכנולוגיה"
+  },
+  "districts": {
+    "upperGalilee": "מחוז הגליל העליון והגולן",
+    "lowerGalilee": "מחוז הגליל התחתון והעמקים",
+    "haifa": "מחוז חיפה והכרמל",
+    "sharon": "מחוז השרון והמרכז הצפוני",
+    "gushDan": "מחוז גוש דן והמטרופולין",
+    "bneiBrak": "מחוז בני ברק והסביבה",
+    "westJerusalem": "מחוז ירושלים המערבית",
+    "settlements": "מחוז ירושלים החרדית וההתיישבות ביו",
+    "shfela": "מחוז שפלה ודרום מרכז",
+    "northernNegev": "מחוז הנגב הצפוני והמערבי",
+    "jordanValley": "מחוז בקעת הירדן והמדבר",
+    "southernNegev": "מחוז הנגב הדרומי ואילת"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Frequently Asked Questions",
+    "heading1": "Have Questions?",
+    "heading2": "We Have Answers",
+    "description": "Find answers to the most common questions about the \"Dream Team\" project and the new model for governance in Israel.",
+    "searchPlaceholder": "Search for a question..."
+  },
+  "searchResults": {
+    "title": "Search results for \"{{searchTerm}}\" ({{count}} results)"
+  },
+  "general": {
+    "title": "General About the Project",
+    "q1": {
+      "question": "What is \"The Dream Team\"?",
+      "answer": "\"The Dream Team\" is an innovative project aimed at improving the political system in Israel. The goal is to create a new model of direct democracy where citizens directly elect ministers, independent of political parties."
+    },
+    "q2": {
+      "question": "Who is behind the project?",
+      "answer": "The project is led by a diverse team of experts in state affairs, technology, and society, committed to positive change in Israel's political system."
+    },
+    "q3": {
+      "question": "Is this legal?",
+      "answer": "The project operates within the existing legal framework. The aim is to bring about democratic constitutional change through accepted parliamentary processes."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "If you have further questions or need assistance, please contact our support team.",
+    "cta": {
+      "title": "Get in Touch",
+      "description": "We are here to help. Send us a message and we'll be happy to assist.",
+      "supportButton": "Contact Support",
+      "contactButton": "Contact Us"
+    }
+  }
+}

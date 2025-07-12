@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "tagline": "አዲስ ዲሞክራሲያዊ አብዮት",
+    "headingPart1": "የህልም",
+    "headingPart2": "ቡድን",
+    "description": "ሚኒስትሮችዎን በቀጥታ ይምረጡ። እስራኤልን የሚቀይር መንግስት ይገንቡ።"
+  },
+  "benefits": {
+    "directElection": {
+      "title": "ቀጥተኛ ምርጫ",
+      "description": "ሚኒስትሮችን ያለ ፓርቲዎች በቀጥታ ይምረጡ"
+    },
+    "fullTransparency": {
+      "title": "ሙሉ ግልጽነት",
+      "description": "እያንዳንዱ እጩ ሁሉንም አስፈላጊ መረጃዎች ይፋ ያደርጋል"
+    },
+    "maximumEfficiency": {
+      "title": "ከፍተኛ ቅልጥፍና",
+      "description": "እስከ 18 ሚኒስትሮች ያለው ትንሽ እና ሙያዊ መንግስት"
+    }
+  },
+  "cta": {
+    "buildTeamButton": "የህልም ቡድንዎን ይገንቡ",
+    "learnMoreButton": "ስለ ሞዴሉ የበለጠ ይወቁ"
+  },
+  "stats": {
+    "ministersLabel": "ከፍተኛ ሚኒስትሮች",
+    "districtsLabel": "የምርጫ ወረዳዎች",
+    "matchingQuestionsLabel": "የማዛመጃ ጥያቄዎች",
+    "knessetCommitteesLabel": "የክኔሴት ኮሚቴዎች"
+  }
+}
